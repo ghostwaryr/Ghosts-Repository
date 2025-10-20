@@ -1,0 +1,84 @@
+Name: Paige
+Race: Human
+Profession: Pilot
+
+Primary Attributes
+Attribute 	Score
+Strength		      5
+Dexterity	        9
+Constitution	    6
+Intelligence	    8
+Wisdom		        6
+Charisma	        7
+Comeliness	      9
+Technical Ability	7
+Luck		10
+
+Secondary     Attributes
+[HP]		          12
+[MA]		          6
+[MOVE] Land	      5 kph
+[LIFT]		        Carry 100, Lift 200, Drag 300
+
+Defenses 		            AC 	Armor Value
+Nanotech Bodysuit	      +1	    1
+
+Attack 		              Bonus	    Dmg	    AP	  Type	      Notes
+Laser Pistol	          +13	      6(9)	  0	    Energy	    multi-phased, dual mode, smartlink
+
+Skill 				Ranks 	Attribute 	Modifiers 	Total
+Combat: Unarmed Combat	2	5				+7
+Combat: Personal Armor		1	5				+6
+Combat: Small Arms		3	9				+12
+Combat: Light Arms		2	9				+11
+Combat: Heavy Weapons		1	5				+6
+Combat: Gunnery		5	9		(+3)		+14
+	Jump-Packs		1	9				+10
+	Perception		3	6		+3		+12
+Engineering: Aerospace		4	8				+12
+	Initiative		5	9		+6		+20
+Knowledge: Administration	1	8				+9
+Knowledge: Linguistics		1	8				+9
+Knowledge: Tactics		2	8				+10
+Physical: Acrobatics		2	9				+11
+Physical: Athletics		1	5				+6
+Physical: Stealth			3	9				+12
+Physical: Swimming		1	5				+6
+Pilot: Aerospace			6	9		(+3)		+15(+18)
+Pilot: Ground Craft		3	8		(+3)		+11(+14)
+Pilot: Remote			4	9		(+3)		+13(+17)
+Pilot: Starship			5	9		(+3)		+13(+16)
+Pilot: Walker			3	9		(+3)		+12(+15)
+Science: Medicine (First Aid)	1	8				+9
+Social: Etiquette			2	7				+9
+Social: Fast-Talk			1	7				+8
+Social: Instruction		2	7				+9
+Social: Leadership		1	7				+8
+Social: Seduction			2	7				+8
+Technical: Communications	1	7				+8
+Technical: Computer		1	7				+8
+Technical: ECM			2	7				+9
+Technical: Electronics		3	7				+10
+Technical: Mechanical		1	7				+8
+Technical: Navigation		2	7				+9
+Technical: Security Systems	1	7				+8
+Technical: Sensors		3	7				+10
+	Zero-G Maneuver	3	9				+12
+	Zero-G Combat		2	9				+11
+
+Modifications
+Datajack: Datajacks are cybertechnology implants that allow metahumans to directly access computers and information with their mind. They typically resemble a coin-sized dataport that is implanted either on the side of the head (typically in the temporal region of the skull, behind the ear or on the temple) or the back of the neck (just below the brainstem).
+
+Control Rig (3): This implant harnesses the raw data-coordinating and synchronization power of the middle brain for the express purpose of directly manipulating vehicles and drones (and other devices like turrets).
+
+Attention Coprocessor (3): A cybernetic implant in the frontal cortex and limbic system improves continuous partial attention, helping to keep track of events in the background without losing the foreground. Also improves the sensory cortex to help you glean as much as possible from incoming sensory data.
+
+Smartlink: An implant that links a smartlinked weapon to the users vision, placing a crosshair wherever the weapon is aiming.
+
+Synaptic Accelerators (3): Nanotech that supercharges the synaptic connections in your brain, allowing you to process information faster and send impulses throughout your body more effectively.
+
+Reaction Enhancers (Rating 3): Nanotech that augments parts of the spinal column with superconducting materials that can increase physical reaction time.
+
+Traits:
+
+Abilities:
