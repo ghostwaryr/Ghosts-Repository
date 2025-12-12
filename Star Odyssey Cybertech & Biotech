@@ -1,0 +1,186 @@
+Enhancements
+
+Cybertech: Cybertechnology is a broad term that encompasses a wide range of technologies, all of which include the interface of some sort machine with living creatures. In Star Odyssey the term Cybertech generally means the advanced technology that humans can use to augment themselves. Broadly speaking, Cybertech can fall into one of several categories including Headware,  Bodyware, Cyberlimbs, Vision Enhancements, Hearing Enhancements, and Fashionware.
+   Headware: Headware includes a variety of cybernetic enhancements that interface directly with the brain.
+   Bodyware: Bodyware includes a number of enhancements that enhance the functionality of the human body or interface with the nervous system.
+   Cyberlimbs: Cyberlimbs include artificial limbs such as hands, arms, legs, and feet.
+   Vision Enhancements: Cybernetic vision enhancements can include nanotech that enhances normal vision as well as full cybernetic replacements that greatly expands normal visual capabilities.
+   Hearing Enhancements: Like vision enhancements, hearing enhancements can be small enhancements to the human norm to full on replacements that greatly expands normal human capabilities.
+   Fashionware: Fashioware is a catch-all term that includes a large number of artificial enhancements that are purely for vanity.
+
+HEADWARE
+
+Datajack: Datajacks are direct neural interface implants that allow you to directly access computers and information with your mind. They typically resemble a coin-sized dataport that is implanted either on the side of the head (typically in the temporal region of the skull, behind the ear or on the temple) or the back of the neck (just below the brainstem). It comes with a retractable spool of micro-cable (about a meter long) that lets you directly interface with any electronic device via a universal access cable. Datajacks are equipped with their own cache of storage memory for downloading or saving files. Optionally, Datajacks can be installed to be hidden and use an induction link hidden under the skin, but the response rate of the interface drops by around 15-20%.
+
+Commlink: The implanted version of the commlink.
+
+Control Rig: This implant harnesses the raw data-coordinating and synchronization power of the middle brain for the express purpose of directly manipulating vehicles and drones (and other devices like turrets). When you are linked to a vehicle or drone, the control rig provides a bonus to your piloting skill and the performance of the vehicle.
+
+Attention Coprocessor: A cybernetic implant in the frontal cortex and limbic system improves continuous partial attention, helping to keep track of events in the background without losing the foreground. Also improves the sensory cortex to help you glean as much as possible from incoming sensory data. Add the attention coprocessors tier rating as a bonus to your perception skill. 
+
+Olfactory Booster: This cyberware enhances, identifies, and records smells. You can smell people’s emotions in their sweat (and if applicable, the maker’s mark of their tailored pheromones), traces of ammunition propellant, explosives, or biological and chemical warfare compounds—the list goes on and on. A cut-off function allows you to completely ignore intense odors. Add the booster’s tier rating as a bonus to any Perception Test involving scent.
+
+Taste Booster: The taste booster performs the same function as the olfactory booster, except that it enhances your taste buds. Apply the taste booster’s tier rating as a bonus to any Perception Test involving taste.
+
+Skilljack: The skilljack is a piece of cyberware that allows your to upload and access knowledge based skills as if they were your own.
+
+Ultrasound Sensor: When active the ultrasound sensor replaces your normal vision. It can be switched between active sonar, passive sonar, and off with a Free Action.
+
+Voice Modulator: This implant gives you perfect pitch and enormous vocal flexibility and distortion capabilities. You can speak with an increased volume (up to 100 decibels) without strain, shift your pitch to make perfect bird calls or mellifluous singing, and most importantly, uncanny vocal impressions. You gain a bonus to your [Performance: Singing] and [Impsersonation] skills equal to its tier rating.
+
+Math SPU: The math SPU allows you to quickly perform any and all mathematical functions, while most of the benefits of the math spu are purely for convenience, you also gain a bonus equal to its tier rating to your [Electronics: Electronic Warfare] skill.
+
+
+BODYWARE
+
+Bone Lacing: Your bones are laced with lattice chains of reinforcing plastics or metals, improving their integrity and tensile strength. Bone lacing comes in one of several types depending on the tier rating: 
+(1) Plastic: +1 Constitution, +1 Armor vs bludgeoning damage 
+(2) Aluminum: +1 Constitution, +2 Armor vs bludgeoning damage
+(3) Ceramic: +2 Constitution, +3 Armor vs bludgeoning damage
+(4) Titanium: +2 Constitution, +4 Armor vs bludgeoning damage
+(5) Tungsten: +3 Constitution, +5 Armor vs bludgeoning damage
+Bone lacing is incompatible with other augmentations that add to or alter your bones (such as bone density augmentation).
+
+Dermal Plating: Hard plastic and ceramic fiber plates are bonded to the user’s skin. The plates are clearly visible, and are even more obvious to the touch, but they can be cosmetically stylized for color and surface texture. Dermal plating gives you bonus Armor equal to its tier Rating. Dermal plating cannot be combined with other augmentations to the skin that provide armor, including orthoskin.
+
+Muscle Replacement: Vat-grown synthetic muscles replace or augment your own, and calcium treatments and skeletal reinforcement contribute to your overall strength. It increases both your Strength and Dexterity attributes by its tier rating. It cannot be combined with other augmentations to the muscles, including muscle augmentation or muscle toner bioware.
+
+Reaction Enhancers: Nanotech that augments parts of the spinal column with superconducting materials that can increase physical reaction time. Add the tier rating of reaction enhancers as a bonus to your [Initiative] skill. Reaction enhancers are incompatible with all other body enhancements to your [Initiative] skill, including wired reflexes.
+
+Skillwires: Skillwires are a system of neuromuscular controllers that overlie the body’s natural nervous system; they are capable of aiding or completely overriding muscular movement, controlled by the “muscle memory” played through a skilljack. This system allows you to upload physical skills with a rating up to your either your Skillwire tier rating or your Skilljack tier rating, whichever is lower. Skillwires are incompatible with reflex recorder bioware.
+
+Wired Reflexes: This highly invasive and painful enhancement adds a multitude of neural boosters and adrenaline stimulators in strategic locations throughout your body. The combined effect can make you almost superhumanly fast and agile.
+(1) +1 Dexterity, +2 bonus to Initiative
+(2) +2 Dexterity, +4 bonus to Initiative
+(3) +3 Dexterity, +6 bonus to Initiative
+(4) +4 Dexterity, +8 bonus to Initiative
+(5) +5 Dexterity, +10 bonus to Initiative
+Wired reflexes are incompatible with augmentations that affect Dexterity or [Initiative].
+
+Move-by-Wire: The Move-by-Wire enhancement takes Wired Reflexes to the next level by replacing your entire nervous system and by channeling body control through an implanted computer. While highly potent this technology has extreme drawbacks, such as suffering from constant controlled seizures and severe long-term health risks.
+(3) 11 Dexterity, +11 bonus to Initiative
+(4) 13 Dexterity, +13 bonus to Initiative
+(5) 15 Dexterity, +15 bonus to Initiative
+
+Biomonitor: An implant that provides a constant monitoring of vital signs (pulse, temp, blood sugar). 
+
+Auto-injector: A cybernetic auto-injector is an implant that can produce a number of drugs equal to the auto-injector tier rating, which will be automatically released into your body when needed. After a drug has been used by the auto-injector it takes time for the nanite factory to produce another dose.
+
+Gastric Neurostimulator: This augmentation gives you total immunity to nausea and disorientation effects.
+
+Oxsys Cybergill: The OXSYS cybergill draws in water and filters out oxygen through forced osmosis, allowing users to breathe underwater. Carbon dioxide and water gases are absorbed
+into the water through reverse osmosis and expelled. The oxygen is delivered via solution directly into the bloodstream, averting the danger of oxygen toxicity. The gills are implanted on both sides of the neck adjacent to the thyroid gland. Divers using cybergills are immune to oxygen toxicity, but they remain vulnerable to nitrogen narcosis and decompression sickness from the residual amount of nitrogen. Cybergills allow a user to stay underwater for a number of hours equal to twice the tier rating.
+
+Smart Articulation: This augmentation modifyes the body’s skeletal joints, replacing connective tissue with high-tensile smart materials, neural contact maps, and shock-gel sacs. The resulting combination allows the recipient to set his or her own skeletal rigidity. You can add the tier rating of your Smart Articulation as a bonus to certain skills.
+
+
+VISION ENHANCEMENTS
+
+Cybereyes: The basic cybereyes system features 20/20 vision for both eyes, an image link, and a built-in camera at no extra cost, as well as capacity for vision enhancements. Each tier rating of cybereyes allows one additional upgrade, and increases the difficulty of someone spotting them.
+
+Image Link (Standard Upgrade):This enhancement lets you display visual information (text, pictures, movies, the current time, etc.) in your field of vision.
+
+Flare Compensation (Upgrade): An implanted version of the flare compensation enhancement. This protects you from blinding flashes of light as well as simple glare. It mitigates the vision modifiers for glare and reduces the penalty from flashing lights, like from a flash-pak.
+
+Low-Light Vision (Upgrade): An implanted version of the low-light vision enhancement. This accessory allows you to see normally in light levels as low as starlight. It doesn’t help in total darkness, though.
+
+Retinal Duplication (Upgrade): This highly illegal modification can be loaded with a recording of someone else’s retina to create an almost perfect reproduction.
+
+Smartlink (Upgrade): This modification allows information and targeting enhancements from a smartlink equipped weapon to show in the users vision, much like a built-in HUD.
+
+Thermographic Vison (Upgrade): This enhancement enables vision in the infrared spectrum, enabling you to see heat patterns. It’s a very practical way to spot living beings in areas of total darkness, to check if a motor or machine has been running lately, and so on.
+
+Vison Enhancement (Upgrade): This sharpens a character’s vision at all ranges, providing visual acuity closer to that of the average hawk. Each tier rating of this modification increases adds a bonus to any Perception Test involving vision.
+
+Vison Magnification (Upgrade): This zoom function digitally magnifies vision by up to fifty times, allowing distant targets to be seen clearly. Each tier rating of this modification increases vision magnification by 10%.
+
+
+HEARING ENHANCEMENTS
+
+Cyberears: Ordinarily, cyberears replace only the inner ear, although the whole thing can be replaced as well if you like. Cyberears offer hearing with normal ranges (like an omni-directional microphone), a sound link, and Capacity for modifications and enhancements.
+
+Sound Link (Standard Upgrade): The sound link can play audio (recordings, movie soundtracks, music, etc.) from linked sources within the user’s PAN (or headware memory, or datajack) directly into the user’s cyberears.
+
+Audio Enhancement: Audio enhancement allows the user to hear a broader spectrum of audio frequencies, including high and low frequencies outside the normal metahuman audible spectrum. The user also experiences fine discrimination of nuances and can block out distracting background noise. Audio enhancement adds a bonus  equal to its tier rating to your hearing related Perception.
+
+Balance Augmenter: The balance augmenter enhances the inner ear’s natural balance mechanism. The user receives a bonus to acrobatics & athletics checks involving balance, such as climbing, walking across a narrow platform, landing after a jump, and so on.
+
+Sound Damper: This implant protects the user from sudden increases in sound as well as damaging sound levels.
+
+Select Sound Filter: This lets you block out background noise and focus on specific sounds or patterns of sounds. It even includes speech, word, and sound pattern recognition. Each tier rating lets you select a single sound group (such as the footsteps of a patrolling guard or the rotors of a distant helicopter) and focus on it. 
+
+Spatial Recognizer: This hearing accessory pinpoints the source of a sound. 
+
+
+FASHIONWARE
+
+Biomonitor: A favorite of soldiers and corporate types, this is an under-skin display mounted on the forearm. It provides a real-time readout of common body functions like heart rate, blood pressure, blood chemistry, brainwave activity, temperature, cholesterol levels and a number of other bodily functions.
+
+Light Tattoos: Light tattoos are quite common. They appear identical to normal tattoos, except that they use chemicals that can emit light. They do not require batteries. Energy is absorbed from ambient light during the day and re-emitted at night. Just as with conventional tattoos, the quality varies greatly. Some are basic shapes and some are very intricate and detailed.
+
+ChemSkins: These are dyes that can be rubbed into the skin, like body paint. They can change the skin color to any human shade, or more exotic shades and patterns. Want your skin to look like a Leopard? Or a Crocodile? The patterns can be very vibrant and detailed. The patterns can even react to ambient temperature or your moods. Chemskins can be temporary, long-term, or permanent depending on the variety.
+
+Synthskins: These are an upgrade from Chemskins. They are actually embedded into the real skin and contain a display layer that can emit light and patterns. Synthskins can display a number of special effects.
+
+Techhair: Artificial hair with properties similar to synthskin. Tech hair can be any color, can emit light like light tattoos, or change tension (so you could make it stand straight up when you are angry, for example). It can completely replace your real hair or be added to real hair (like a weave).
+
+Subdermal Viewscreen: This is a marquee style display, otherwise similar to a biomonitor screen.
+
+Turn-On Nails: Fake nails with properties similar to synthskin.
+
+
+BIOTECH
+
+Adrenaline Pump: This enhanced gland is implanted in the lower abdomen, connected to both supradrenal glands. When dormant, the pump is merely a reservoir for adrenaline. When activated, a small muscular sac contracts, sending a surge of concentrated adrenaline into the blood stream. While active you can add the Adrenaline Pumps tier rating as a bonus to your Strength, Dexterity, and Constitution. After the effects have worn off, you suffer from extreme lethargy and possible unconciousnesss.
+
+Bone Density Augmentation: The molecular structure of your bones is altered to increase density and tensile strength. Ligaments are strengthened, and the increased bone density increases your weight a bit. Bone density augmentation is incompatible with other augmentations to the bones, including bone lacing cyberware.
+
+Cat’s Eye: These transgenic vat-grown implants are very literally cats’ eyes with a modified DNA profile and occipital connecting structures. The structure of cat’s eyes amplifies light and enhances night vision, providing lowlight vision. Cat’s eyes are slit and reflective, just like, well, a cat’s. This augmentation is incompatible with cyberware eye enhancements or replacements.
+
+Enhanced Articulation: A number of procedures like joint-surface coating, re-lubrication, and tendon and ligament augmentation lead to more fluid muscle and joint action. 
+
+Muscle Augmentation: This biological weaving treatment enhances existing muscle tissue, rather than replacing it with vat-grown muscles. Specially grown muscle cables are woven into existing muscle fibers, enhancing muscle mass and brute strength while providing a bulkier look. Muscle augmentation adds a bonus to your strength equal to its tier rating. This augmentation is incompatible with augmentations that increase Strength, including the muscle replacements cyberware.
+
+Muscle Toner: This treatment increases muscle fiber elasticity in existing muscle tension, resulting in increased muscle tension and flexibility while providing a smooth and ropy physique. Muscle toner adds a bonus to your Dexterity equal to its tier rating. This augmentation is incompatible with augmentations that increase Dexterity, including the muscle replacements cyberware.
+
+Orthoskin: Orthoskin weaves an energy-diffusing material just beneath the skin that provides the equivalent of personal armor. The individual's skin is peeled back section by section, and the body's dermal layer is fortified by grafts of synthagen (a strengthened and reinforced collagen-protein derivative), flextin (a synthetic and more resilient form of the elastin protein) and flakes of modified and laced cartilage. Once transplanted, Orthoskin grows like normal skin and is virtually indistinguishable from unaugmented skin, as the underlying subdermis is altered at the same time. Orthoskin usually heals with little or no scarring. However, characters with Orthoskin lose some degree of sensitivity of touch because of the increased density of the dermis. Orthoskin adds a bonus to your Armor equal to its tier rating, and is cumulative with other Armor. Orthoskin cannot be combined with skin augmentations that give you Armor, including dermal plating.
+
+Pathogenic Defense: The Pathogenic Defense augmentation involves an enhancement of the spleen, spearheading the production of more effective and aggressive leukocytes, or white blood cells. These cells re then released into the bloodstream and lymphatic system to combat disease and infection.
+
+Platelet Factories: Platelet factories increase your body’s ability to handle Physical damage by accelerating the production of platelets within bone marrow and their concentration in the blood, which helps stop bleeding faster.
+
+Suprathyroid Gland: Placed on top of your existing thyroid gland, the suprathyroid gland supersedes the metabolic functions of your thyroid. The enhanced metabolism produces more energy, supercharging you. While you’re supercharged, you might want to supersize—to fuel your optimized metabolism, you’ll need to eat twice as much as normal. You get a +1 bonus to your Strength, Dexterity, and Constitution.
+
+Symbiotes: Symbiotes consist of a number of tailored microorganisms that are introduced into the host's bloodstream. They dramatically enhance the body's regenerative functions, reducing the host's natural healing time. To fuel the symbiote activity, the character must increase his food and drink consumption.
+
+Synthacardium: Artificially enhanced myocardium allows cardiovascular functions to be performed more efficiently, enabling the heart to keep the blood better oxygenated. The synthacardium adds a bonus equal to its tier rating to all skills in the Athletics skill group.
+
+Tailored Pheromones: These pheromones are specially tailored to subtly influence others and can be released at will. Tailored pheromones adds a bonus equal to its tier rating to all skills in the Acting and Influence skill groups, but only when the person you’re using them on is within a comfortable conversation range and able to smell you. 
+
+Toxin Extractor: The liver is the body's main organ for catabolism, or the breakdown of complex substances. As such, it is the first line of defense against potentially toxic compounds and drugs. The Toxin Extractor is a specially cultivated cluster of cells implanted in the liver to greatly improve the efficiency and to expand the spectrum of catabolic activity. Potential toxins that make their way into the bloodstream are filtered out in the liver, and with the aid of the extractor they are broken down into harmless fragments and then expelled.
+
+Tracheal Filter: When this is installed, traps and filters are implanted at the top of the trachea, just below the larynx. This cluster of specialized tissue absorbs airborne impurities and keeps them from reaching the lungs. Smoke, pollen and dust are easily blocked and expelled with an outgoing breath. Gaseous compounds are rendered inert or less effective through the various chemical reactions performed by the filters. Bacterial-sized impurities are not stopped by Tracheal Filters.
+
+Cerebral Booster: The convolutions and gyri of your cerebrum are augmented and amplified with additional nervous tissue, improving overall brain function. The cerebral booster adds its tier rating to your Intelligence. 
+
+Damage Compensators: Damage compensators are essentially cut-offs stored in the nervous pathways that report pain from the body back to your brain.
+
+Mnemonic Enhancer: This highly concentrated growth of grey matter gets attached to the brain’s memory centers, improving both short-term and long-term memory.
+
+Pain Editor: This cluster of specialized nervous tissue is designed to filter sensory stimuli. If the pain editor is active, this allows you to ignore all injury modifiers, and you even stay conscious when you would otherwise be knocked out.
+
+Sleep Regulator: The sleep regulator is a modification to the hypothalamus, allowing for longer periods of wakefulness, an incredibly useful advantage for anyone with any profession. You need less sleep per day and the sleep you get is deep and restful (and harder to wake you up from). The sleep regulator lets you get by with three hours of sleep each night and stay awake for twice as long as normal before having to resist sleep deprivation fatigue.
+
+Synaptic Booster: The nerve cells making up the spinal cord are both broadened and replicated with this bioware, allowing for more neural bandwidth. The result is a much faster reaction time. The booster confers a bonus equal to its tier rating to your Initiative. The synaptic booster cannot be combined with any other form of Initiative enhancement.
+
+Boosted Reflexes: This electrochemical treatment increases the body’s natural reflexes. While not as powerful as wired reflexes, boosted reflexes have no significant side effects like involuntary muscle twitching. Boosted reflexes are incompatible with augmentations that affect Dexterity or Initiative.
+(3) +1 Dexterity, +2 bonus to Initiative
+(4) +2 Dexterity, +4 bonus to Initiative
+(5) +3 Dexterity, +6 bonus to Initiative
+
+Nictitating Membranes: This process stimulates the growth of a clear protective membrane covering the eyes, similar to that possessed by many animals. This "inner eyelid" protects the eyes, keeping out sand, grit, smoke and other irritants. This eye protection eases underwater activities. The membranes are light sensitive and become tinted under bright light. Further, they are polarized to reduce glare.
+
+Nephritic Screen: With the installation of a Nephritic Screen, the kidney is rebuilt to improve filtration and reclamation. Finer discrimination in the removal of waste products and the reclamation of useful materials causes a greater level of well-being.
+
+Extended Lung Volume: An average adult's lungs contain approximately 2.5 liters of air. However, the actual tidal volume — the amount of air that enters and leaves the lungs with each breath — is only .5 liters. By augmenting the amount of flex in the diaphragm, it is possible to increase the tidal volume, thus increasing the efficiency of gas exchange and enhancing stamina. Each tier rating of Extended Lung Volume coubles the amount of time you can hold your breath.
+
