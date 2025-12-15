@@ -12,13 +12,13 @@ Wisdom          7
 Charisma        8
 Comeliness      9
 Technical       5
-Luck		6
+Luck		       6
 
 Secondary Attributes
 [HP]		14
 [MA]		6
-[MOVE] Land	5 kph
-[LIFT]		Carry 200, Lift 400, Drag 600
+[MOVE]   Land	5 kph
+[LIFT]	Carry 200, Lift 400, Drag 600
 
 Defenses                AC   Armor Value
 Nanotech Bodysuit       +1   1
