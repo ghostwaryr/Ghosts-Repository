@@ -1,0 +1,197 @@
+Name: Anna
+Race: Human Female
+Profession: Eurocorp Corporate Representative
+
+Primary Attributes
+Attribute       Score
+Strength        5(9)
+Dexterity       6(10)
+Constitution    5(7)
+Intelligence    7(12)
+Wisdom          7
+Charisma        8
+Comeliness      9
+Technical       5
+Luck		6
+
+Secondary Attributes
+[HP]		14
+[MA]		6
+[MOVE] Land	5 kph
+[LIFT]		Carry 200, Lift 400, Drag 600
+
+Defenses                AC   Armor Value
+Nanotech Bodysuit       +1   1
+
+Attack         Bonus  Dmg   AP  Type    Notes
+Laser Pistol   +12    6(9)  0   Energy	multi-phased, dual mode, smartlink
+
+Skill                         Score  Attribute  Modifiers  Total
+Initiative                      2    10         4           16
+Combat, Physical Skills
+   Unarmed Combat               1    9          2           12
+   Personal Armor               1    9          -           10
+   Melee Combat                 0    9          -           0
+   Thrown Weapons               0    9          -           0
+   Projectiles                  0    10         -           0
+Combat, Ranged Skills
+   Small Arms                   1    10         -           11
+   Light Arms                   0    10         -           0
+   Heavy Weapons                0    10         -           0
+   Gunnery                      0    10         -           0
+   Artillery                    0    10         -           0
+Engineering Skills
+   Civil                        0    12         -           0
+   Mechanical                   0    12         -           0
+   Electrical                   0    12         -           0
+   Chemical                     0    12         -           0
+   Industrial                   0    12         -           0
+Entertainment Skills
+   Oratory                      3    8          -           11
+   Performance (Pick One)       3    8          -           10
+   Personal Grooming            4    8          -           12
+   Play Instrument (Pick One)   3    8          -           11
+   Wardrobe & Style             4    8          -           12
+Physical Skills
+   Acrobatics                   2    10         -           12
+   Athletics                    1    9          -           10
+   Running                      1    10         -           11
+   Swimming                     1    9          -           10
+   Endurance                    1    7          -           8
+Observation Skills
+   Insight                      4    7          4           15
+   Interrogation                3    8          5           16
+   Investigation                3    12         4           19
+   Lip Reading                  3    7          -           10
+   Perception                   3    7          4           14
+Outdoor Skills
+   Nature                       0    12         -           0
+   Navigation/Orienteering      0    7          -           0
+   Rope Use                     0    7          -           0
+   Survival                     0    7          -           0
+   Tracking                     0    7          4           0
+Piloting Skills
+  Aerospace                     0    10         -           0
+  Ground Craft                  0    10         -           0
+  Remote                        0    10         -           0
+  Starship                      0    10         -           0
+  Walker                        0    10         -           0
+Sciences, Life Skills
+   Biology                      1    12         -           13
+   Zoology                      0    12         -           0
+   Botany                       0    12         -           0
+   Ecology                      0    12         -           0
+   Biotechnology                0    12         -           0
+Sciences, Physical Skills
+   Geology                      0    12         -           0
+   Astronomy                    0    12         -           0
+   Chemistry                    0    12         -           0
+   Physics                      0    12         -           0
+   Planetology                  0    12         -           0
+Social Skills
+   Etiquette/Social             4    8          5           17
+   Deception                    3    8          5           16
+   Intimidate                   3    8          5           16
+   Persuasion                   3    8          5           16
+   Seduction                    3    8          5           16
+Stealth Skills
+   Disguise                     0    8          -           0
+   Impersonation                0    8          -           0
+   Lock Picking                 0    10         -           0
+   Palming                      0    10         -           0
+   Sneak                        1    10         -           11
+Tech, Commercial Skills
+   Electronics                  1    5          5           11
+   Computers                    1    5          5           11
+   Weaponry                     0    5          5           0
+   Robotics                     0    5          5           0
+   Cybernetics                  0    5          5           0
+Tech, Industrial Skills
+   Mechanics                    0    5          5           0
+   Construction                 0    5          5           0
+   Environmental                0    5          5           0
+   Propulsion                   0    5          5           0
+   Power                        0    5          5           0
+Trade Skills
+   Accounting                   2    12         4           18
+   Appraise                     2    12         4           18
+   Business Sense               2    12         -           14
+   Haggle                       2    8          -           10
+   Social Networking            4    8          -           12
+Underworld Skills
+   Bribery                      0    8          -           0
+   Escape Artist                0    10         -           0
+   Forgery                      0    12         -           0
+   Gambling                     0    6          -           0
+   Streetwise                   0    8          -           0
+Knowledge: 
+  Administration                0    12         4           0
+  Economics                     0    12         4           0
+  Linguistics                   0    12         4           0
+  Law                           0    12         4           0
+
+
+Modifications:
+
+Datajack (Tier 5): Datajacks are direct neural interface implants that allow you to directly access computers and information with your mind. They typically resemble a coin-sized dataport that is implanted either on the side of the head (typically in the temporal region of the skull, behind the ear or on the temple) or the back of the neck (just below the brainstem). It comes with a retractable spool of micro-cable (about a meter long) that lets you directly interface with any electronic device via a universal access cable. Datajacks are equipped with their own cache of storage memory for downloading or saving files. Optionally, Datajacks can be installed to be hidden and use an induction link hidden under the skin, but the response rate of the interface drops by around 15-20%.
+
+Commlink (Tier 5): The implanted version of the commlink.
+
+Attention Coprocessor (Tier 4): A cybernetic implant in the frontal cortex and limbic system improves continuous partial attention, helping to keep track of events in the background without losing the foreground. Also improves the sensory cortex to help you glean as much as possible from incoming sensory data. Add the attention coprocessors tier rating as a bonus to your perception skill.
+
+Encephalon (Tier 5): This expert-system microprocessor is hardwired directly into the user's cortex, augmenting its user's information-processing abilities allowing and for faster and better handling of complex data. Add the Encephalon tier rating to all Tech skills.
+
+Olfactory Booster (Tier 4): This cyberware enhances, identifies, and records smells. You can smell people’s emotions in their sweat (and if applicable, the maker’s mark of their tailored pheromones), traces of ammunition propellant, explosives, or biological and chemical warfare compounds—the list goes on and on. A cut-off function allows you to completely ignore intense odors. Add the booster’s tier rating as a bonus to any Perception Test involving scent.
+
+Taste Booster (Tier 4): The taste booster performs the same function as the olfactory booster, except that it enhances your taste buds. Apply the taste booster’s tier rating as a bonus to any Perception Test involving taste.
+
+Skilljack (Tier 5): The skilljack is a piece of cyberware that allows your to upload and access knowledge based skills as if they were your own.
+
+Math SPU (Tier 4): The math SPU allows you to quickly perform any and all mathematical functions, while most of the benefits of the math spu are purely for convenience, you also gain a bonus equal to its tier rating to your Tech: Electronics (Electronic Warfare] skill.
+
+Bone Lacing (Tier 4): Your bones are laced with lattice chains of reinforcing plastics or metals, improving their integrity and tensile strength. Bone lacing comes in one of several types depending on the tier rating: 
+(4) Titanium: +2 Constitution, +4 Armor vs bludgeoning damage
+
+Muscle Replacement (Tier 4): Vat-grown synthetic muscles replace or augment your own, and calcium treatments and skeletal reinforcement contribute to your overall strength. It increases both your Strength and Dexterity attributes by its tier rating. It cannot be combined with other augmentations to the muscles, including muscle augmentation or muscle toner bioware.
+
+Skillwires (Tier 5): Skillwires are a system of neuromuscular controllers that overlie the body’s natural nervous system; they are capable of aiding or completely overriding muscular movement, controlled by the “muscle memory” played through a skilljack. This system allows you to upload physical skills with a rating up to your either your Skillwire tier rating or your Skilljack tier rating, whichever is lower. Skillwires are incompatible with reflex recorder bioware.
+
+Reaction Enhancers (Tier 4): Nanotech that augments parts of the spinal column with superconducting materials that can increase physical reaction time. Add the tier rating of reaction enhancers as a bonus to your [Initiative] skill. Reaction enhancers are incompatible with all other body enhancements to your [Initiative] skill, including wired reflexes.
+
+Biomonitor (Tier 5): An implant that provides a constant monitoring of vital signs (pulse, temp, blood sugar). 
+
+Gastric Neurostimulator (Tier 4): This augmentation gives you total immunity to nausea and disorientation effects.
+
+Image Link (Tier 4):This enhancement lets you display visual information (text, pictures, movies, the current time, etc.) in your field of vision.
+
+Smartlink (Tier 4): This modification allows information and targeting enhancements from a smartlink equipped weapon to show in the users vision, much like a built-in HUD.
+
+Vison Enhancement (Tier 4): This sharpens a character’s vision at all ranges, providing visual acuity closer to that of the average hawk. Each tier rating of this modification increases adds a bonus to any Perception Test involving vision.
+
+Sound Link (Tier 4): The sound link can play audio (recordings, movie soundtracks, music, etc.) from linked sources within the user’s PAN (or headware memory, or datajack) directly into the user’s cyberears.
+
+Audio Enhancement (Tier 4): Audio enhancement allows the user to hear a broader spectrum of audio frequencies, including high and low frequencies outside the normal metahuman audible spectrum. The user also experiences fine discrimination of nuances and can block out distracting background noise. Audio enhancement adds a bonus  equal to its tier rating to your hearing related Perception.
+
+Select Sound Filter (Tier 4): This lets you block out background noise and focus on specific sounds or patterns of sounds. It even includes speech, word, and sound pattern recognition. Each tier rating lets you select a single sound group (such as the footsteps of a patrolling guard or the rotors of a distant helicopter) and focus on it. 
+
+TechNails (Tier 4): Synthetic fingernails that can change their color and appearance.
+
+Pathogenic Defense (Tier 3): The Pathogenic Defense augmentation involves an enhancement of the spleen, spearheading the production of more effective and aggressive leukocytes, or white blood cells. These cells are then released into the bloodstream and lymphatic system to combat disease and infection.
+
+Symbiotes (Tier 3): Symbiotes consist of a number of tailored microorganisms that are introduced into the host's bloodstream. They dramatically enhance the body's regenerative functions, reducing the host's natural healing time. To fuel the symbiote activity, the character must increase his food and drink consumption.
+
+Tailored Pheromones (Tier 5): These pheromones are specially tailored to subtly influence others and can be released at will. Tailored pheromones adds a bonus equal to its tier rating to all skills in the Acting and Influence skill groups, but only when the person you’re using them on is within a comfortable conversation range and able to smell you. 
+
+Toxin Extractor (Tier 3): The liver is the body's main organ for catabolism, or the breakdown of complex substances. As such, it is the first line of defense against potentially toxic compounds and drugs. The Toxin Extractor is a specially cultivated cluster of cells implanted in the liver to greatly improve the efficiency and to expand the spectrum of catabolic activity. Potential toxins that make their way into the bloodstream are filtered out in the liver, and with the aid of the extractor they are broken down into harmless fragments and then expelled.
+
+Tracheal Filter (Tier 3): When this is installed, traps and filters are implanted at the top of the trachea, just below the larynx. This cluster of specialized tissue absorbs airborne impurities and keeps them from reaching the lungs. Smoke, pollen and dust are easily blocked and expelled with an outgoing breath. Gaseous compounds are rendered inert or less effective through the various chemical reactions performed by the filters. Bacterial-sized impurities are not stopped by Tracheal Filters.
+
+Cerebral Booster (Tier 5): The convolutions and gyri of your cerebrum are augmented and amplified with additional nervous tissue, improving overall brain function. The cerebral booster adds its tier rating to your Intelligence. 
+
+Mnemonic Enhancer (Tier 4): This highly concentrated growth of grey matter gets attached to the brain’s memory centers, improving both short-term and long-term memory.
+
+Sleep Regulator (Tier 3): The sleep regulator is a modification to the hypothalamus, allowing for longer periods of wakefulness, an incredibly useful advantage for anyone with any profession. You need less sleep per day and the sleep you get is deep and restful (and harder to wake you up from). The sleep regulator lets you get by with three hours of sleep each night and stay awake for twice as long as normal before having to resist sleep deprivation fatigue.
+
+Nictitating Membranes (Tier 3): This process stimulates the growth of a clear protective membrane covering the eyes, similar to that possessed by many animals. This "inner eyelid" protects the eyes, keeping out sand, grit, smoke and other irritants. This eye protection eases underwater activities. The membranes are light sensitive and become tinted under bright light. Further, they are polarized to reduce glare.
+
+Nephritic Screen (Tier 3): With the installation of a Nephritic Screen, the kidney is rebuilt to improve filtration and reclamation. Finer discrimination in the removal of waste products and the reclamation of useful materials causes a greater level of well-being.
