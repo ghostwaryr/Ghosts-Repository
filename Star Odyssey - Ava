@@ -1,0 +1,183 @@
+Name: Ava
+Race: Human Futanari
+Profession: Chief Engineer
+
+Primary Attributes
+Attribute       Score
+Strength        6
+Dexterity       7
+Constitution    6
+Intelligence    9(12)
+Wisdom          6
+Charisma        6
+Comeliness      9
+Technical       9(13)
+Luck		6
+
+Secondary Attributes
+[HP]		12
+[MA]		6
+[MOVE] Land	5 kph
+[LIFT]		Carry 125, Lift 250, Drag 375
+
+Defenses                AC   Armor Value
+Nanotech Bodysuit       +1   1
+
+Attack 		Bonus  Dmg   AP  Type    Notes
+Laser Pistol	+9     6(9)  0   Energy  multi-phased, dual mode, smartlink
+
+Skill                         Score  Attribute  Modifiers  Total
+Initiative                      1    7          -          8
+Combat, Physical Skills
+   Unarmed Combat               0    6          -3         3
+   Personal Armor               0    7          -3         4
+   Melee Combat                 0    6          -3         3
+   Thrown Weapons               0    7          -3         4
+   Projectiles                  0    7          -3         4
+Combat, Ranged Skills
+   Small Arms                   1    7          -          8
+   Light Arms                   0    7          -3         4
+   Heavy Weapons                0    7          -3         4
+   Gunnery                      0    7          -3         4
+   Artillery                    -    -          -          -
+Engineering Skills
+   Civil                        2    12         -          14
+   Mechanical                   5    12         -          17
+   Electrical                   3    12         -          15
+   Chemical                     3    12         -          15
+   Industrial                   6    12         -          18
+Entertainment Skills
+   Oratory                      0    6          -3         3
+   Performance (Pick One)       0    6          -3         3
+   Personal Grooming            1    9          -          10
+   Play Instrument (Pick One)   0    6          -3         3
+   Wardrobe & Style             1    9          -          10
+Physical Skills
+   Acrobatics                   2    7          -          9
+   Athletics                    1    6          -          7
+   Running                      0    7          -3         4
+   Swimming                     1    6          -          7
+   Endurance                    0    6          -3         3
+Observation Skills
+   Insight                      2    6          -          8
+   Interrogation                2    6          -          8
+   Investigation                3    12         -          15
+   Lip Reading                  2    6          -          8
+   Perception                   2    6          -          8
+Outdoor Skills
+   Nature                       0    -          -          -
+   Navigation/Orienteering      0    -          -          -
+   Rope Use                     0    -          -          -
+   Survival                     0    -          -          -
+   Tracking                     0    -          -          -
+Piloting Skills
+  Aerospace                     1    7          -          8
+  Ground Craft                  1    7          -          8
+  Remote                        1    7          -          8
+  Starship                      1    7          -          8
+  Walker                        0    7          -3         4
+Sciences, Life Skills
+   Biology                      1    12         -          13
+   Zoology                      1    12         -          13
+   Botany                       1    12         -          13
+   Ecology                      1    12         -          13
+   Biotechnology                1    12         -          13
+Sciences, Physical Skills
+   Geology                      1    12         -          13
+   Astronomy                    1    12         -          13
+   Chemistry                    3    12         -          15
+   Physics                      3    12         -          15
+   Planetology                  1    12         -          13
+Social Skills
+   Etiquette/Social             1    6          -          7
+   Deception                    1    6          -          7
+   Intimidate                   1    6          -          7
+   Persuasion                   1    6          -          7
+   Seduction                    1    6          +6         13
+Stealth Skills
+   Disguise                     0    6          -3         4
+   Impersonation                0    6          -3         4
+   Lock Picking                 0    7          -3         4
+   Palming                      0    7          -3         4
+   Sneak                        1    7          -          8
+Tech, Commercial Skills
+   Electronics                  2    13         -          15
+   Computers                    2    13         -          15
+   Weaponry                     2    13         -          15
+   Robotics                     2    13         -          15
+   Cybernetics                  2    13         -          15
+Tech, Industrial Skills
+   Mechanics                    4    13         -          17
+   Construction                 3    13         -          16
+   Environmental                2    13         -          15
+   Propulsion                   6    13         -          19
+   Power                        5    13         -          18
+Trade Skills
+   Accounting                   0    -          -          -
+   Appraise                     0    -          -          -
+   Business Sense               0    -          -          -
+   Haggle                       0    -          -          -
+   Social Networking            1    6          -          7
+Underworld Skills
+   Bribery                      0    -          -          -
+   Escape Artist                0    -          -          -
+   Forgery                      0    -          -          -
+   Gambling                     0    -          -          -
+   Streetwise                   0    -          -          -
+Knowledge: 
+  Engineering Principles        7    12         +3         22
+  FTL Theory                    6    12         +3         21
+  Advanced Mathematics          5    12         +3         20
+  Materials Science             4    12         +3         19
+
+
+
+Modifications:
+
+Datajack (Tier 4): Datajacks are direct neural interface implants that allow you to directly access computers and information with your mind. They typically resemble a coin-sized dataport that is implanted either on the side of the head (typically in the temporal region of the skull, behind the ear or on the temple) or the back of the neck (just below the brainstem). It comes with a retractable spool of micro-cable (about a meter long) that lets you directly interface with any electronic device via a universal access cable. Datajacks are equipped with their own cache of storage memory for downloading or saving files. Optionally, Datajacks can be installed to be hidden and use an induction link hidden under the skin, but the response rate of the interface drops by around 15-20%.
+
+Encephalon (Tier 4): This expert-system microprocessor is hardwired directly into the user's cortex, augmenting its user's information-processing abilities allowing and for faster and better handling of complex data. Add the Encephalon tier rating to all Tech skills.
+
+Math SPU (Tier 4): The math SPU allows you to quickly perform any and all mathematical functions, while most of the benefits of the math spu are purely for convenience, you also gain a bonus equal to its tier rating to your Tech: Electronics (Electronic Warfare) skill.
+
+Biomonitor (Tier 4): An implant that provides a constant monitoring of vital signs (pulse, temp, blood sugar). 
+
+Image Link (Tier 4):This enhancement lets you display visual information (text, pictures, movies, the current time, etc.) in your field of vision.
+
+Smartlink (Tier 4): This modification allows information and targeting enhancements from a smartlink equipped weapon to show in the users vision, much like a built-in HUD.
+
+Vison Enhancement (Tier 4): This sharpens a character’s vision at all ranges, providing visual acuity closer to that of the average hawk. Each tier rating of this modification increases adds a bonus to any Perception Test involving vision.
+
+Sound Link (Tier 4): The sound link can play audio (recordings, movie soundtracks, music, etc.) from linked sources within the user’s PAN (or headware memory, or datajack) directly into the user’s cyberears.
+
+Audio Enhancement (Tier 4): Audio enhancement allows the user to hear a broader spectrum of audio frequencies, including high and low frequencies outside the normal metahuman audible spectrum. The user also experiences fine discrimination of nuances and can block out distracting background noise. Audio enhancement adds a bonus  equal to its tier rating to your hearing related Perception.
+
+Select Sound Filter (Tier 4): This lets you block out background noise and focus on specific sounds or patterns of sounds. It even includes speech, word, and sound pattern recognition. Each tier rating lets you select a single sound group (such as the footsteps of a patrolling guard or the rotors of a distant helicopter) and focus on it. 
+
+Spatial Recognizer (Tier 4): This hearing accessory pinpoints the source of a sound. 
+
+Cerebral Booster (Tier 3): The convolutions and gyri of your cerebrum are augmented and amplified with additional nervous tissue, improving overall brain function. The cerebral booster adds its tier rating to your Intelligence.
+
+Mnemonic Enhancer (Tier 3): This highly concentrated growth of grey matter gets attached to the brain’s memory centers, improving both short-term and long-term memory.
+
+Sleep Regulator (Tier 3): The sleep regulator is a modification to the hypothalamus, allowing for longer periods of wakefulness, an incredibly useful advantage for anyone with any profession. You need less sleep per day and the sleep you get is deep and restful (and harder to wake you up from). The sleep regulator lets you get by with three hours of sleep each night and stay awake for twice as long as normal before having to resist sleep deprivation fatigue.
+
+Enhanced Articulation (Tier 3): A number of procedures like joint-surface coating, re-lubrication, and tendon and ligament augmentation lead to more fluid muscle and joint action.
+
+Cyberarm 1 (Obviously Synthetic Left Arm)(Tier 4): Quick Change Mount, Double Jointed, Locking Joints, Reinforced Joints, Thickened Myomer (Strength 14), Data Storage Modules, Tech Scanner, Cutting Torch, Electricity Shielding, Electromagnetic Shielding, Microwave/EMP Shielding.
+
+Cyberarm 2 (Realistic Left Arm & Hand)(Tier 4): Quick Change Mount, Double Jointed, RealSkinn.
+
+Cyberhand 1 (Obviously Synthetic Left Hand)(Tier 4): Quick Change Mount, Tool Hand, Electricity Shielding, Electromagnetic Shielding, Microwave/EMP Shielding.
+
+Cyberhand 2 (Obviously Synthetic Left Hand)(Tier 4): Quick Change Mount, Modular, Probe Link, 30cm Tentacle Finger, Flashlight, Vidcam.
+
+Traits:
+
+True Futanari: A True Futanari has a fully functional vagina that looks like a normal vagina, and a fully functional penis that looks like a penis. They do not have testicles or functional ovaries, and so are also sterile. What really sets True Futanari apart from normal futanari is that both sets of genitals are not only fully functional, but also equally accessible. They also have all the combined internal geography of a male and a female, meaning g-spot, cervix, prostate, etc).
+
+Abilities:
+
+Ava exudes an aura of allure and seduction (+6 Seduction)
+
+Ava has heightened physical sensitivity
