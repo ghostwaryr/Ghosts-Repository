@@ -1,0 +1,182 @@
+Name: Marie Rose
+Race: Human Female
+Profession: Child Prodigy Physicist/Navigator/Martial Arts Instructor
+
+Primary Attributes
+Attribute       Score
+Strength        5(9)
+Dexterity       9(13)
+Constitution    12(15)
+Intelligence    13(14)
+Wisdom          8
+Charisma        8
+Comeliness      9
+Technical       8
+Luck		5
+
+Secondary Attributes
+[HP]		21
+[MA]		6
+[MOVE] Land	5 kph
+[LIFT]		Carry 200, Lift 400, Drag 600
+
+Defenses                AC   Armor  Value
+Nanotech Bodysuit       +1   1      NA
+
+Attack 		         Bonus  Dmg   AP  Type    Notes
+Unarmed (Martial Arts)   +17    8     0   Blunt   
+Laser Pistol             +15    6(9)  0   Energy  multi-phased, dual mode, smartlink
+
+Skill                             Score  Attribute  Modifiers  Total
+Initiative                        3      13         +4         20
+Combat, Physical Skills
+   Unarmed Combat (Martial Arts)  2(4)   9(13)      -          11(17)
+   Personal Armor                 1      13         -          14
+   Melee Combat                   1      13         -          14
+   Thrown Weapons                 1      13         -          14
+   Projectiles                    1      13         -          14
+Combat, Ranged Skills
+   Small Arms                     1      13         -          14
+   Light Arms                     0      13         -3         10
+   Heavy Weapons                  0      13         -3         10
+   Gunnery                        0      13         -3         10
+   Artillery                      0      14         -3         11
+Engineering Skills
+   Civil                          0      14         -3         11
+   Mechanical                     0      14         -3         11
+   Electrical                     0      14         -3         11
+   Chemical                       0      14         -3         11
+   Industrial                     0      14         -3         11
+Entertainment Skills
+   Oratory                        1      8          -          9
+   Performance (Singing)          1      8          -          9
+   Personal Grooming              1      9          -          9
+   Play Instrument (Violin)       1      8          -          9
+   Wardrobe & Style               1      9          -          9
+Physical Skills
+   Acrobatics                     3      13         +2         18
+   Athletics                      2      9          +2         13
+   Running                        1      9          +2         12
+   Swimming                       1      9          +2         12
+   Endurance                      1      15         +2         18
+Observation Skills
+   Insight                        1      8          -          9
+   Interrogation                  1      8          -          9
+   Investigation                  1      13         +2         16
+   Lip Reading                    1      8          +2         11
+   Perception                     2	     8          +6         16
+Outdoor Skills
+   Nature                         0      8          -3         5
+   Navigation/Orienteering        0      8          -3         5
+   Rope Use                       0      8          -3         5
+   Survival                       0      8          -3         5
+   Tracking                       0      8          -3         5
+Piloting Skills
+  Aerospace                       0      13         -3         10
+  Ground Craft                    0      13         -3         10
+  Remote                          0      13         -3         10
+  Starship                        0      13         -3         10
+  Walker                          0      13         -3         10
+Sciences, Life Skills
+   Biology                        1      13         -          14
+   Zoology                        1      13         -          14
+   Botany                         1      13         -          14
+   Ecology                        1      13         -          14
+   Biotechnology                  1      13         -          14
+Sciences, Physical Skills
+   Geology                        1      13         -          14
+   Astronomy                      1      13         -          14
+   Chemistry                      1      13         -          14
+   Physics                        7      13         -          20
+   Planetology                    1      13         -          14
+Social Skills
+   Etiquette/Social               1      8          -          9
+   Deception                      1      8          -          9
+   Intimidate                     1      8          -          9
+   Persuasion                     2      8          -          10
+   Seduction                      1      8          -          9
+Stealth Skills
+   Disguise                       0      8          -3         5
+   Impersonation                  0      8          -3         5
+   Lock Picking                   0      13         -3         10
+   Palming                        0      13         -3         10
+   Sneak                          2      13         -          15
+Tech, Commercial Skills
+   Electronics                    1      8          +4         13
+   Computers                      1      8          +4         13
+   Weaponry                       1      8          +4         13
+   Robotics                       1      8          +4         13
+   Cybernetics                    1      8          +4         13
+Tech, Industrial Skills
+   Mechanics                      1      8          +4         13
+   Construction                   1      8          +4         13
+   Environmental                  1      8          +4         13
+   Propulsion                     1      8          +4         13
+   Power                          1      8          +4         13
+Trade Skills
+   Accounting                     1      13         -          14
+   Appraise                       0      13         -3         10
+   Business Sense                 0      13         -3         10
+   Haggle                         0      8          -3         5
+   Social Networking              1      8          -          9
+Underworld Skills
+   Bribery                        0      8          -3         5
+   Escape Artist                  1      13         +2         16
+   Forgery                        0      8          -3         5
+   Gambling                       0      5          -3         2
+   Streetwise                     0      8          -3         5
+Knowledge: 
+  Quantum Mechanics               6      13         +4         23
+  Chaos Theory                    5      13         +4         22
+  Astrophysics                    7      13         +4         24
+  High-Energy Particle Physics    5      13         +4         22
+  Advance Mathematics             4      13         +4         21
+  Artificial Intelligence         1      13         +4         18
+  Data Analysis                   1      13         +4         18
+  Forensic Science                1      13         +4         18
+  Law                             1      13         +4         18
+  Linguistics                     1      13         +4         18
+  Literature                      1      13         +4         18
+  Music                           1      13         +4         18
+  Philosophy                      1      13         +4         18
+  Sociology                       1      13         +4         18
+  Astronautics                    1      13         +4         18
+  Finance                         1      13         +4         18
+  Religion                        1      13         +4         18
+  Martial Arts                    1      13         +4         18
+  Genetics                        1      13         +4         18
+  Cybernetics                     1      13         +4         18
+
+
+Modifications:
+
+Datajack (Tier 4): Datajacks are direct neural interface implants that allow you to directly access computers and information with your mind. They typically resemble a coin-sized dataport that is implanted either on the side of the head (typically in the temporal region of the skull, behind the ear or on the temple) or the back of the neck (just below the brainstem). It comes with a retractable spool of micro-cable (about a meter long) that lets you directly interface with any electronic device via a universal access cable. Datajacks are equipped with their own cache of storage memory for downloading or saving files. Optionally, Datajacks can be installed to be hidden and use an induction link hidden under the skin, but the response rate of the interface drops by around 15-20%.
+
+Attention Coprocessor (Tier 4): A cybernetic implant in the frontal cortex and limbic system improves continuous partial attention, helping to keep track of events in the background without losing the foreground. Also improves the sensory cortex to help you glean as much as possible from incoming sensory data. Add the attention coprocessors tier rating as a bonus to your perception skill. 
+
+Math SPU (Tier 4): The math SPU allows you to quickly perform any and all mathematical functions, while most of the benefits of the math spu are purely for convenience, you also gain a bonus equal to its tier rating to your Tech: Electronics (Electronic Warfare] skill.
+
+Encephalon (Tier 4): This expert-system microprocessor is hardwired directly into the user's cortex, augmenting its user's information-processing abilities allowing and for faster and better handling of complex data. Add the Encephalon tier rating to all Tech skills.
+
+Bone Lacing (Tier 5): Your bones are laced with lattice chains of reinforcing plastics or metals, improving their integrity and tensile strength. Bone lacing comes in one of several types depending on the tier rating. Graphene: +3 Constitution, +5 Armor vs bludgeoning damage
+
+Muscle Replacement (Tier 4): Vat-grown synthetic muscles replace or augment your own, and calcium treatments and skeletal reinforcement contribute to your overall strength. It increases both your Strength and Dexterity attributes by its tier rating. It cannot be combined with other augmentations to the muscles, including muscle augmentation or muscle toner bioware.
+
+Reaction Enhancers (Tier 4): Nanotech that augments parts of the spinal column with superconducting materials that can increase physical reaction time. Add the tier rating of reaction enhancers as a bonus to your [Initiative] skill. Reaction enhancers are incompatible with all other body enhancements to your [Initiative] skill, including wired reflexes.
+
+Image Link (Tier 4):This enhancement lets you display visual information (text, pictures, movies, the current time, etc.) in your field of vision.
+
+Smartlink (Tier 4): This modification allows information and targeting enhancements from a smartlink equipped weapon to show in the users vision, much like a built-in HUD.
+
+Vison Enhancement (Tier 4): This sharpens a character’s vision at all ranges, providing visual acuity closer to that of the average hawk. Each tier rating of this modification increases adds a bonus to any Perception Test involving vision.
+
+Sound Link (Tier 4): The sound link can play audio (recordings, movie soundtracks, music, etc.) from linked sources within the user’s PAN (or headware memory, or datajack) directly into the user’s cyberears.
+
+Balance Augmenter (Tier 4): The balance augmenter enhances the inner ear’s natural balance mechanism. The user receives a bonus to acrobatics & athletics checks involving balance, such as climbing, walking across a narrow platform, landing after a jump, and so on.
+
+Audio Enhancement (Tier 4): Audio enhancement allows the user to hear a broader spectrum of audio frequencies, including high and low frequencies outside the normal metahuman audible spectrum. The user also experiences fine discrimination of nuances and can block out distracting background noise. Audio enhancement adds a bonus  equal to its tier rating to your hearing related Perception.
+
+Traits: Child Prodigy
+(SECRET) Marie is an Augment, or the product of genetic manipulation before birth. Which has granted her natural abilities far above the human norm, but has the side effect of undergoing a temporary sex change under certain physiological conditions, causing hormonal imbalances that lead to the growth of male genitalia. She also needs to take immunosuppressants whenever any work is done to her cybernetics due to her turbo-charged immune system.
+
+Abilities (SECRET): Increased flexibility, turbo charged immune system, enhanced healing ability, increased kidney & spleen, greatly increased memory, greatly increased cardiovascular function.
