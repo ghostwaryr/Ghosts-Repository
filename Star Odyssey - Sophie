@@ -1,6 +1,6 @@
-Name: ?
+Name: Sophie
 Race: Human Female
-Profession: ?
+Profession: Marine Biologist/Oceanographer/Aquatic Vehicles Pilot/Ship Steward
 
 Primary Attributes
 Attribute       Score
@@ -18,13 +18,15 @@ Secondary Attributes
 [HP]		?
 [MA]		6
 [MOVE] Land	5 kph
-[LIFT]		Carry ?, Lift ?, Drag ?
+[LIFT]		Carry 125, Lift 250, Drag 375
 
 Defenses                AC   Armor Value
 Nanotech Bodysuit       +1   1
 
-Attack 		Bonus  Dmg  AP  Type  Notes
-?               ?      ?    ?   ?     ?
+Attack 		Bonus  Dmg  AP  Type   Notes
+Unarmed         +7     2    0   Blunt
+Shock Stick     +10    3    6   Stun
+Laser Pistol    +10    6    0   Energy
 
 Skill                         Score  Attribute  Modifiers  Total
 Initiative                      2    8          (+3)       10(13)
