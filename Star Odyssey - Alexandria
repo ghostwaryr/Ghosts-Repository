@@ -1,0 +1,205 @@
+Name: Alexandria
+Race: Human Female
+Profession: Ship Communications and Xenologist (Sociologist/Linguist/Anthropologist/Archeologist)
+
+Primary Attributes
+Attribute       Score
+Strength        4(6)
+Dexterity       7(10)
+Constitution    5(7)
+Intelligence    9(13)
+Wisdom          9
+Charisma        8
+Comeliness      8
+Technical       5
+Luck		3
+
+Secondary Attributes
+[HP]		13
+[MA]		6
+[MOVE] Land	5 kph
+[LIFT]		Carry 125, Lift 250, Drag 375
+
+Defenses                AC   Armor Value
+Nanotech Bodysuit       +3   3
+
+Attack 		Bonus  Dmg  AP  Type    Notes
+Unarmed         +8     2    0   Blunt   
+Monowhip        +12    7    3   Edged   on a critical hit the monowhip completely slices through the target, often severing limbs when used against living creatures
+Laser Pistol    +14    6    0   Energy  multi-phased, dual mode, smartlink
+
+Skill                          Score  Attribute  Modifiers  Total
+Initiative                       3    10         4          17
+Combat, Physical Skills
+   Unarmed Combat (Martial Arts) 1(4) 6(10)      -          7(14)
+   Personal Armor (Nanosuit)     2(5) 10         -          12(15)
+   Melee Combat (Monowhip)       1(4) 10         -          11(14)
+   Thrown Weapons                1    10         -          11
+   Projectiles                   1    10         -          11
+Combat, Ranged Skills
+   Small Arms                    3    10         -          13
+   Light Arms                    1    10         -          11
+   Heavy Weapons                 -    -          -          -
+   Gunnery                       -    -          -          -
+   Artillery                     -    -          -          -
+Engineering Skills
+   Civil                         -    -          -          -
+   Mechanical                    -    -          -          -
+   Electrical                    -    -          -          -
+   Chemical                      -    -          -          -
+   Industrial                    -    -          -          -
+Entertainment Skills
+   Oratory                       2    8          -          10
+   Performance (Pick One)        2    8          -          10
+   Personal Grooming             2    8          -          10
+   Play Instrument (Pick One)    2    8          -          10
+   Wardrobe & Style              2    8          -          10
+Physical Skills
+   Acrobatics                    2    10         -          12
+   Athletics                     2    6          -          8
+   Running                       1    6          -          7
+   Swimming                      1    6          -          7
+   Endurance                     1    7          -          8
+Observation Skills
+   Insight                       5    9          +3         17
+   Interrogation                 3    8          +4         15
+   Investigation                 4    13         +3         20
+   Lip Reading                   3    9          -          12
+   Perception                    3    9          +4         16
+Outdoor Skills
+   Nature                        1    9          -          10
+   Navigation/Orienteering       2    9          +1         12
+   Rope Use                      1    9          -          10
+   Survival                      2    9          -          11
+   Tracking                      1    9          +1         11
+Piloting Skills
+  Aerospace                      -    -          -          -
+  Ground Craft                   1    10         -          11
+  Remote                         1    10         -          11
+  Starship                       -    -          -          -
+  Walker                         -    -          -          -
+Sciences, Life Skills
+   Biology                       2    13         -          15
+   Zoology                       0    13         -          13
+   Botany                        0    13         -          13
+   Ecology                       0    13         -          13
+   Biotechnology                 0    13         -          13
+Sciences, Physical Skills
+   Geology                       1    13         -          14
+   Astronomy                     1    13         -          14
+   Chemistry                     1    13         -          14
+   Physics                       1    13         -          14
+   Planetology                   1    13         -          14
+Social Skills
+   Etiquette/Social              3    8          +4         15
+   Deception                     2    8          +4         14
+   Intimidate                    2    8          +4         14
+   Persuasion                    4    8          +4         16
+   Seduction                     5    8          +4         17
+Stealth Skills
+   Disguise                      1    8          -          9
+   Impersonation                 1    8          -          9
+   Lock Picking                  1    5          -          6
+   Palming                       1    10         -          11
+   Sneak                         3    10         -          13
+Tech, Commercial Skills
+   Electronics                   3    5          +4         12
+   Computers                     3    5          +4         12
+   Weaponry                      -    -          -          -
+   Robotics                      -    -          -          -
+   Cybernetics                   -    -          -          -
+Tech, Industrial Skills
+   Mechanics                     -    -          -          -
+   Construction                  -    -          -          -
+   Environmental                 -    -          -          -
+   Propulsion                    -    -          -          -
+   Power                         -    -          -          -
+Trade Skills
+   Accounting                    1    13         -          14
+   Appraise                      1    13         -          14
+   Business Sense                1    13         -          14
+   Haggle                        2    8          -          10
+   Social Networking             3    8          -          11
+Underworld Skills
+   Bribery                       1    8          -          9
+   Escape Artist                 2    10         -          12
+   Forgery                       1    13         -          14
+   Gambling                      1    3          -          4
+   Streetwise                    1    9          -          10
+Knowledge: 
+   Linguistics                   7    13         +4         24
+   Xeno-Ethnography              7    13         +4         24
+   Archaeology                   5    13         +4         22
+   Anthropology                  3    13         +4         20
+   Neural-Linguistics            6    13         +4         23
+   Xeno-Psychology               2    13         +4         19
+   Xeno-Diplomacy                2    13         +4         19
+   Diplomatic Protocols          1    13         +4         18
+   Semiotics                     4    13         +4         21
+   History                       2    13         +4         19
+
+
+
+Modifications:
+
+Datajack (Tier 4): Datajacks are direct neural interface implants that allow you to directly access computers and information with your mind. They typically resemble a coin-sized dataport that is implanted either on the side of the head (typically in the temporal region of the skull, behind the ear or on the temple) or the back of the neck (just below the brainstem). It comes with a retractable spool of micro-cable (about a meter long) that lets you directly interface with any electronic device via a universal access cable. Datajacks are equipped with their own cache of storage memory for downloading or saving files. Optionally, Datajacks can be installed to be hidden and use an induction link hidden under the skin, but the response rate of the interface drops by around 15-20%.
+
+Attention Coprocessor (Tier 4): A cybernetic implant in the frontal cortex and limbic system improves continuous partial attention, helping to keep track of events in the background without losing the foreground. Also improves the sensory cortex to help you glean as much as possible from incoming sensory data. Add the attention coprocessors tier rating as a bonus to your perception skill. 
+
+Encephalon (Tier 4): This expert-system microprocessor is hardwired directly into the user's cortex, augmenting its user's information-processing abilities allowing and for faster and better handling of complex data. Add the Encephalon tier rating to all Tech skills.
+
+Olfactory Booster (Tier 4): This cyberware enhances, identifies, and records smells. You can smell people’s emotions in their sweat (and if applicable, the maker’s mark of their tailored pheromones), traces of ammunition propellant, explosives, or biological and chemical warfare compounds—the list goes on and on. A cut-off function allows you to completely ignore intense odors. Add the booster’s tier rating as a bonus to any Perception Test involving scent.
+
+Skilljack (Tier 3): The skilljack is a piece of cyberware that allows your to upload and access knowledge based skills as if they were your own.
+
+Math SPU (Tier 4): The math SPU allows you to quickly perform any and all mathematical functions, while most of the benefits of the math spu are purely for convenience, you also gain a bonus equal to its tier rating to your Tech: Electronics (Electronic Warfare] skill.
+
+Vison Enhancement (Tier 4): This sharpens a character’s vision at all ranges, providing visual acuity closer to that of the average hawk. Each tier rating of this modification increases adds a bonus to any Perception Test involving vision.
+
+Image Link (Tier 3):This enhancement lets you display visual information (text, pictures, movies, the current time, etc.) in your field of vision.
+
+Low-Light Vision (Tier 3): An implanted version of the low-light vision enhancement. This accessory allows you to see normally in light levels as low as starlight. It doesn’t help in total darkness, though.
+
+Sound Link (Tier 3): The sound link can play audio (recordings, movie soundtracks, music, etc.) from linked sources within the user’s PAN (or headware memory, or datajack) directly into the user’s cyberears.
+
+Audio Enhancement (Tier 4): Audio enhancement allows the user to hear a broader spectrum of audio frequencies, including high and low frequencies outside the normal metahuman audible spectrum. The user also experiences fine discrimination of nuances and can block out distracting background noise. Audio enhancement adds a bonus  equal to its tier rating to your hearing related Perception.
+
+Select Sound Filter (Tier 4): This lets you block out background noise and focus on specific sounds or patterns of sounds. It even includes speech, word, and sound pattern recognition. Each tier rating lets you select a single sound group (such as the footsteps of a patrolling guard or the rotors of a distant helicopter) and focus on it. 
+
+Spatial Recognizer (Tier 4): This hearing accessory pinpoints the source of a sound. 
+
+Bone Density Augmentation (Tier 3): The molecular structure of your bones is altered to increase density and tensile strength. Ligaments are strengthened, and the increased bone density increases your weight a bit. Bone density augmentation is incompatible with other augmentations to the bones, including bone lacing cyberware.
+
+Muscle Toner (Tier 3): This treatment increases muscle fiber elasticity in existing muscle tension, resulting in increased muscle tension and flexibility while providing a smooth and ropy physique. Muscle toner adds a bonus to your Dexterity equal to its tier rating. This augmentation is incompatible with augmentations that increase Dexterity, including the muscle replacements cyberware.
+
+Pathogenic Defense (Tier 4): The Pathogenic Defense augmentation involves an enhancement of the spleen, spearheading the production of more effective and aggressive leukocytes, or white blood cells. These cells are then released into the bloodstream and lymphatic system to combat disease and infection.
+
+Platelet Factories (Tier 3): Platelet factories increase your body’s ability to handle Physical damage by accelerating the production of platelets within bone marrow and their concentration in the blood, which helps stop bleeding faster.
+
+Tailored Pheromones (Tier 4): These pheromones are specially tailored to subtly influence others and can be released at will. Tailored pheromones adds a bonus equal to its tier rating to all skills in the Acting and Influence skill groups, but only when the person you’re using them on is within a comfortable conversation range and able to smell you. 
+
+Toxin Extractor (Tier 4): The liver is the body's main organ for catabolism, or the breakdown of complex substances. As such, it is the first line of defense against potentially toxic compounds and drugs. The Toxin Extractor is a specially cultivated cluster of cells implanted in the liver to greatly improve the efficiency and to expand the spectrum of catabolic activity. Potential toxins that make their way into the bloodstream are filtered out in the liver, and with the aid of the extractor they are broken down into harmless fragments and then expelled.
+
+Tracheal Filter (Tier 4): When this is installed, traps and filters are implanted at the top of the trachea, just below the larynx. This cluster of specialized tissue absorbs airborne impurities and keeps them from reaching the lungs. Smoke, pollen and dust are easily blocked and expelled with an outgoing breath. Gaseous compounds are rendered inert or less effective through the various chemical reactions performed by the filters. Bacterial-sized impurities are not stopped by Tracheal Filters.
+
+Cerebral Booster (Tier 4): The convolutions and gyri of your cerebrum are augmented and amplified with additional nervous tissue, improving overall brain function. The cerebral booster adds its tier rating to your Intelligence. 
+
+Mnemonic Enhancer (Tier 4): This highly concentrated growth of grey matter gets attached to the brain’s memory centers, improving both short-term and long-term memory.
+
+Pain Editor (Tier 4): This cluster of specialized nervous tissue is designed to filter sensory stimuli. If the pain editor is active, this allows you to ignore all injury modifiers, and you even stay conscious when you would otherwise be knocked out.
+
+Sleep Regulator (Tier 4): The sleep regulator is a modification to the hypothalamus, allowing for longer periods of wakefulness, an incredibly useful advantage for anyone with any profession. You need less sleep per day and the sleep you get is deep and restful (and harder to wake you up from). The sleep regulator lets you get by with three hours of sleep each night and stay awake for twice as long as normal before having to resist sleep deprivation fatigue.
+
+Synaptic Booster (Tier 4): The nerve cells making up the spinal cord are both broadened and replicated with this bioware, allowing for more neural bandwidth. The result is a much faster reaction time. The booster confers a bonus equal to its tier rating to your Initiative. The synaptic booster cannot be combined with any other form of Initiative enhancement.
+
+
+Traits:
+True Futanari: A True Futanari has a fully functional vagina that looks like a normal vagina, and a fully functional penis that looks like a penis. They do not have testicles or functional ovaries, and so are also sterile. What really sets True Futanari apart from normal futanari is that both sets of genitals are not only fully functional, but also equally accessible. They also have all the combined internal geography of a male and a female, meaning g-spot, cervix, prostate, etc).
+
+Abilities:
+Limited ESP: Alexandria has the gift of a very limited form of ESP. While not powerful enough to be considered an actual psychic, this ability does give her some very limited Telepathy, Psychometry, Precognition, and Retrocognition that can't be explained by normal science. These abilities manifest in a manner that makes her extremely intuitive rather than a full psychic.
+Alexandria she has the ability to control the size of her penis from two to three inches in length, up to seven inches in length. She also has the mental control to decide if and when she gets an erection. She finds that her unique anatomy gives her a very unique perspective on the sensations she can experience during sex and a wider range of insight into both the male and female psyche.
+
+Gear: 
+Alexandria's Nanosuit incorporates strength enhancing myomer fibers for a +2 to strength
+Alexandria often wears enhanced contact lenses that feature an image-link, thermographic vision, and a smart-link
