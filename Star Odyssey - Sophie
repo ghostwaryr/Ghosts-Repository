@@ -1,0 +1,177 @@
+Name: ?
+Race: Human Female
+Profession: ?
+
+Primary Attributes
+Attribute       Score
+Strength        6(9)
+Dexterity       8(11)
+Constitution    7(8)(11)
+Intelligence    8
+Wisdom          6
+Charisma        7
+Comeliness      9
+Technical       6
+Luck		10
+
+Secondary Attributes
+[HP]		?
+[MA]		6
+[MOVE] Land	5 kph
+[LIFT]		Carry ?, Lift ?, Drag ?
+
+Defenses                AC   Armor Value
+Nanotech Bodysuit       +1   1
+
+Attack 		Bonus  Dmg  AP  Type  Notes
+?               ?      ?    ?   ?     ?
+
+Skill                         Score  Attribute  Modifiers  Total
+Initiative                      2    8          (+3)       10(13)
+Combat, Physical Skills
+   Unarmed Combat               1    6          (+3)       7(10)
+   Personal Armor               1    8          (+3)       9(12)
+   Melee Combat (Shock Stick)   0(2) 8          (+3)       8(13)
+   Thrown Weapons (Net)         0(2) 8          (+3)       8(13)
+   Projectiles (Harpoon Gun)    0(2) 8          (+3)       8(13)
+Combat, Ranged Skills
+   Small Arms                   2    8          (+3)       10(13)
+   Light Arms (Sonic Rifle)     0(2) 8          (+3)       8(13)
+   Heavy Weapons                1    8          (+3)       9(12)
+   Gunnery                      2    8          +4(+7)     14(17)
+   Artillery                    1    8          (+3)       9(12)
+Engineering Skills
+   Civil                        1    8          -          9
+   Mechanical                   1    8          -          9
+   Electrical                   1    8          -          9
+   Chemical                     1    8          -          9
+   Industrial                   1    8          -          9
+Entertainment Skills
+   Oratory                      0    7          -          7
+   Performance (Pick One)       -    -          -          -
+   Personal Grooming            1    7          -          8
+   Play Instrument (Pick One)   -    -          -          -
+   Wardrobe & Style             1    7          -          8
+Physical Skills
+   Acrobatics                   2    8          +3(+6)     13(16)
+   Athletics                    2    6          +3(+6)     11(14)
+   Running                      2    6          +3(+6)     11(14)
+   Swimming                     5    6          +3(+6)     14(17)
+   Endurance                    2    8          +3(+6)     13(16)
+Observation Skills
+   Insight                      1    6          -          7
+   Interrogation                1    6          -          7
+   Investigation                2    8          -          10
+   Lip Reading                  1    6          -          7
+   Perception                   3    6          +4         13
+Outdoor Skills
+   Nature                       1    6          -          7
+   Navigation/Orienteering      2    6          -          8
+   Rope Use                     1    8          -          9
+   Survival                     1    6          -          7
+   Tracking                     1    6          -          7
+Piloting Skills
+  Aerospace                     1    8          +4(+7)     13(16)
+  Aquatic                       3    8          +4(+7)     15(18)
+  Remote                        1    8          +4(+7)     13(16)
+  Starship                      1    8          +4(+7)     13(16)
+  Submersible                   4    8          +4(+7)     16(19)
+Sciences, Life Skills
+   Biology (Marine)             5    8          -          13
+   Zoology                      2    8          -          10
+   Botany                       2    8          -          10
+   Ecology                      2    8          -          10
+   Biotechnology                2    8          -          10
+Sciences, Physical Skills
+   Geology                      2    8          -          10
+   Astronomy                    2    8          -          10
+   Chemistry                    2    8          -          10
+   Physics                      2    8          -          10
+   Planetology                  2    8          -          10
+Social Skills
+   Etiquette/Social             1    7          -          8
+   Deception                    1    7          -          8
+   Intimidate                   1    7          -          8
+   Persuasion                   1    7          -          8
+   Seduction                    1    7          -          8
+Stealth Skills
+   Disguise                     0    7          -3         4
+   Impersonation                -    -          -          -
+   Lock Picking                 -    -          -          -
+   Palming                      -    -          -          -
+   Sneak                        2    8          (+3)       10(13)
+Tech, Commercial Skills
+   Electronics                  2    6          -          8
+   Computers                    3    6          -          9
+   Weaponry                     -    -          -          -
+   Robotics                     -    -          -          -
+   Cybernetics                  -    -          -          -
+Tech, Industrial Skills
+   Mechanics                    -    -          -          -
+   Construction                 -    -          -          -
+   Environmental                -    -          -          -
+   Propulsion                   -    -          -          -
+   Power                        -    -          -          -
+Trade Skills
+   Accounting                   -    -          -          -
+   Appraise                     -    -          -          -
+   Business Sense               -    -          -          -
+   Haggle                       -    -          -          -
+   Social Networking            1    7          -          8
+Underworld Skills
+   Bribery                      -    -          -          -
+   Escape Artist                1    8          (+3)       9(12)
+   Forgery                      -    -          -          -
+   Gambling                     1    10         -          11
+   Streetwise                   0    7          -3         4
+Knowledge: 
+  Oceanography                  6    8          +3         17
+  Astrobiology                  4    8          +3         15
+  Climatology                   3    8          +3         14
+  Ocean Engineering             3    8          +3         14
+  Marine Xenobiology            5    8          +3         16
+  Marine Engineering            3    8          +3         14
+  Marine Megafuana              4    8          +3         15
+
+
+Modifications:
+
+Datajack (Tier 4): Datajacks are direct neural interface implants that allow you to directly access computers and information with your mind. They typically resemble a coin-sized dataport that is implanted either on the side of the head (typically in the temporal region of the skull, behind the ear or on the temple) or the back of the neck (just below the brainstem). It comes with a retractable spool of micro-cable (about a meter long) that lets you directly interface with any electronic device via a universal access cable. Datajacks are equipped with their own cache of storage memory for downloading or saving files. Optionally, Datajacks can be installed to be hidden and use an induction link hidden under the skin, but the response rate of the interface drops by around 15-20%.
+
+Control Rig (Tier 4): This implant harnesses the raw data-coordinating and synchronization power of the middle brain for the express purpose of directly manipulating vehicles and drones (and other devices like turrets). When you are linked to a vehicle or drone, the control rig provides a bonus to your piloting skill and the performance of the vehicle.
+
+Attention Coprocessor (Tier 4): A cybernetic implant in the frontal cortex and limbic system improves continuous partial attention, helping to keep track of events in the background without losing the foreground. Also improves the sensory cortex to help you glean as much as possible from incoming sensory data. Add the attention coprocessors tier rating as a bonus to your perception skill. 
+
+Ultrasound Sensor (Tier 4): When active the ultrasound sensor replaces your normal vision. It can be switched between active sonar, passive sonar, and off with a Free Action.
+
+Oxsys Cybergill (Tier 4): The OXSYS cybergill draws in water and filters out oxygen through forced osmosis, allowing users to breathe underwater. Carbon dioxide and water gases are absorbed into the water through reverse osmosis and expelled. The oxygen is delivered via solution directly into the bloodstream, averting the danger of oxygen toxicity. The gills are implanted on both sides of the neck adjacent to the thyroid gland. Divers using cybergills are immune to oxygen toxicity, but they remain vulnerable to nitrogen narcosis and decompression sickness from the residual amount of nitrogen. Cybergills allow a user to stay underwater for a number of hours equal to twice the tier rating.
+
+Image Link (Tier 4): This enhancement lets you display visual information (text, pictures, movies, the current time, etc.) in your field of vision.
+
+Low-Light Vision (Tier 4): An implanted version of the low-light vision enhancement. This accessory allows you to see normally in light levels as low as starlight. It doesn’t help in total darkness, though.
+
+Vison Enhancement (Tier 4): This sharpens a character’s vision at all ranges, providing visual acuity closer to that of the average hawk. Each tier rating of this modification increases adds a bonus to any Perception Test involving vision.
+
+Sound Link (Tier 4): The sound link can play audio (recordings, movie soundtracks, music, etc.) from linked sources within the user’s PAN (or headware memory, or datajack) directly into the user’s cyberears.
+
+Audio Enhancement (Tier 4): Audio enhancement allows the user to hear a broader spectrum of audio frequencies, including high and low frequencies outside the normal metahuman audible spectrum. The user also experiences fine discrimination of nuances and can block out distracting background noise. Audio enhancement adds a bonus  equal to its tier rating to your hearing related Perception.
+
+Select Sound Filter (Tier 4): This lets you block out background noise and focus on specific sounds or patterns of sounds. It even includes speech, word, and sound pattern recognition. Each tier rating lets you select a single sound group (such as the footsteps of a patrolling guard or the rotors of a distant helicopter) and focus on it. 
+
+Adrenaline Pump (Tier 3): This enhanced gland is implanted in the lower abdomen, connected to both supradrenal glands. When dormant, the pump is merely a reservoir for adrenaline. When activated, a small muscular sac contracts, sending a surge of concentrated adrenaline into the blood stream. While active you can add the Adrenaline Pumps tier rating as a bonus to your Strength, Dexterity, and Constitution. After the effects have worn off, you suffer from extreme lethargy and possible unconsciousness.
+
+Bone Density Augmentation (Tier 3): The molecular structure of your bones is altered to increase density and tensile strength. Ligaments are strengthened, and the increased bone density increases your weight a bit. Bone density augmentation is incompatible with other augmentations to the bones, including bone lacing cyberware.
+
+Enhanced Articulation (Tier 3): A number of procedures like joint-surface coating, re-lubrication, and tendon and ligament augmentation lead to more fluid muscle and joint action. 
+
+Synthacardium (Tier 3): Artificially enhanced myocardium allows cardiovascular functions to be performed more efficiently, enabling the heart to keep the blood better oxygenated. The synthacardium adds a bonus equal to its tier rating to all skills in the Athletics skill group.
+
+Mnemonic Enhancer (Tier 3): This highly concentrated growth of grey matter gets attached to the brain’s memory centers, improving both short-term and long-term memory.
+
+Sleep Regulator (Tier 3): The sleep regulator is a modification to the hypothalamus, allowing for longer periods of wakefulness, an incredibly useful advantage for anyone with any profession. You need less sleep per day and the sleep you get is deep and restful (and harder to wake you up from). The sleep regulator lets you get by with three hours of sleep each night and stay awake for twice as long as normal before having to resist sleep deprivation fatigue.
+
+Nictitating Membranes (Tier 3): This process stimulates the growth of a clear protective membrane covering the eyes, similar to that possessed by many animals. This "inner eyelid" protects the eyes, keeping out sand, grit, smoke and other irritants. This eye protection eases underwater activities. The membranes are light sensitive and become tinted under bright light. Further, they are polarized to reduce glare.
+
+Traits: None
+
+Abilities: Pressure Adaptation. Because Sophie has spent so much of her young life underwater she has a much higher ability to resist extreme water pressure and the "bends" when diving than normal humans. She can dive deeper and stay longer than normal humans without specialized gear.
