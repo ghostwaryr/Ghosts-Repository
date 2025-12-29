@@ -1,0 +1,149 @@
+Name: Sadia
+Race: Human Female
+Profession: Mission Senior Medical Director & Ship Doctor
+
+Primary Attributes
+Attribute       Score
+Strength        5/21
+Dexterity       7/15
+Constitution    6/30
+Intelligence    10/3
+Wisdom          8/4
+Charisma        7/3
+Comeliness      9/4
+Technical       6/1
+Luck		5/5
+
+Secondary Attributes
+[HP]		12/36
+[MA]		6
+[MOVE] Land	5 kph
+[LIFT]		Carry 100/500, Lift 200/1000, Drag 300/1500
+
+Defenses                AC   Armor
+Nanotech Bodysuit       +1   1
+(She-Hulk)              0    10
+
+Attack 		    Bonus  Dmg  AP  Type   Notes
+Unarmed (Sadia)     +2     1    0   Blunt  ?
+Unarmed (She-Hulk)  +18    21   0   Blunt  ?
+Laser Pistol        +7
+
+
+Skill                         Value  Attribute  Modifiers  Total
+Initiative                      2    7/15       -          8/17
+Combat, Physical Skills
+   Unarmed Combat               0    5/21       -3         2/18
+   Personal Armor               1    7/15       0          8/16
+   Melee Combat                 0    7/21       -3         4/18
+   Thrown Weapons               0    7/21       -3         4/18
+   Projectiles                  0    7/15       -3         4/18
+Combat, Ranged Skills
+   Small Arms                   1    7/15       0/-6       8/9
+   Light Arms                   0    7/15       -3/-9      4/6
+   Heavy Weapons                0    7/15       -3         4/12
+   Gunnery                      0    7/15       -3         4/12
+   Artillery                    0    10/3       -3         7/0
+Engineering Skills
+   Civil                        -    -          -          -
+   Mechanical                   -    -          -          -
+   Electrical                   -    -          -          -
+   Chemical                     -    -          -          -
+   Industrial                   -    -          -          -
+Entertainment Skills
+   Oratory                      2    7          -          9
+   Performance (Pick One)       2    7          -          9
+   Personal Grooming            2    7          -          9
+   Play Instrument (Pick One)   2    7          -          9
+   Wardrobe & Style             2    7          -          9
+Physical Skills
+   Acrobatics                   1    7/15       -          8/16
+   Athletics                    1    5/21       0/+5       6/27
+   Running                      1    7/15       0/+5       8/21
+   Swimming                     1    5/21       -          6/22
+   Endurance                    1    6/30       0/+5       7/36
+Observation Skills
+   Insight                      3    8/4        -          11/7
+   Interrogation                3    7/3        -          10/6
+   Investigation                4    10/3       -          14/7
+   Lip Reading                  3    8/4        -          11/7
+   Perception                   3    8/4        0/+5       11/12
+Outdoor Skills
+   Nature                       -    -          -          -
+   Navigation/Orienteering      1    10/3       -          11/4
+   Rope Use                     -    -          -          -
+   Survival                     0    8/4        -3/+5      5/9
+   Tracking                     0    8/4        -3/+5      5/9
+Piloting Skills
+  Aerospace                     -    -          -          -
+  Ground Craft                  1    7/-       0/-         8/-
+  Remote                        -    -          -          -
+  Starship                      -    -          -          -
+  Walker                        -    -          -          -
+Sciences, Life Skills
+   Biology (Microbiology)       5(8) 10/3       -          15(18)/8(11)
+   Zoology                      1    10/3       -          11/4
+   Botany                       1    10/3       -          11/4
+   Ecology                      1    10/3       -          11/4
+   Biotechnology                2    10/3       -          12/5
+Sciences, Physical Skills
+   Geology                      1    10/3       -          11/4
+   Astronomy                    1    10/3       -          11/4
+   Chemistry (Biochemistry)     1(4) 10/3       -          11(14)/4(7)
+   Physics                      1    10/3       -          11/4
+   Planetology                  1    10/3       -          11/4
+Social Skills
+   Etiquette/Social             3    7/3        -          10/6
+   Deception                    1    7/3        -          8/4
+   Intimidate                   1    7/3        0/+15      8/19
+   Persuasion                   3    7/3        -          10/6
+   Seduction                    1    7/3        +4/0       12/4
+Stealth Skills
+   Disguise                     0    7/3        -3         4/0
+   Impersonation                0    7/3        -3         4/0
+   Lock Picking                 0    6/1        -3         3/-2
+   Palming                      0    7/15       -3         4/12
+   Sneak                        1    7/15       -          8/16
+Tech, Commercial Skills
+   Electronics                  3    6/1        -          9/4
+   Computers                    2    6/1        -          8/3
+   Weaponry                     -    -          -          -
+   Robotics                     -    -          -          -
+   Cybernetics                  -    -          -          -
+Tech, Industrial Skills
+   Mechanics                    -    -          -          -
+   Construction                 -    -          -          -
+   Environmental                -    -          -          -
+   Propulsion                   -    -          -          -
+   Power                        -    -          -          -
+Trade Skills
+   Accounting                   1    10/3       -          11/4
+   Appraise                     1    10/3       -          11/4
+   Business Sense               1    10/3       -          11/4
+   Haggle                       1    7/3        -          8/4
+   Social Networking            2    7/3        -          9/5
+Underworld Skills
+   Bribery                      0    7/3        -3         4/0
+   Escape Artist                1    7/15       -          8/16
+   Forgery                      0    10/3       -3         7/4
+   Gambling                     0    5          -3         2
+   Streetwise                   1    7/3        -          8/4
+Knowledge: 
+  Medicine                      7    10/3       -          17/10
+  Forensics                     4    10/3       -          14/7
+  Parapsychology                3    10/3       -          13/6
+  Physiology                    5    10/3       -          15/8
+  Pharmacology                  4    10/3       -          14/9
+  Pathophysiology               8    10/3       -          18/11
+  Emergency Medicine            4    10/3       -          14/7
+  Epidemiology                  6    10/3       -          16/9
+  Immunology                    4    10/3       -          14/7
+  Virology                      5    10/3       -          15/8
+  Bacteriology                  5    10/3       -          15/8
+
+
+Modifications: None
+
+Traits: Dual Natured. Sadia suffers from a rare genetic condition that manifests in a dual nature, somewhat like being bi-polar, but characterized by a physical transformation when she loses control almost like Dr Jekyll/Mr Hyde legends. When in control of her emotions she is a very beautiful and intelligent woman, but when she loses control for some reason she grows to become a massive 8 foot tall heavily muscled futanari.
+
+Abilities: In her normal form as the beautiful and brilliant doctor, Sadia has no special abilities. As Sada, her massive futanari alter-ego she possesses immense strength, durability, and healing ability.
