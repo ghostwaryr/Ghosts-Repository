@@ -1,84 +1,177 @@
 Name: Paige
-Race: Human
-Profession: Pilot
+Race: Human Female
+Profession: Systems Operation, Pilot, Aerospace Engineer
 
 Primary Attributes
-Attribute 	Score
-Strength		      5
-Dexterity	        9
-Constitution	    6
-Intelligence	    8
-Wisdom		        6
-Charisma	        7
-Comeliness	      9
-Technical Ability	7
+Attribute       Score
+Strength        5(9)
+Dexterity       9(15)
+Constitution    7(9)
+Intelligence    8(11)
+Wisdom          6
+Charisma        7
+Comeliness      8
+Technical       7
 Luck		10
 
-Secondary     Attributes
-[HP]		          12
-[MA]		          6
-[MOVE] Land	      5 kph
-[LIFT]		        Carry 100, Lift 200, Drag 300
+Secondary Attributes
+[HP]		15
+[MA]		6
+[MOVE] Land	5 kph
+[LIFT]		Carry 200, Lift 400, Drag 600
 
-Defenses 		            AC 	Armor Value
-Nanotech Bodysuit	      +1	    1
+Defenses                AC   Armor
+Nanotech Bodysuit       +1   2
 
-Attack 		              Bonus	    Dmg	    AP	  Type	      Notes
-Laser Pistol	          +13	      6(9)	  0	    Energy	    multi-phased, dual mode, smartlink
+Attack 		Bonus  Dmg   AP  Type    Notes
+Unarmed         +11    4     0   Blunt
+Laser Pistol	+19    6(9)  0   Energy	 multi-phased, dual mode, smartlink
 
-Skill 				Ranks 	Attribute 	Modifiers 	Total
-Combat: Unarmed Combat	2	5				+7
-Combat: Personal Armor		1	5				+6
-Combat: Small Arms		3	9				+12
-Combat: Light Arms		2	9				+11
-Combat: Heavy Weapons		1	5				+6
-Combat: Gunnery		5	9		(+3)		+14
-	Jump-Packs		1	9				+10
-	Perception		3	6		+3		+12
-Engineering: Aerospace		4	8				+12
-	Initiative		5	9		+6		+20
-Knowledge: Administration	1	8				+9
-Knowledge: Linguistics		1	8				+9
-Knowledge: Tactics		2	8				+10
-Physical: Acrobatics		2	9				+11
-Physical: Athletics		1	5				+6
-Physical: Stealth			3	9				+12
-Physical: Swimming		1	5				+6
-Pilot: Aerospace			6	9		(+3)		+15(+18)
-Pilot: Ground Craft		3	8		(+3)		+11(+14)
-Pilot: Remote			4	9		(+3)		+13(+17)
-Pilot: Starship			5	9		(+3)		+13(+16)
-Pilot: Walker			3	9		(+3)		+12(+15)
-Science: Medicine (First Aid)	1	8				+9
-Social: Etiquette			2	7				+9
-Social: Fast-Talk			1	7				+8
-Social: Instruction		2	7				+9
-Social: Leadership		1	7				+8
-Social: Seduction			2	7				+8
-Technical: Communications	1	7				+8
-Technical: Computer		1	7				+8
-Technical: ECM			2	7				+9
-Technical: Electronics		3	7				+10
-Technical: Mechanical		1	7				+8
-Technical: Navigation		2	7				+9
-Technical: Security Systems	1	7				+8
-Technical: Sensors		3	7				+10
-	Zero-G Maneuver	3	9				+12
-	Zero-G Combat		2	9				+11
+Skill                         Score  Attribute  Modifiers  Total
+Initiative                      5    15         +8         28
+Combat, Physical Skills
+   Unarmed Combat               2    9          -          11
+   Personal Armor               1    15         -          16
+   Melee Combat                 1    15         -          16
+   Thrown Weapons               1    15         -          16
+   Projectiles                  1    15         -          16
+Combat, Ranged Skills
+   Small Arms                   3    15         -          18
+   Light Arms                   2    15         -          17
+   Heavy Weapons                2    15         -          17
+   Gunnery                      5    15         -          17
+   Artillery                    2    15         -          17
+Engineering Skills
+   Civil                        -    -          -          -
+   Mechanical (Aerospace)       3(5) 11         -          14(16)
+   Electrical                   1    11         -          12
+   Chemical                     -    -          -          -
+   Industrial                   -    -          -          -
+Entertainment Skills
+   Oratory                      1    7          -          8
+   Performance (Pick One)       1    7          -          8
+   Personal Grooming            2    7          -          9
+   Play Instrument (Pick One)   1    7          -          8
+   Wardrobe & Style             2    7          -          9
+Physical Skills
+   Acrobatics (Zero-G)          1(3) 15         -          16(18)
+   Athletics                    1    9          -          10
+   Running                      1    15         -          16
+   Swimming                     1    9          -          10
+   Endurance                    1    9          -          10
+Observation Skills
+   Insight                      2    6          -          8
+   Interrogation                1    7          -          8
+   Investigation                1    9          -          10
+   Lip Reading                  1    6          -          7
+   Perception                   3    6          4          13
+Outdoor Skills
+   Nature                       -    -          -          -
+   Navigation/Orienteering      1    6          -          7
+   Rope Use                     -    -          -          -
+   Survival                     1    6          -          7
+   Tracking                     -    -          -          -
+Piloting Skills
+  Aerospace                     6    15         +4         25
+  Ground Craft                  3    15         +4         22
+  Remote                        4    15         +4         23
+  Starship                      5    15         +4         24
+  Walker                        3    15         +4         22
+Sciences, Life Skills
+   Biology                      1    11         -          12
+   Zoology                      -    -          -          -
+   Botany                       -    -          -          -
+   Ecology                      -    -          -          -
+   Biotechnology                -    -          -          -
+Sciences, Physical Skills
+   Geology                      -    -          -          -
+   Astronomy                    1    11         -          12
+   Chemistry                    -    -          -          -
+   Physics                      2    11         -          13
+   Planetology                  -    -          -          -
+Social Skills
+   Etiquette/Social             2    7          -          9
+   Deception                    2    7          -          9
+   Intimidate                   2    7          -          9
+   Persuasion                   2    7          -          9
+   Seduction                    2    7          +2         11
+Stealth Skills
+   Disguise                     1    7          -          8
+   Impersonation                1    7          -          8
+   Lock Picking                 1    15         -          16
+   Palming                      1    15         -          16
+   Sneak                        3    15         -          18
+Tech, Commercial Skills
+   Electronics                  5    7          +4         16
+   Computers                    2    7          +4         13
+   Weaponry                     2    7          +4         13
+   Robotics                     2    7          +4         13
+   Cybernetics                  2    7          +4         13
+Tech, Industrial Skills
+   Mechanics                    -    -          -          -
+   Construction                 -    -          -          -
+   Environmental                -    -          -          -
+   Propulsion                   -    -          -          -
+   Power                        -    -          -          -
+Trade Skills
+   Accounting                   -    -          -          -
+   Appraise                     -    -          -          -
+   Business Sense               -    -          -          -
+   Haggle                       1    7          -          8
+   Social Networking            1    7          -          8
+Underworld Skills
+   Bribery                      1    7          -          8
+   Escape Artist                1    15         -          16
+   Forgery                      1    11         -          12
+   Gambling                     3    10         -          13
+   Streetwise                   1    7          -          8
+Knowledge: 
+  Administration                1    11         -          12
+  Linguistics                   1    11         -          12
+  Tactics                       2    11         -          13
+  Medicine (First Aid)          1    11         -          12
+  Spacecraft Identification     3    11         -          14
+  Military Protocols            2    11         -          13
+  Astrogation                   3    11         -          14
+  Weapon Systems                3    11         -          14
+  Hardcore Punk Bands           2    11         -          13
+  Legendary Pilots              2    11         -          13
 
-Modifications
-Datajack: Datajacks are cybertechnology implants that allow metahumans to directly access computers and information with their mind. They typically resemble a coin-sized dataport that is implanted either on the side of the head (typically in the temporal region of the skull, behind the ear or on the temple) or the back of the neck (just below the brainstem).
 
-Control Rig (3): This implant harnesses the raw data-coordinating and synchronization power of the middle brain for the express purpose of directly manipulating vehicles and drones (and other devices like turrets).
+Modifications:
 
-Attention Coprocessor (3): A cybernetic implant in the frontal cortex and limbic system improves continuous partial attention, helping to keep track of events in the background without losing the foreground. Also improves the sensory cortex to help you glean as much as possible from incoming sensory data.
+Datajack (Tier 4): Datajacks are direct neural interface implants that allow you to directly access computers and information with your mind. They typically resemble a coin-sized dataport that is implanted either on the side of the head (typically in the temporal region of the skull, behind the ear or on the temple) or the back of the neck (just below the brainstem). It comes with a retractable spool of micro-cable (about a meter long) that lets you directly interface with any electronic device via a universal access cable. Datajacks are equipped with their own cache of storage memory for downloading or saving files. Optionally, Datajacks can be installed to be hidden and use an induction link hidden under the skin, but the response rate of the interface drops by around 15-20%.
 
-Smartlink: An implant that links a smartlinked weapon to the users vision, placing a crosshair wherever the weapon is aiming.
+Control Rig (Tier 4): This implant harnesses the raw data-coordinating and synchronization power of the middle brain for the express purpose of directly manipulating vehicles and drones (and other devices like turrets). When you are linked to a vehicle or drone, the control rig provides a bonus to your piloting skill and the performance of the vehicle.
 
-Synaptic Accelerators (3): Nanotech that supercharges the synaptic connections in your brain, allowing you to process information faster and send impulses throughout your body more effectively.
+Muscle Replacement (Tier 4): Vat-grown synthetic muscles augment your own, and calcium treatments and skeletal reinforcement contribute to your overall strength. It increases both your Strength and Dexterity attributes by its tier rating. It cannot be combined with other augmentations to the muscles, including muscle augmentation or muscle toner bioware.
 
-Reaction Enhancers (Rating 3): Nanotech that augments parts of the spinal column with superconducting materials that can increase physical reaction time.
+Wired Reflexes (Tier 4): This highly invasive and painful enhancement adds a multitude of neural boosters and adrenaline stimulators in strategic locations throughout your body. The combined effect can make you almost superhumanly fast and agile. +4 Dexterity, +8 bonus to Initiative
 
-Traits:
+Encephalon (Tier 4): This expert-system microprocessor is hardwired directly into the user's cortex, augmenting its user's information-processing abilities allowing and for faster and better handling of complex data. Add the Encephalon tier rating to all Tech skills.
 
-Abilities:
+Attention Coprocessor (Tier 4): A cybernetic implant in the frontal cortex and limbic system improves continuous partial attention, helping to keep track of events in the background without losing the foreground. Also improves the sensory cortex to help you glean as much as possible from incoming sensory data. Add the attention coprocessors tier rating as a bonus to your perception skill.
+
+Math SPU (Tier 4): The math SPU allows you to quickly perform any and all mathematical functions, while most of the benefits of the math spu are purely for convenience, you also gain a bonus equal to its tier rating to your Tech: Electronics (Electronic Warfare) skill.
+
+Image Link (Tier 4):This enhancement lets you display visual information (text, pictures, movies, the current time, etc.) in your field of vision.
+
+Smartlink (Tier 4): This modification allows information and targeting enhancements from a smartlink equipped weapon to show in the users vision, much like a built-in HUD.
+
+Vison Enhancement (Tier 4): This sharpens a character’s vision at all ranges, providing visual acuity closer to that of the average hawk. Each tier rating of this modification increases adds a bonus to any Perception Test involving vision.
+
+Flare Compensation (Tier 4): An implanted version of the flare compensation enhancement. This protects you from blinding flashes of light as well as simple glare. It mitigates the vision modifiers for glare and reduces the penalty from flashing lights, like from a flash-pak.
+
+Biomonitor (Tier 4): A favorite of soldiers and corporate types, this is an under-skin display mounted on the forearm. It provides a real-time readout of common body functions like heart rate, blood pressure, blood chemistry, brainwave activity, temperature, cholesterol levels and a number of other bodily functions.
+
+Adrenaline Pump (Tier 4): This enhanced gland is implanted in the lower abdomen, connected to both supradrenal glands. When dormant, the pump is merely a reservoir for adrenaline. When activated, a small muscular sac contracts, sending a surge of concentrated adrenaline into the blood stream. While active you can add the Adrenaline Pumps tier rating as a bonus to your Strength, Dexterity, and Constitution. After the effects have worn off, you suffer from extreme lethargy and possible unconsciousness.
+
+Bone Density Augmentation (Tier 3): The molecular structure of your bones is altered to increase density and tensile strength. Ligaments are strengthened, and the increased bone density increases your weight a bit. Bone density augmentation is incompatible with other augmentations to the bones, including bone lacing cyberware.
+
+Cerebral Booster (Tier 3): The convolutions and gyri of your cerebrum are augmented and amplified with additional nervous tissue, improving overall brain function. The cerebral booster adds its tier rating to your Intelligence.
+
+Sleep Regulator (Tier 3): The sleep regulator is a modification to the hypothalamus, allowing for longer periods of wakefulness, an incredibly useful advantage for anyone with any profession. You need less sleep per day and the sleep you get is deep and restful (and harder to wake you up from). The sleep regulator lets you get by with three hours of sleep each night and stay awake for twice as long as normal before having to resist sleep deprivation fatigue.
+
+Traits: None
+
+Abilities: None
