@@ -1,0 +1,197 @@
+Name: Ghost
+Race: Human Male
+Profession: Ship Captain, Tactical Officer, US Government Representative
+
+Primary Attributes
+Attribute       Score
+Strength        7(10)
+Dexterity       9(12)
+Constitution    7(8)
+Intelligence    8(11)
+Wisdom          7
+Charisma        8
+Comeliness      7
+Technical       7
+Luck		7
+
+Secondary Attributes
+[HP]		14
+[MA]		6
+[MOVE] Land	5 kph
+[LIFT]		Carry 225, Lift 450, Drag 675
+
+Defenses                AC   Armor
+Nanotech Bodysuit       +2   2
+
+Attack 		Bonus  Dmg   AP  Type    Notes
+Unarmed         +12    8     0   Blunt   -
+Laser Pistol    +16    6(9)  0   Energy  -
+Vibrorapier     +18    8     10  Blade   -
+
+Skill                         Score  Attribute  Modifiers  Total
+Initiative                      3    12         +3         18
+Combat, Physical Skills
+   Unarmed Combat               2    10         -          12
+   Personal Armor               3    12         -          15
+   Melee Combat (Rapier)        3(6) 12         -          15(18)
+   Thrown Weapons               2    10         -          12
+   Projectiles                  2    12         -          14
+Combat, Ranged Skills
+   Small Arms                   3    12         -          15
+   Light Arms                   2    12         -          14
+   Heavy Weapons                2    12         -          14
+   Gunnery                      3    12         -          15
+   Artillery                    2    11         -          13
+Engineering Skills
+   Civil                        1    11         -          12
+   Mechanical                   1    11         -          12
+   Electrical                   1    11         -          12
+   Chemical                     1    11         -          12
+   Industrial                   1    11         -          12
+Entertainment Skills
+   Oratory                      3    8          -          11
+   Performance (Pick One)       2    8          -          10
+   Personal Grooming            2    8          -          10
+   Play Instrument (Pick One)   2    8          -          10
+   Wardrobe & Style             2    8          +1         11
+Physical Skills
+   Acrobatics (Zero-G)          2(4) 12         -/+4       14(20)
+   Athletics (Water Polo)       3(6) 10         -          13(16)
+   Running                      3    10         -          13
+   Swimming                     6    10         -          16
+   Endurance                    3    8          -          11
+Observation Skills
+   Insight                      3    7          -          10
+   Interrogation                3    8          -          11
+   Investigation                3    11         -          14
+   Lip Reading                  3    7          -          10
+   Perception                   3    7          +4         14
+Outdoor Skills
+   Nature                       -    -          -          -
+   Navigation/Orienteering      1    7          -          8
+   Rope Use                     -    -          -          -
+   Survival                     2    7          -          9
+   Tracking                     -    -          -          -
+Piloting Skills
+  Aerospace                     1    12         -          13
+  Ground Craft                  1    12         -          13
+  Remote                        3    12         -          15
+  Starship                      1    12         -          13
+  Walker                        1    12         -          13
+Sciences, Life Skills
+   Biology                      2    11         -          13
+   Zoology                      2    11         -          13
+   Botany                       2    11         -          13
+   Ecology                      2    11         -          13
+   Biotechnology                2    11         -          13
+Sciences, Physical Skills
+   Geology                      3    11         -          14
+   Astronomy                    2    11         -          13
+   Chemistry                    2    11         -          13
+   Physics                      2    11         -          13
+   Planetology                  3    11         -          14
+Social Skills
+   Etiquette/Social             4    8          -          12
+   Deception                    3    8          -          11
+   Intimidate                   3    8          -          11
+   Persuasion                   3    8          -          11
+   Seduction                    3    8          +1         11
+Stealth Skills
+   Disguise                     1    8          -          9
+   Impersonation                1    8          -          9
+   Lock Picking                 1    7          -          8
+   Palming                      1    12         -          13
+   Sneak                        2    12         -          14
+Tech, Commercial Skills
+   Electronics                  4    7          +4         15
+   Computers                    4    7          +4         15
+   Weaponry                     2    7          +4         13
+   Robotics                     2    7          +4         13
+   Cybernetics                  2    7          +4         13
+Tech, Industrial Skills
+   Mechanics                    1    7          +4         12
+   Construction                 1    7          +4         12
+   Environmental                1    7          +4         12
+   Propulsion                   1    7          +4         12
+   Power                        1    7          +4         12
+Trade Skills
+   Accounting                   2    11         -          13
+   Appraise                     1    11         -          12
+   Business Sense               1    11         -          12
+   Haggle                       1    8          -          9
+   Social Networking            3    8          -          11
+Underworld Skills
+   Bribery                      1    8          -          9
+   Escape Artist                1    12         -          13
+   Forgery                      1    11         -          12
+   Gambling                     1    7          -          8
+   Streetwise                   1    8          -          9
+Knowledge: 
+  Administration                2    11         +2         15
+  Logistics                     3    11         +2         16
+  Tactics                       4    11         +2         17
+  Cartography                   3    11         +2         16
+  Advanced Mathematics          3    11         +4         16
+  GIS & Spatial Analysis        4    11         +2         17
+  Programming                   3    11         +2         16
+  Planetary Data Analysis       4    11         +2         17
+  Astrobiology                  3    11         +2         16
+  Supply Chain Management       2    11         +2         15
+  Operations Management         3    11         +2         16
+  Economics                     2    11         +2         15
+  Planetary Resource Management 2    11         +2         15
+  History (Military)            2(4) 11         +2         15(17)
+  Political Science             2    11         +2         15
+  War Theory                    4    11         +2         17
+  Data Analysis                 3    11         +2         16
+  Cybersecurity                 2    11         +2         15
+  
+  
+Modifications:
+
+Datajack (Tier 4): Datajacks are direct neural interface implants that allow you to directly access computers and information with your mind. They typically resemble a coin-sized dataport that is implanted either on the side of the head (typically in the temporal region of the skull, behind the ear or on the temple) or the back of the neck (just below the brainstem). It comes with a retractable spool of micro-cable (about a meter long) that lets you directly interface with any electronic device via a universal access cable. Datajacks are equipped with their own cache of storage memory for downloading or saving files. Optionally, Datajacks can be installed to be hidden and use an induction link hidden under the skin, but the response rate of the interface drops by around 15-20%.
+
+Attention Coprocessor (Tier 4): A cybernetic implant in the frontal cortex and limbic system improves continuous partial attention, helping to keep track of events in the background without losing the foreground. Also improves the sensory cortex to help you glean as much as possible from incoming sensory data. Add the attention coprocessors tier rating as a bonus to your perception skill
+
+Encephalon (Tier 4): This expert-system microprocessor is hardwired directly into the user's cortex, augmenting its user's information-processing abilities allowing and for faster and better handling of complex data. Add the Encephalon tier rating to all Tech skills.
+
+Skilljack (Tier 4): The skilljack is a piece of cyberware that allows your to upload and access knowledge based skills as if they were your own.
+
+Math SPU (Tier 4): The math SPU allows you to quickly perform any and all mathematical functions, while most of the benefits of the math spu are purely for convenience, you also gain a bonus equal to its tier rating to your Tech: Electronics (Electronic Warfare) skill.
+
+Auto-injector (Tier 4): A cybernetic auto-injector is an implant that can produce a number of drugs equal to the auto-injector tier rating, which will be automatically released into your body when needed. After a drug has been used by the auto-injector it takes time for the nanite factory to produce another dose.
+
+Gastric Neurostimulator (Tier 4): This augmentation gives you total immunity to nausea and disorientation effects.
+
+Image Link (Tier 4):This enhancement lets you display visual information (text, pictures, movies, the current time, etc.) in your field of vision.
+
+Flare Compensation (Tier 4): An implanted version of the flare compensation enhancement. This protects you from blinding flashes of light as well as simple glare. It mitigates the vision modifiers for glare and reduces the penalty from flashing lights, like from a flash-pak.
+
+Smartlink (Tier 4): This modification allows information and targeting enhancements from a smartlink equipped weapon to show in the users vision, much like a built-in HUD.
+
+Sound Link (Tier 4): The sound link can play audio (recordings, movie soundtracks, music, etc.) from linked sources within the user’s PAN (or headware memory, or datajack) directly into the user’s cyberears.
+
+Balance Augmenter (Tier 4): The balance augmenter enhances the inner ear’s natural balance mechanism. The user receives a bonus to acrobatics & athletics checks involving balance, such as climbing, walking across a narrow platform, landing after a jump, and so on.
+
+Biomonitor (Tier 4): A favorite of soldiers and corporate types, this is an under-skin display mounted on the forearm. It provides a real-time readout of common body functions like heart rate, blood pressure, blood chemistry, brainwave activity, temperature, cholesterol levels and a number of other bodily functions.
+
+Bone Density Augmentation (Tier 3): The molecular structure of your bones is altered to increase density and tensile strength. Ligaments are strengthened, and the increased bone density increases your weight a bit. Bone density augmentation is incompatible with other augmentations to the bones, including bone lacing cyberware.
+
+Muscle Augmentation (Tier 3): This biological weaving treatment enhances existing muscle tissue, rather than replacing it with vat-grown muscles. Specially grown muscle cables are woven into existing muscle fibers, enhancing muscle mass and brute strength while providing a bulkier look. Muscle augmentation adds a bonus to your strength equal to its tier rating. This augmentation is incompatible with augmentations that increase Strength, including the muscle replacements cyberware.
+
+Muscle Toner (Tier 3): This treatment increases muscle fiber elasticity in existing muscle tension, resulting in increased muscle tension and flexibility while providing a smooth and ropy physique. Muscle toner adds a bonus to your Dexterity equal to its tier rating. This augmentation is incompatible with augmentations that increase Dexterity, including the muscle replacements cyberware.
+
+Cerebral Booster (Tier 3): The convolutions and gyri of your cerebrum are augmented and amplified with additional nervous tissue, improving overall brain function. The cerebral booster adds its tier rating to your Intelligence. 
+
+Mnemonic Enhancer (Tier 2): This highly concentrated growth of grey matter gets attached to the brain’s memory centers, improving both short-term and long-term memory.
+
+Sleep Regulator (Tier 2): The sleep regulator is a modification to the hypothalamus, allowing for longer periods of wakefulness, an incredibly useful advantage for anyone with any profession. You need less sleep per day and the sleep you get is deep and restful (and harder to wake you up from). The sleep regulator lets you get by with three hours of sleep each night and stay awake for twice as long as normal before having to resist sleep deprivation fatigue.
+
+Synaptic Booster (Tier 3): The nerve cells making up the spinal cord are both broadened and replicated with this bioware, allowing for more neural bandwidth. The result is a much faster reaction time. The booster confers a bonus equal to its tier rating to your Initiative. The synaptic booster cannot be combined with any other form of Initiative enhancement.
+
+Nephritic Screen (Tier 2): With the installation of a Nephritic Screen, the kidney is rebuilt to improve filtration and reclamation. Finer discrimination in the removal of waste products and the reclamation of useful materials causes a greater level of well-being.
+
+
+Traits: None
+
+Abilities: None
