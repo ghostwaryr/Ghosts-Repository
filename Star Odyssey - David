@@ -1,0 +1,202 @@
+Name: UNMC Colonel David Rand
+Race: Human Male
+Profession: Mission Commander, Planetologist
+
+Primary Attributes
+Attribute       Score
+Strength        8/13(15)
+Dexterity       8/12(16)
+Constitution    9/13(14)
+Intelligence    9/14(19)
+Wisdom          9/11
+Charisma        8
+Comeliness      7
+Technical       8/10
+Luck		6
+
+Secondary Attributes
+[HP]		24
+[MA]		8
+[MOVE] Land	6 kph
+[LIFT]		Carry 350, Lift 700, Drag 1,050
+
+Defenses                AC   Armor    Notes
+Nanotech Bodysuit       +5   5        Nansuit has built-in active camouflage, radar deflection, and IR diffusion
+Power Amor              +0   24       Ablative Padding +4 armor vs Lasers, Sensor Baffles (Helmet/Visor Armor 18, Joint Bellows Armor 12, Abdominal Gap Armor 14)
+
+Attack 		    Bonus  Dmg    AP  Type      Notes
+Unarmed             +18    14     0   Blunt     -
+Unarmed (Wrestling) +20    10     0   Blunt     -
+Monosword           +18    15     10  Slashing  If damage done to target exceeds location hit points, target is severed from whole, no matter what the target
+Laser Pistol        +23    6(9)   0   Energy    multi-phased, dual mode, smartlink
+Laser Carbine       +25    9(13)  0   Energy    multi-phased, dual mode, smartlink
+Gauss Rifle         +25    12(15) 8   Piercing  Semi-Auto, Full Auto Capability. (12) Damage with autofire, (15) damage on single shot
+
+Skill                         Score  Attribute  Modifiers  Total
+Initiative                      4    16         +8         28
+Combat, Physical Skills
+   Unarmed Combat (Wrestling)   3(5) 15         -          18(20)
+   Personal Armor               3    16         -          19
+   Melee Combat                 2    16         -          18
+   Thrown Weapons               1    15         -          16
+   Projectiles                  2    16         -          18
+Combat, Ranged Skills
+   Small Arms                   3    16         -          19
+   Light Arms                   5    16         -          21
+   Heavy Weapons                2    16         -          18
+   Gunnery                      4    19         -          23
+   Artillery                    2    19         -          21
+Engineering Skills
+   Civil (Military)             1(3) 19         -          20(22)
+   Mechanical                   1    19         -          20
+   Electrical                   1    19         -          20
+   Chemical                     1    19         -          20
+   Industrial                   1    19         -          20
+Entertainment Skills
+   Oratory                      2    8          -          10
+   Performance (Pick One)       -    -          -          -
+   Personal Grooming            2    8          -          10
+   Play Instrument (Drums)      0(2) 10         -          10(12)
+   Wardrobe & Style             2    8          -          10
+Physical Skills
+   Acrobatics (Dodge)           4(6) 16         -          20(22)
+   Athletics                    5    15         +4         23
+   Running                      4    15         +4         22
+   Swimming                     4    15         -          19
+   Endurance                    6    14         +5         25
+Observation Skills
+   Insight (Humanoid)           2(4) 11         +3         16(18)
+   Interrogation (Interview)    2(4) 8          +3         13(15)
+   Investigation                3    19         -          22
+   Lip Reading                  1    11         +2         14
+   Perception                   5    11         +6         22
+Outdoor Skills
+   Nature                       3    11         -          14
+   Navigation/Orienteering      5    19         +3         27
+   Rope Use                     3    19         -          22
+   Survival                     4    11         +5         20
+   Tracking                     2    11         +3         16
+Piloting Skills
+  Aerospace                     1    16         -          17
+  Ground Craft                  2    16         -          18
+  Remote                        3    16         -          19
+  Starship                      0    16         -3         13
+  Walker                        3    16         -          19
+Sciences, Life Skills
+   Biology                      2    19         -          21
+   Zoology                      1    19         -          20
+   Botany                       1    19         -          20
+   Ecology                      3    19         -          22
+   Biotechnology                1    19         -          20
+Sciences, Physical Skills
+   Geology                      4    19         -          23
+   Astronomy                    3    19         -          22
+   Chemistry                    2    19         -          21
+   Physics                      2    19         -          21
+   Planetology                  5    19         -          24
+Social Skills
+   Etiquette/Social             2    8          +4         14
+   Deception                    3    8          +4         15
+   Intimidate                   5    8          +4         17
+   Persuasion                   3    8          +4         15
+   Seduction                    1    8          +4         13
+Stealth Skills
+   Disguise                     1    8          -          9
+   Impersonation                0    8          -3         5
+   Lock Picking                 2    16         +3         21
+   Palming                      2    16         -          18
+   Sneak                        5    16         +4         25
+Tech, Commercial Skills
+   Electronics                  4    10         +5         19
+   Computers                    2    10         +5         17
+   Weaponry                     3    10         +5         18
+   Robotics                     2    10         +5         17
+   Cybernetics                  1    10         +5         16
+Tech, Industrial Skills
+   Mechanics                    1    10         +5         16
+   Construction                 1    10         +5         16
+   Environmental                2    10         +5         17
+   Propulsion                   1    10         +5         16
+   Power                        1    10         +5         16
+Trade Skills
+   Accounting                   -
+   Appraise                     1    19         -          20
+   Business Sense               2    19         -          21
+   Haggle                       -    -          -          -
+   Social Networking            3    8          -          11
+Underworld Skills
+   Bribery                      1    8          -          9
+   Escape Artist                2    16         -          18
+   Forgery                      1    19         -          20
+   Gambling (Poker)             1(2) 6(19)      -          7(21)
+   Streetwise                   4    11         -          15
+Knowledge: 
+  Tactics                       5    19         -          21
+  ...
+  ...
+
+
+Modifications:
+
+Datajack (Tier 4): Datajacks are direct neural interface implants that allow you to directly access computers and information with your mind. They typically resemble a coin-sized dataport that is implanted either on the side of the head (typically in the temporal region of the skull, behind the ear or on the temple) or the back of the neck (just below the brainstem). It comes with a retractable spool of micro-cable (about a meter long) that lets you directly interface with any electronic device via a universal access cable. Datajacks are equipped with their own cache of storage memory for downloading or saving files. Optionally, Datajacks can be installed to be hidden and use an induction link hidden under the skin, but the response rate of the interface drops by around 15-20%.
+
+Commlink (Tier 5): The implanted version of the commlink.
+
+Attention Coprocessor (Tier 4): A cybernetic implant in the frontal cortex and limbic system improves continuous partial attention, helping to keep track of events in the background without losing the foreground. Also improves the sensory cortex to help you glean as much as possible from incoming sensory data. Add the attention coprocessors tier rating as a bonus to your perception skill.
+
+Encephalon (Tier 5): This expert-system microprocessor is hardwired directly into the user's cortex, augmenting its user's information-processing abilities allowing and for faster and better handling of complex data. Add the Encephalon tier rating to all Tech skills.
+
+Math SPU (Tier 4): The math SPU allows you to quickly perform any and all mathematical functions, while most of the benefits of the math spu are purely for convenience, you also gain a bonus equal to its tier rating to your Tech: Electronics (Electronic Warfare) skill.
+
+Bone Lacing (Tier 4): Your bones are laced with lattice chains of reinforcing plastics or metals, improving their integrity and tensile strength. Bone lacing comes in one of several types depending on the tier rating: Titanium: +2 Constitution, +4 Armor vs bludgeoning damage
+
+Muscle Replacement (Tier 4): Vat-grown synthetic muscles augment your own, and calcium treatments and skeletal reinforcement contribute to your overall strength. It increases both your Strength and Dexterity attributes by its tier rating.
+
+Wired Reflexes (Tier 4): This highly invasive and painful enhancement adds a multitude of neural boosters and adrenaline stimulators in strategic locations throughout your body. The combined effect can make you almost superhumanly fast and agile. (4) +4 Dexterity, +8 bonus to Initiative
+
+Image Link (Tier 4):This enhancement lets you display visual information (text, pictures, movies, the current time, etc.) in your field of vision.
+
+Smartlink (Tier 4): This modification allows information and targeting enhancements from a smartlink equipped weapon to show in the users vision, much like a built-in HUD.
+
+Sound Link (Tier 4): The sound link can play audio (recordings, movie soundtracks, music, etc.) from linked sources within the user’s PAN (or headware memory, or datajack) directly into the user’s cyberears.
+
+Pathogenic Defense(Tier 4): The Pathogenic Defense augmentation involves an enhancement of the spleen, spearheading the production of more effective and aggressive leukocytes, or white blood cells. These cells are then released into the bloodstream and lymphatic system to combat disease and infection.
+
+Symbiotes(Tier 5): Symbiotes consist of a number of tailored microorganisms that are introduced into the host's bloodstream. They dramatically enhance the body's regenerative functions, reducing the host's natural healing time. To fuel the symbiote activity, the character must increase his food and drink consumption.
+
+Tailored Pheromones (Tier 4): These pheromones are specially tailored to subtly influence others and can be released at will. Tailored pheromones adds a bonus equal to its tier rating to all skills in the Acting and Influence skill groups, but only when the person you’re using them on is within a comfortable conversation range and able to smell you. 
+
+Toxin Extractor (Tier 5): The liver is the body's main organ for catabolism, or the breakdown of complex substances. As such, it is the first line of defense against potentially toxic compounds and drugs. The Toxin Extractor is a specially cultivated cluster of cells implanted in the liver to greatly improve the efficiency and to expand the spectrum of catabolic activity. Potential toxins that make their way into the bloodstream are filtered out in the liver, and with the aid of the extractor they are broken down into harmless fragments and then expelled.
+
+Cerebral Booster (Tier 5): The convolutions and gyri of your cerebrum are augmented and amplified with additional nervous tissue, improving overall brain function. The cerebral booster adds its tier rating to your Intelligence.
+
+Mnemonic Enhancer (Tier 5): This highly concentrated growth of grey matter gets attached to the brain’s memory centers, improving both short-term and long-term memory.
+
+Synaptic Booster (Tier 4): The nerve cells making up the spinal cord are both broadened and replicated with this bioware, allowing for more neural bandwidth. The result is a much faster reaction time.
+
+Nictitating Membranes (Tier 4): This process stimulates the growth of a clear protective membrane covering the eyes, similar to that possessed by many animals. This "inner eyelid" protects the eyes, keeping out sand, grit, smoke and other irritants. This eye protection eases underwater activities. The membranes are light sensitive and become tinted under bright light. Further, they are polarized to reduce glare.
+
+Nephritic Screen (Tier 5): With the installation of a Nephritic Screen, the kidney is rebuilt to improve filtration and reclamation. Finer discrimination in the removal of waste products and the reclamation of useful materials causes a greater level of well-being.
+
+
+Traits: DNAM Augmentation
+
+Abilities: David's DNAM Augmentation has the following effects:
+Muscle Density Metaprogramming: Rewriting your myostatin levels to allow for superhuman strength without the "bulky" look.
+Neural Plasticity Enhancement: Shortening the time it takes to gain "muscle memory."
+Hemoglobin Optimization: Enhancing the oxygen-carrying capacity of your blood. This is vital for breathing thin atmospheres on alien worlds.
+Hyper-Oxygenated Blood: Rewritten hemoglobin for 3x oxygen efficiency. He can sprint for miles or survive in thin "Dry World" atmospheres without a mask.
+Telomere Repair and Enhanced Cellular Regeneration. You’d heal from a gunshot in days rather than weeks
+Circadian Rhythm Metaprogramming: Essentially a biological Sleep Regulator. You could function at 100% cognitive capacity on 2 hours of sleep for weeks at a time
+Toxin Filtration: Bio-engineered liver and kidneys to survive poisonous alien flora.
+Hyper-Acute Senses: Granting a bonus similar to Vison Enhancement(4), Audio Enhancement(4), and Olfactory Booster(4)
+Thermal Regulation: The ability to survive in sub-zero forest nights or desert heat without standard gear.
+Enhanced Mitochondrial Density: He has 4x the energy reserves of a normal man. He doesn't get "tired" in the traditional sense.
+Subdermal Keratin Lattice: A biological "mesh" that makes his skin and bones significantly harder to break, but looks like normal skin.
+Hyper-Oxygenated Blood: Rewritten hemoglobin for 3x oxygen efficiency. He can sprint for miles or survive in thin "Dry World" atmospheres without a mask.
+Metabolic Efficiency: His body can process almost any organic matter (even mildly toxic alien flora) into calories. He can go 7 days without food before performance drops.
+Rapid Clotting & Cell Repair: A "controlled cancer" mechanism. Minor wounds close in minutes; broken bones knit in days.
+Neural-Glial Cleansing: His brain cleans out metabolic waste while he’s awake, allowing for 72+ hours of peak performance without sleep.
+Neuro-Glial Optimization: His brain clears metabolic waste faster, meaning he doesn't suffer the "fog" of sleep deprivation.
+Vestibular Balancing: Genetic rewriting of the semi-circular canals in the inner ear to prevent motion sickness and "Space Adaptation Syndrome."
+Endocrine Regulation: A "Governor" on the adrenal glands. He can consciously suppress or trigger an adrenaline dump.
