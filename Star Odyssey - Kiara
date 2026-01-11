@@ -1,0 +1,152 @@
+Name: Kiara, aka 'Jade'
+Race: Human Female
+Profession: Raider Pilot & Tactical Officer
+
+Primary Attributes
+Attribute       Score
+Strength        6(9)
+Dexterity       11
+Constitution    7
+Intelligence    8
+Wisdom          9
+Charisma        8
+Comeliness      8
+Technical       8
+Luck		7
+
+Secondary Attributes
+[HP]		13
+[MA]		6
+[MOVE] Land	5 kph
+[LIFT]		Carry 200, Lift 200, Drag 200
+
+Defenses                AC     Armor   Notes
+Pandoran Bodysuit       +2     3       Easy genital release, enhanced strength
+Stealth Cloak           (+10)  0       Active camouflage, radar deflection, and IR diffusion
+
+Attack 		Bonus  Dmg  AP  Type      Notes
+Unarmed         12     4    0   Blunt     -
+Martial Arts    14     4    0   Blunt     -
+Mono Katana     15     10   10  Slashing  If damage done to target exceeds location hit points, target is severed from whole, no matter what the target
+Mono Ninjato    15     8    10  Slashing  If damage done to target exceeds location hit points, target is severed from whole, no matter what the target
+Kunai           15     12   2   Piercing  -
+Shuriken        16     2    1   Slashing  -
+Fukiya          13     1    0   Piercing  Poison Darts   
+Plasma Pistol   14     9    0   Energy    ?
+
+
+Skill                         Score  Attribute  Modifiers  Total
+Initiative                      7    12         -           19
+Combat, Physical Skills
+   Unarmed (Martial Arts)       1(3) 11         -           12(14)
+   Personal Armor               2    11         -           13
+   Melee Combat                 2(4) 11         -           13(15)
+   Thrown Weapons (Aero)        2(4) 9(12)      -           11(16)
+   Projectiles                  2    11         -           13
+Combat, Ranged Skills
+   Small Arms                   3    11         -           14
+   Light Arms                   3    11         -           14
+   Heavy Weapons                3    11         -           14
+   Gunnery                      4    11         -           15
+   Artillery                    3    8          -           11
+Engineering Skills
+   Civil                        -    -          -           -
+   Mechanical                   1    8          -           9
+   Electrical                   1    8          -           9
+   Chemical                     -    -          -           -
+   Industrial                   -    -          -           -
+Entertainment Skills
+   Oratory                      2    8          -           10
+   Performance (Pick One)       5    8          -           13
+   Personal Grooming            4    8          -           9
+   Play Instrument (Pick One)   3    8          -           11
+   Wardrobe & Style             4    8          -           12
+Physical Skills
+   Acrobatics                   4    12         +4          20
+   Athletics                    2    9          +4          15
+   Running                      2    9          +4          15
+   Swimming                     2    9          +4          15
+   Endurance                    2    7          +4          13
+Observation Skills
+   Insight                      4    9          -           13
+   Interrogation                3    8          -           11
+   Investigation                3    8          -           11
+   Lip Reading                  3    9          -           12
+   Perception                   5    9          -           14
+Outdoor Skills
+   Nature                       2    9          -           11
+   Navigation/Orienteering      2    9          -           11
+   Rope Use                     3    9          -           12
+   Survival                     2    9          -           11
+   Tracking                     2    9          -           11
+Piloting Skills
+  Aerospace                     3    12         -           15
+  Ground Craft                  1    12         -           13
+  Remote                        2    12         -           14
+  Starship                      2    12         -           14
+  Walker                        -    -          -           -
+Sciences, Life Skills
+   Biology                      1    8          -           9
+   Zoology                      1    8          -           9
+   Botany                       2    8          -           10
+   Ecology                      1    8          -           9
+   Biotechnology                1    8          -           9
+Sciences, Physical Skills
+   Geology                      1    8          -           9
+   Astronomy                    1    8          -           9
+   Chemistry                    3    8          -           11
+   Physics                      1    8          -           9
+   Planetology                  1    8          -           9
+Social Skills
+   Etiquette/Social             3    8          -           11
+   Deception                    4    8          -           12
+   Intimidate                   3    8          -           11
+   Persuasion                   3    8          -           11
+   Seduction                    4    8          +4          16
+Stealth Skills
+   Disguise                     4    8          -           12
+   Impersonation                4    8          -           12
+   Lock Picking                 4    12         -           16
+   Palming                      4    12         -           16
+   Sneak                        6    12         +4          22
+Tech, Commercial Skills
+   Electronics                  4    8          -           12
+   Computers                    2    8          -           10
+   Weaponry                     -    -          -           -
+   Robotics                     -    -          -           -
+   Cybernetics                  -    -          -           -
+Tech, Industrial Skills
+   Mechanics                    -    -          -           -
+   Construction                 -    -          -           -
+   Environmental                -    -          -           -
+   Propulsion                   -    -          -           -
+   Power                        -    -          -           -
+Trade Skills
+   Accounting                   -    -          -           -
+   Appraise                     2    8          -           10
+   Business Sense               -    -          -           -
+   Haggle                       -    -          -           -
+   Social Networking            2    8          -           10
+Underworld Skills
+   Bribery                      3    8          -           11
+   Escape Artist                3    12         -           15
+   Forgery                      3    8          -           11
+   Gambling                     3    7          -           10
+   Streetwise                   3    8          -           11
+Knowledge: 
+  Bushido Philosophy            1    8          -           9
+  Criminal Organizations        2    8          -           10
+  Poisons                       4    8          -           12
+  Japanese Culture              2    8          -           10
+  Security Procedures           3    8          -           11
+  Small Unit Tactics            2    8          -           10
+
+
+Modifications: None
+
+Traits: Ambidextrous, Catlike, Natural Athlete, Daredevil
+
+Abilities:
+* Catlike: Kiara has an uncanny elegance, a stealthy gait, and an almost preternatural ability to move without making a sound.
+* Natural Athlete: Kiara is the daughter of one of Earth greatest un-augmented athletes and has inherited his innate combination of physical fitness, spatial awareness, and natural athletic or gymnastic talent.
+* Daredevil: Sometimes its better to be lucky than good and fortune favors the bold. Kiara has a tendency to pull off exceptionally daring actions. Whenever she attempts to pull of a very risky action with serious consequences if she fails, she can add her Luck attribute to the action taken.
