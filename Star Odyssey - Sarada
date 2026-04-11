@@ -1,0 +1,151 @@
+Name: Sarada, aka 'Onyx'
+Race: Human Female
+Profession: Raider Armorer & Security Officer
+
+Primary Attributes
+Attribute       Score
+Strength        7(9)
+Dexterity       11
+Constitution    7
+Intelligence    8
+Wisdom          8
+Charisma        8
+Comeliness      8
+Technical       9
+Luck		6
+
+Secondary Attributes
+[HP]		13
+[MA]		6
+[MOVE] Land	5 kph
+[LIFT]		Carry 200, Lift 450, Drag 600
+
+Defenses                AC   Armor     Notes
+Pandoran Bodysuit       +2     3       Easy genital release, enhanced strength
+Stealth Cloak           (+10)  0       Active camouflage, radar deflection, and IR diffusion
+
+Attack 		Bonus  Dmg  AP  Type  Notes
+Unarmed         13     4    0   Blunt     -
+Martial Arts    15     4    0   Blunt     -
+Mono Katana     15     10   10  Slashing  If damage done to target exceeds location hit points, target is severed from whole, no matter what the target
+Mono Ninjato    15     8    10  Slashing  If damage done to target exceeds location hit points, target is severed from whole, no matter what the target
+Kunai           15     12   2   Piercing  -
+Shuriken        15     2    1   Slashing  -
+Fukiya          13     1    0   Piercing  Poison Darts   
+Plasma Pistol   15     9    0   Energy    ?
+
+Skill                         Score  Attribute  Modifiers  Total
+Initiative                      7       11         -        18
+Combat, Physical Skills
+   Unarmed (Martial Arts)       2(4)    11         -        13(15)
+   Personal Armor               2       11         -        13
+   Melee Combat                 2(4)    11         -        13(15)
+   Thrown Weapons (Aero)        2(4)    9(11)      -        11(15)
+   Projectiles                  2       11         -        13
+Combat, Ranged Skills
+   Small Arms                   4       11         -        15
+   Light Arms                   3       11         -        14
+   Heavy Weapons                3       11         -        14
+   Gunnery                      3       11         -        14
+   Artillery                    3       8          -        14
+Engineering Skills
+   Civil                        -       -          -        -
+   Mechanical                   1       8          -        9
+   Electrical                   1       8          -        9
+   Chemical                     -
+   Industrial                   -
+Entertainment Skills
+   Oratory                      2       8          -        10
+   Performance (Pick One)       5       8          -        13
+   Personal Grooming            4       8          -        12
+   Play Instrument (Pick One)   3       8          -        11
+   Wardrobe & Style             4       8          -        12
+Physical Skills
+   Acrobatics                   4       12         +4       20
+   Athletics                    2       9          +4       15
+   Running                      2       9          +4       15
+   Swimming                     2       9          +4       15
+   Endurance                    2       7          +4       13
+Observation Skills
+   Insight                      4       8          +2       14
+   Interrogation                3       8          -        11
+   Investigation                3       8          -        11
+   Lip Reading                  3       8          +2       13
+   Perception                   5       8          +4       17
+Outdoor Skills
+   Nature                       2       8          -        10
+   Navigation/Orienteering      2       8          -        10
+   Rope Use                     3       8          -        11
+   Survival                     2       8          -        10
+   Tracking                     2       8          +4       14
+Piloting Skills
+  Aerospace                     1       11         -        12
+  Ground Craft                  2       11         -        13
+  Remote                        2       11         -        13
+  Starship                      1       11         -        12
+  Walker                        1       11         -        12
+Sciences, Life Skills
+   Biology                      1       8          -        9
+   Zoology                      2       8          -        10
+   Botany                       1       8          -        9
+   Ecology                      1       8          -        9
+   Biotechnology                1       8          -        9
+Sciences, Physical Skills
+   Geology                      1       8          -        9
+   Astronomy                    1       8          -        9
+   Chemistry                    2       8          -        10
+   Physics                      1       8          -        9
+   Planetology                  1       8          -        9
+Social Skills
+   Etiquette/Social             3       8          -        11
+   Deception                    3       8          -        11
+   Intimidate                   4       8          -        12
+   Persuasion                   3       8          -        11
+   Seduction                    3       8          +4       15
+Stealth Skills
+   Disguise                     4       8          -        12
+   Impersonation                4       8          -        12
+   Lock Picking                 4       11         +2       17
+   Palming                      4       11         -        15
+   Sneak                        6       11         +4       21
+Tech, Commercial Skills
+   Electronics                  2       9          -        11
+   Computers                    2       9          -        11
+   Weaponry                     4       9          -        13
+   Robotics                     1       9          -        10
+   Cybernetics                  1       9          -        10
+Tech, Industrial Skills
+   Mechanics                    -       -          -        -
+   Construction                 -       -          -        -
+   Environmental                -       -          -        -
+   Propulsion                   -       -          -        -
+   Power                        -       -          -        -
+Trade Skills
+   Accounting                   -       -          -        -
+   Appraise                     2       8          -        10
+   Business Sense               -       -          -        -
+   Haggle                       -       -          -        -
+   Social Networking            2       8          -        10
+Underworld Skills
+   Bribery                      3       8          -        11
+   Escape Artist                3       11         -        14
+   Forgery                      3       8          -        11
+   Gambling                     3       6          -        9
+   Streetwise                   3       8          -        11
+Knowledge: 
+  Bushido Philosophy            1       8          -        9
+  Criminal Organizations        2       8          -        10
+  Poisons                       3       8          -        11
+  Japanese Culture              2       8          -        10
+  Security Procedures           4       8          -        12
+  Small Unit Tactics            2       8          -        10
+
+
+Modifications: None
+
+Traits: Ambidextrous, Catlike, Natural Athlete, Hyperacute Senses
+Catlike: Kiara has an uncanny elegance, a stealthy gait, and an almost preternatural ability to move without making a sound. 
+Natural Athlete: Kiara is the daughter of one of Earth greatest un-augmented athletes and has inherited his innate combination of physical fitness, spatial awareness, and natural athletic or gymnastic talent.
+
+Abilities:
+
