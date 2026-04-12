@@ -1,0 +1,143 @@
+Name: Miranda
+Race: Human Female
+Profession: Homesteader
+
+Primary Attributes
+Attribute       Score
+Strength        5
+Dexterity       6
+Constitution    6
+Intelligence    7
+Wisdom          9
+Charisma        9
+Comeliness      9
+Technical       5
+Luck		6
+
+Secondary Attributes
+[HP]		12
+[MA]		6
+[MOVE] Land	5 kph
+[LIFT]		Carry 100, Lift 200, Drag 300
+
+Defenses                AC   Armor
+Colonist Bodysuit       +1     0
+
+Attack 		Bonus  Dmg  AP  Type  Notes
+Unarmed          +5     1   0   Bl     -
+
+Skill                         Score  Attribute  Modifiers  Total
+Initiative                      3       6          -         9
+Combat, Physical Skills
+   Unarmed Combat               0       5          -         5
+   Personal Armor               -       -          -         -
+   Melee Combat                 -       -          -         -
+   Thrown Weapons               -       -          -         -
+   Projectiles                  -       -          -         -
+Combat, Ranged Skills
+   Small Arms                   1       6          -         7
+   Light Arms                   2       6          -         8
+   Heavy Weapons                -       -          -         -
+   Gunnery                      -       -          -         -
+   Artillery                    -       -          -         -
+Engineering Skills
+   Civil                        -       -          -         -
+   Mechanical                   -       -          -         -
+   Electrical                   -       -          -         -
+   Chemical                     -       -          -         -
+   Industrial                   -       -          -         -
+Entertainment Skills
+   Oratory                      4       9          +4        17
+   Performance (Singing)        4       9          +4        17
+   Personal Grooming            4       9          -         13
+   Play Instrument (Harp)       4       9          +4        17
+   Wardrobe & Style             4       9          -         13
+Physical Skills
+   Acrobatics                   2       6          -         8
+   Athletics                    1       5          -         6
+   Running                      1       6          -         7
+   Swimming                     2       5          -         7
+   Endurance                    1       6          -         7
+Observation Skills
+   Insight                      3       9          +4        16
+   Interrogation                1       9          +4        14
+   Investigation                1       7          -         8
+   Lip Reading                  1       9          -         10
+   Perception                   3       9          -         12
+Outdoor Skills
+   Nature                       3       9          -         12
+   Navigation/Orienteering      1       7          -         8
+   Rope Use                     1       6          -         7
+   Survival                     1       9          -         10
+   Tracking                     1       9          -         10
+Piloting Skills
+  Aerospace                     -       -          -         -
+  Ground Craft                  1       6          -         7
+  Remote                        -       -          -         -
+  Starship                      -       -          -         -
+  Walker                        -       -          -         -
+Sciences, Life Skills
+   Biology                      1       7          -         8
+   Zoology                      1       7          -         8
+   Botany                       1       7          -         8
+   Ecology                      1       7          -         8
+   Biotechnology                1       7          -         8
+Sciences, Physical Skills
+   Geology                      1       7          -         8
+   Astronomy                    1       7          -         8
+   Chemistry                    1       7          -         8
+   Physics                      1       7          -         8
+   Planetology                  1       7          -         8
+Social Skills
+   Etiquette/Social             5       9          +4        18
+   Deception                    1       9          -         10
+   Intimidate                   0       9          +4        13
+   Persuasion                   2       9          +4        15
+   Seduction                    0       9          +8        17
+Stealth Skills
+   Disguise                     0       9          -         9
+   Impersonation                0       9          -         9
+   Lock Picking                 0       6          -         6
+   Palming                      0       6          -         6
+   Sneak                        2       6          -         8
+Tech, Commercial Skills
+   Electronics                  2       5          -         7
+   Computers                    1       5          -         6
+   Weaponry                     1       5          -         6
+   Robotics                     1       5          -         6
+   Cybernetics                  1       5          -         6
+Tech, Industrial Skills
+   Mechanics                    -       -          -         -
+   Construction                 -       -          -         -
+   Environmental                -       -          -         -
+   Propulsion                   -       -          -         -
+   Power                        -       -          -         -
+Trade Skills
+   Accounting                   2       6          -         8
+   Appraise                     1       6          -         7
+   Business Sense               1       6          -         7
+   Haggle                       1       9          -         10
+   Social Networking            4       9          -         13
+Underworld Skills
+   Bribery                      0       9          +4        13
+   Escape Artist                2       6          -         8
+   Forgery                      0       7          -         7
+   Gambling                     0       6          +4        10
+   Streetwise                   0       9          +4        13
+Knowledge: 
+  Religion                      4       6          -         10
+  Gardening                     2       6          -         8
+  Animal Husbandry              2       6          -         8
+  Food Preservation             3       6          -         9
+  Cooking                       3       6          -         9
+  Sewing                        3       6          -         9
+  Beekeeping                    2       6          -         8
+  First Aid                     2       6          -         8
+  Hunting                       1       6          -         7
+
+
+Modifications: None
+
+Traits: Latent Psionic
+
+Abilities: Psionic Empath, Psionic Healing, Psionic Tele-Empath
