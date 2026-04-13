@@ -1,0 +1,138 @@
+Name: Emma
+Race: Human Female
+Profession: Student-Engineer
+
+Primary Attributes
+Attribute       Score
+Strength        6
+Dexterity       7
+Constitution    7
+Intelligence    8
+Wisdom          6
+Charisma        7
+Comeliness      9
+Technical       9
+Luck		6
+
+Secondary Attributes
+[HP]		13
+[MA]		6
+[MOVE] Land	5 kph
+[LIFT]		Carry 125, Lift 250, Drag 375
+
+Defenses                AC   Armor
+Colonist Bodysuit       +1   0
+
+Attack 		Bonus  Dmg  AP  Type  Notes
+Unarmed          7      1   -    Bl     -
+
+Skill                         Score  Attribute  Modifiers  Total
+Initiative                      3       7          -        10
+Combat, Physical Skills
+   Unarmed Combat               1       6          -        7
+   Personal Armor               1       7          -        8
+   Melee Combat                 1       7          -        8
+   Thrown Weapons               1       6          -        7
+   Projectiles (Bow)            2(3)    7          -        9(10)
+Combat, Ranged Skills
+   Small Arms                   2       7          -        9
+   Light Arms (Rifles)          2(3)    7          -        9(10)
+   Heavy Weapons                0       6          -        6
+   Gunnery                      0       7          -        7
+   Artillery                    0       8          -        8
+Engineering Skills
+   Civil                        1       8          -        9
+   Mechanical                   2       8          -        10
+   Electrical                   1       8          -        9
+   Chemical                     1       8          -        9
+   Industrial                   2       8          -        10
+Entertainment Skills
+   Oratory                      1       7          -        8
+   Performance (Pick One)       1       7          -        8
+   Personal Grooming            2       7          -        9
+   Play Instrument (Pick One)   1       7          -        8
+   Wardrobe & Style             2       7          -        9
+Physical Skills
+   Acrobatics                   2       7          -        9
+   Athletics                    2       6          -        8
+   Running                      2       7          -        9
+   Swimming                     2       6          -        8
+   Endurance                    2       7          -        9
+Observation Skills
+   Insight                      1       6          -        7
+   Interrogation                1       7          -        8
+   Investigation                1       8          -        9
+   Lip Reading                  1       7          -        8
+   Perception                   3       7          -        10
+Outdoor Skills
+   Nature                       3       7          -        10
+   Navigation/Orienteering      3       7          -        10
+   Rope Use                     3       7          -        10
+   Survival                     3       7          -        10
+   Tracking                     3       7          -        10
+Piloting Skills
+  Aerospace                     1       7          -        8
+  Ground Craft                  2       7          -        9
+  Remote                        2       7          -        9
+  Starship                      1       7          -        8
+  Walker                        1       7          -        8
+Sciences, Life Skills
+   Biology                      1       8          -        9
+   Zoology                      1       8          -        9
+   Botany                       1       8          -        9
+   Ecology                      1       8          -        9
+   Biotechnology                1       8          -        9
+Sciences, Physical Skills
+   Geology                      1       8          -        9
+   Astronomy                    1       8          -        9
+   Chemistry                    1       8          -        9
+   Physics                      1       8          -        9
+   Planetology                  1       8          -        9
+Social Skills
+   Etiquette/Social             2       7          -        9
+   Deception                    2       7          -        9
+   Intimidate                   3       7          -        10
+   Persuasion                   2       7          -        9
+   Seduction                    2       7          -        9
+Stealth Skills
+   Disguise                     0       7          -        7
+   Impersonation                0       7          -        7
+   Lock Picking                 0       7          -        7
+   Palming                      0       7          -        7
+   Sneak                        3       7          -        10
+Tech, Commercial Skills
+   Electronics (Repair)         2       9          +2(+4)   13(15)
+   Computers (Repair)           2       9          +2(+4)   13(15)
+   Weaponry (Repair)            2       9          +2(+4)   13(15)
+   Robotics                     2       9          +2(+4)   13(15)
+   Cybernetics (Repair)         2       9          +2(+4)   13(15)
+Tech, Industrial Skills
+   Mechanics (Repair)           4       9          +2(+4)   15(17)
+   Construction (Repair)        2       9          +2(+4)   13(15)
+   Environmental (Repair)       2       9          +2(+4)   13(15)
+   Propulsion (Repair)          2       9          +2(+4)   13(15)
+   Power (Repair)               2       9          +2(+4)   13(15)
+Trade Skills
+   Accounting                   1       7          -        8
+   Appraise                     1       8          -        9
+   Business Sense               2       8          -        10
+   Haggle                       1       7          -        8
+   Social Networking            1       7          -        8
+Underworld Skills
+   Bribery                      0       7          -        7
+   Escape Artist                1       7          -        8
+   Forgery                      0       8          -        8
+   Gambling                     1       6          -        7
+   Streetwise                   0       7          -        7
+Knowledge: 
+  Administration                0
+  Linguistics                   0
+  Tactics                       0
+
+
+Modifications:
+Datajack (Tier 3): Datajacks are direct neural interface implants that allow you to directly access computers and information with your mind. They typically resemble a coin-sized dataport that is implanted either on the side of the head (typically in the temporal region of the skull, behind the ear or on the temple) or the back of the neck (just below the brainstem). It comes with a retractable spool of micro-cable (about a meter long) that lets you directly interface with any electronic device via a universal access cable. Datajacks are equipped with their own cache of storage memory for downloading or saving files. Optionally, Datajacks can be installed to be hidden and use an induction link hidden under the skin, but the response rate of the interface drops by around 15-20%.
+
+Traits: Mechanically Gifted
+
+Abilities: Mechanically Gifted: The character possesses an innate, almost tactile intuition for machinery, allowing them to quickly diagnose malfunctions and visualize a device’s internal logic even if they don't fully understand its how it works or what it does.
