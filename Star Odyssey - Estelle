@@ -1,0 +1,156 @@
+Name: Estelle
+Race: Human Female
+Profession: Colonist-Student
+
+Primary Attributes
+Attribute       Score
+Strength        5
+Dexterity       7
+Constitution    6
+Intelligence    8
+Wisdom          8
+Charisma        7
+Comeliness      9
+Technical       6
+Luck		6
+
+Secondary Attributes
+[HP]		12
+[MA]		6
+[MOVE] Land	5 kph
+[LIFT]		Carry 100, Lift 200, Drag 300
+
+Defenses                AC   Armor
+Colonist Bodysuit       +1   0
+
+Attack 		Bonus  Dmg  AP  Type  Notes
+Unarmed          +8     1   -    Bl     -
+MA - Krav Maga   +10    2   -    Bl     -
+
+Skill                         Score  Attribute  Modifiers  Total
+Initiative                      3       7          -        10
+Combat, Physical Skills
+   Unarmed Combat (Krav Maga)   1(3)    7          -        8(10)
+   Personal Armor               1       7          -        8
+   Melee Combat (Stun Baton)    1(2)    7          -        8(9)
+   Thrown Weapons               1       7          -        8
+   Projectiles (Sling-shot)     1(3)    7          -        8(10)
+Combat, Ranged Skills
+   Small Arms (Light Pistols)   1(2)    7          -        8(9)
+   Light Arms (Assault Rifles)  1(2)    7          -        8(9)
+   Heavy Weapons                1       7          -        7
+   Gunnery                      1       7          -        8
+   Artillery                    1       8          -        9
+Engineering Skills
+   Civil                        1       8          -        9
+   Mechanical                   1       8          -        9
+   Electrical                   1       8          -        9
+   Chemical                     1       8          -        9
+   Industrial                   1       8          -        9
+Entertainment Skills
+   Oratory                      1       7          -        8
+   Performance (Singing)        1(2)    7          -        8(9)
+   Personal Grooming            2       7          -        9
+   Play Instrument (Flute)      1       7          -        8
+   Wardrobe & Style             2       7          -        9
+Physical Skills
+   Acrobatics (Gymnastics)      2(3)    7          -        9(10)
+   Athletics                    1       5          -        6
+   Running                      1       7          -        8
+   Swimming                     1       5          -        6
+   Endurance                    1       6          -        7
+Observation Skills
+   Insight                      2       8          -        10
+   Interrogation                2       7          -        9
+   Investigation                2       8          -        10
+   Lip Reading                  2       8          -        10
+   Perception                   3       8          -        11
+Outdoor Skills
+   Nature                       4       8          -        12
+   Navigation/Orienteering      2       8          -        10
+   Rope Use                     2       7          -        9
+   Survival                     2       8          -        10
+   Tracking                     2       8          -        10
+Piloting Skills
+  Aerospace                     -       -          -        -
+  Ground Craft                  1       7          -        8
+  Remote                        2       7          -        9
+  Starship                      -       -          -        -
+  Walker                        -       -          -        -
+Sciences, Life Skills
+   Biology                      3       8          -        11
+   Zoology                      2       8          -        10
+   Botany                       4       8          -        12
+   Ecology                      2       8          -        10
+   Biotechnology                2       8          -        10
+Sciences, Physical Skills
+   Geology                      1       8          -        9
+   Astronomy                    1       8          -        9
+   Chemistry (Organic)          1(3)    8          -        9(11)
+   Physics                      1       8          -        9
+   Planetology                  1       8          -        9
+Social Skills
+   Etiquette/Social             1       7          -        8
+   Deception                    1       7          -        8
+   Intimidate                   1       7          -        8
+   Persuasion                   6       7          -        13
+   Seduction                    1       7          -        0
+Stealth Skills
+   Disguise                     0       7          -        7
+   Impersonation                0       7          -        7
+   Lock Picking                 0       7          -        7
+   Palming                      0       7          -        7
+   Sneak                        2       7          -        9
+Tech, Commercial Skills
+   Electronics (Sensors)        2(3)    6          -        8(9)
+   Computers                    2       6          -        8
+   Weaponry                     1       6          -        7
+   Robotics                     1       6          -        7
+   Cybernetics                  1       6          -        7
+Tech, Industrial Skills
+   Mechanics                    1       6          -        7
+   Construction                 1       6          -        7
+   Environmental                2       6          -        8
+   Propulsion                   1       6          -        7
+   Power                        1       6          -        7
+Trade Skills
+   Accounting                   1       7          -        8
+   Appraise                     1       7          -        8
+   Business Sense               0       7          -        7
+   Haggle                       1       7          -        8
+   Social Networking            1       7          -        8
+Underworld Skills
+   Bribery                      0       7          -        7
+   Escape Artist                2       7          -        9
+   Forgery                      0       7          -        7
+   Gambling                     0       7          -        7
+   Streetwise                   0       7          -        7
+Knowledge: 
+  Archaeology                   1       8          +4       13
+  History                       2       8          +4       14
+  Forensics                     1       8          +4       13
+  Linguistics                   1       8          +4       13
+  Literature                    1       8          +4       13
+  Music                         1       8          +4       13
+  Art                           1       8          +4       13
+  Philosophy                    1       8          +4       13
+  Religion                      2       8          +4       14
+  Medicine                      1       8          +4       13
+  Physiology                    1       8          +4       13
+  Astrobiology                  2       8          +4       14
+  Xeno-Biology                  2       8          +4       14
+  Biochemistry                  4       8          +4       16
+  Xeno-Botany                   3       8          +4       15
+  Horticulture                  2       8          +4       14
+  Micro-Biology                 3       8          +4       15
+  Molecular Biology             3       8          +4       15
+
+
+Modifications: Datajack (Tier 2)
+
+Traits: Futanari (Clit-Dick), Photographic Memory, Speed Reading
+
+Abilities: 
+Photographic Memory: A character with Photographic Memory can instantly recall facts, dates, numbers, or anything else he has seen or heard.
+
+Speed Reading: With this quality, a character can read through a full page of written text (about 800 words) in about five seconds or an 800-page textbook in about an hour. The information read is not memorized (unless the character also possesses the Photographic Memory quality.
