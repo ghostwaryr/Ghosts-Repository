@@ -1,0 +1,146 @@
+Name: Isabella
+Race: Human Female
+Profession: Colonist-Student
+
+Primary Attributes
+Attribute       Score
+Strength        6
+Dexterity       8
+Constitution    7
+Intelligence    11
+Wisdom          6
+Charisma        8
+Comeliness      9
+Technical       7
+Luck		5
+
+Secondary Attributes
+[HP]		13
+[MA]		6
+[MOVE] Land	5 kph
+[LIFT]		Carry 125, Lift 250, Drag 375
+
+Defenses                AC   Armor
+Colonist Bodysuit       +1   0
+
+Attack 		Bonus  Dmg  AP  Type  Notes
+Unarmed          ?      ?   -    Bl     -
+
+Skill                         Score  Attribute  Modifiers  Total
+Initiative                      2       8          -        10
+Combat, Physical Skills
+   Unarmed Combat (Bagua zhang) 0(2)    6          -        6(8)
+   Personal Armor               0       8          -        8*
+   Melee Combat                 0       8          -        8*
+   Thrown Weapons               0       6          -        6*
+   Projectiles                  0       8          -        8*
+Combat, Ranged Skills
+   Small Arms                   0       8          -        8*
+   Light Arms                   1       8          -        9
+   Heavy Weapons                0       8          -        8*
+   Gunnery                      0       8          -        8*
+   Artillery (Trebuchet)        1(2)    11         -        12(13)
+Engineering Skills
+   Civil                        0       11         -        11*
+   Mechanical                   0       11         -        11*
+   Electrical                   0       11         -        11*
+   Chemical                     0       11         -        11*
+   Industrial                   0       11         -        11*
+Entertainment Skills
+   Oratory                      1       8          -        9
+   Performance (Juggling)       1       8          -        9
+   Personal Grooming            2       8          -        10
+   Play Instrument (Piano)      1       8          -        9
+   Wardrobe & Style             2       8          -        10
+Physical Skills
+   Acrobatics                   1       8          -        9
+   Athletics                    0       6          -        6*
+   Running                      0       8          -        8*
+   Swimming                     1       6          -        7
+   Endurance                    0       7          -        7*
+Observation Skills
+   Insight                      1       6          -        7
+   Interrogation                1       8          -        9
+   Investigation                2       11         -        13
+   Lip Reading                  1       6          -        7
+   Perception                   2       6          -        8
+Outdoor Skills
+   Nature                       2       6          -        8
+   Navigation/Orienteering      1       8          -        9
+   Rope Use                     0       8          -        8*
+   Survival                     0       6          -        6*
+   Tracking                     0       6          -        6*
+Piloting Skills
+  Aerospace                     0       8          -        8*
+  Ground Craft                  0       8          -        8*
+  Remote                        1       8          -        9
+  Starship                      0       8          -        8*
+  Walker                        0       8          -        8*
+Sciences, Life Skills
+   Biology                      4       11         -        15
+   Zoology                      3       11         -        14
+   Botany                       5       11         -        15
+   Ecology                      3       11         -        14
+   Biotechnology                3       11         -        14
+Sciences, Physical Skills
+   Geology                      1       11         -        12
+   Astronomy                    1       11         -        12
+   Chemistry (Biochemistry)     2(4)    11         -        13(15)
+   Physics                      1       11         -        12
+   Planetology                  1       11         -        12
+Social Skills
+   Etiquette/Social             0       8          -        8*
+   Deception                    1       8          -        9
+   Intimidate                   0       8          -        8*
+   Persuasion                   2       8          -        10
+   Seduction                    0       8          -        0*
+Stealth Skills
+   Disguise                     1       8          -        9
+   Impersonation                0       8          -        8*
+   Lock Picking                 0       8          -        8*
+   Palming                      0       8          -        8*
+   Sneak                        1       8          -        9
+Tech, Commercial Skills
+   Electronics                  2       7          -        9
+   Computers                    2       7          -        9
+   Weaponry                     0       7          -        7*
+   Robotics                     0       7          -        7*
+   Cybernetics                  0       7          -        7*
+Tech, Industrial Skills
+   Mechanics                    0       7          -        7*
+   Construction                 0       7          -        7*
+   Environmental                0       7          -        7*
+   Propulsion                   0       7          -        7*
+   Power                        0       7          -        7*
+Trade Skills
+   Accounting                   1       11         -        12
+   Appraise                     0       11         -        11*
+   Business Sense               0       11         -        11*
+   Haggle                       0       8          -        8*
+   Social Networking            1       8          -        9
+Underworld Skills
+   Bribery                      1       8          -        9
+   Escape Artist                1       8          -        9
+   Forgery                      0       11         -        11*
+   Gambling                     0       5          -        5*
+   Streetwise                   0       8          -        8*
+Knowledge: 
+  Administration                1       11         -        12
+  Linguistics                   2       11         -        13
+  History                       2       11         -        13
+  Advanced Mathematics          3       11         -        14
+  Astrobiology                  3       11         -        14
+  Xeno-Biology                  3       11         -        14
+  Micro-Biology                 4       11         -        15
+  Molecular Biology             5       11         -        16
+  Genetics                      6       11         -        17
+  Data Analysis                 3       11         -        14
+  Religion                      1       11         -        12
+  Physiology                    1       11         -        12
+
+
+Modifications: Datajack (Tier 4)
+
+Traits: Biocompatibility
+
+Abilities: Biocompatibility: The characters body is able to easily accept augmentation, with little to no rejection issues.
