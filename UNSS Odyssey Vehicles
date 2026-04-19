@@ -1,0 +1,172 @@
+Vehicle Name: Rover, eight wheeled all-terrain transport vehicle
+Vehicle Class: Atlas Class All-Terrain Explorer (LATR)
+Speed: 140 km/h max, 65–80 km/h Off-Road, 15–20 km/h Rough-Terrain
+Length: 10 meters
+Width: 4.5 meters
+Height: 3.2 meters (Compressed/Lowered) to 4.5 meters (Fully raised on hydraulic suspension)
+Ground Clearance: Variable from 0.4m to 1.5m
+Dry Mass: 12 metric tons, 18 metric tons fully loaded
+Internal Volume: 60 m3 (30 m3 internal rear cargo area)
+Crew Capacity: 4 (1 Pilot, 1 Navigator/Systems Op, 2 Mission Specialists).
+Passenger Capacity: Up to 6 in an emergency "jump-seat" configuration in the rear lab/cargo area
+Power Plant: Compact Tier 2 Fusion Battery, 30 days of continuous operation without recharge
+Drivetrain: 6x6 Independent Electric Hub Motors
+Onboard AI: Tier 3 (TL 15)
+Sensors: Advanced Broad-Spectrum Sensor Suite (tier 4)
+Armor: 30, Light 0.48 metric tons (Tier 2)
+
+The Cockpit: Elevated position with 270° visibility for navigating dense foliage.
+The Habitation/Lab Module: A pressurized 6m x 4m space that serves as a mobile base camp. It includes a small kitchenette, an airlock/mudroom, and a Tier 2 science bench
+
+
+Vehicle Name: Mjolnir GAV, six-wheeled armored all-terrain tactical vehicle, equipped with a dorsal dual laser cannon.
+Vehicle Class: Mjolnir Class Armored All-Terrain Vehicle
+Speed: 155 km/h max, 110 km/h cruising
+Length: 9.5m
+Width: 5.2m
+Height: 3.4 meters to 4.8 meters (Fully raised on hydraulic suspension)
+Ground Clearance: Variable from 0.3m to 1.2m
+Mass: 38 metric tons, 45 metric tons fully loaded
+Internal Volume: 52 m3 (25 m3 rear cargo area)
+Crew Capacity: 3 (1 Driver, 1 Gunner/Commander, 1 Systems Specialist).
+Passenger Capacity: 8 fully equipped Marines in the rear "hot-seat" compartment, designed for rapid egress through a rear power-ramp.
+Power Plant: Compact Tier 2 Fusion Battery, 30 days of continuous operation without recharge
+Drivetrain: 6x6 Independent Electric Hub Motors
+Onboard AI: Tier 2 (TL 15)
+Sensors: Broad-Spectrum Sensor Suite (tier 2)
+Armor: 120, Heavy 3.9 tons (tier 4)
+Defenses: Active APS & Smoke Dischargers
+
+
+Vehicle Name: Kestrel, light 4-wheeled all-terrain tactical vehicle
+Vehicle Class: Peregrine-Class Light Tactical Vehicle
+Speed: 220 km/h max, 180 km/h cruising
+Length: 6m
+Width: 3m
+Height: 3m
+Ground Clearance: 0.5m
+Mass: 3.5 metric tons, 5 metric tons fully loaded
+Internal Volume: 12 m3
+Crew Capacity: 2
+Passenger Capacity: 4
+Power Plant: High-Density Fusion Battery (tier 3)
+Drivetrain: 4x4 High-Torque Hub Motors
+Onboard AI: Tier 2 (TL 15)
+Sensors: Retractable Broad-Spectrum Sensor Suite (tier 3)
+Armor: 80, Standard 0.18 metric tons (Tier 4), Passengers unprotected
+
+
+Vehicle Name: Mule, sealed light 4-wheeled general purpose vehicle
+Vehicle Class: Clydesdale-Class Light Support Vehicle
+Speed: 90 km/h max
+Length: 5.5m
+Width: 2.8m
+Height: 3m
+Ground Clearance: 0.4m
+Mass: 4.5 metric tons, 8.5 metric tons fully loaded
+Internal Volume: 22 m3, 17 m3 rear utility bay
+Crew Capacity: 2 (Driver and Passenger)
+Passenger Capacity: 0
+Power Plant: Compact Tier 2 Fusion Battery
+Drivetrain: 4x4 Heavy-Duty Hub Motors
+Armor: 25, Light 0.225 metric tons (tier 1)
+Onboard AI: Tier 2 (TL 15)
+Sensors: Broad-Spectrum Sensor Suite (tier 2)
+Utility: Rear Winch & Crane Arm
+
+
+Vehicle Name: Talon
+Vehicle Class: Falcon-Class Aerial Multi-Role Vehicle
+Speed: 720 km/h max, 450 km/h cruising (2,200 km/h in thin atmosphere)
+Length: 10m (6m interior fuselage)
+Width: 8m (2.5m interior fuselage)
+Height: 3.8m (2m interior fuselage)
+Mass: 8.5 Metric Tons, 15 Metric Tons fully loaded
+Internal Volume: 30 m3
+Crew Capacity: 2
+Passenger Capacity: 12 
+Power Plant: High-Density Fusion Battery (tier 4)
+Drivetrain: Dual-Mode VTOL Fusion-Plasma engines (tier 4)
+Onboard AI: Tier 3 (TL 15)
+Sensors: Advanced Broad-Spectrum Sensor Suite (tier 4)
+Armor: 35, Light 0.3 tons (tier 4)
+Notes: cargo area may be sealed, or open (helicopter style), cargo area is airlock. Doors rear, sides, bottom (bomb-style double doors)
+
+
+Vehicle Name: Blitzkrieg
+Vehicle Class: Berserker-Class Heavy Tactical Mech
+Speed: 75 km/h sprinting, 45 km/h jogging
+Depth: 3.5m
+Width: 4.2m
+Height: 5.8m
+Mass: 14 metric tons, 18 metric tons fully loaded
+Internal Volume: 6 m3
+Crew Capacity: 1
+Passenger Capacity: None
+Power Plant: High-Density Fusion Battery (tier 3)
+Drivetrain:
+   Walking: Quad-Actuator Myomer System
+   Jump-Jets: 50m Power Leap via Dual-Vector Jump-Jets
+Armor: 105, Heavy 1.8 metric tons (tier 3)
+Onboard AI: Tier 3 (TL 15)
+Sensors: Advanced Broad-Spectrum Sensor Suite (tier 3)
+Defenses:
+  Grenade Launcher: Smoke, Dazzlers, Thermal Bloom, Electronic Decoy
+  ECM: Broad Spectrum ECM Suite (tier 3)(TL 15)
+Armament: Forearms x1 Light Portable Pulse Laser Autocannon (tier 3)(TL 15)
+                   x1 Light Portable Gauss Cannon (tier 3)(TL 15)
+          Shoulder x1 Retractable Turret-mounted Light Portable PPC (tier 3)(TL 15) aka Predator Style Shoulder Cannon
+                   x1 Retractable Turret Mounted Multi-Phased Light Portable Pulse Laser APD  (tier 3)(TL 15)
+          Carried  x1 Heavy Portable PPC Rifle (tier 3)(TL 15) (Back Storage)
+                   x2 Light Mech Vibroblades (thigh storage)
+
+
+Vehicle Name: Shadow
+Vehicle Class: Specter-Class Light Tactical Mech
+Speed: 95 km/h sprinting, 55 km/h jogging
+Depth: 1.8m
+Width: 2.8m
+Height: 4m
+Mass: 4 metric tons, 6 metric tons fully loaded
+Internal Volume: 
+Crew Capacity: 1
+Passenger Capacity: None
+Power Plant: High-Density Fusion Battery (tier 2)(TL 15) 
+Drivetrain: 
+   Walking: Quad-Actuator Myomer System
+   Jump-Jets: 100m Power Leap via Dual-Vector Jump-Jets
+Onboard AI: Tier 3 (TL 15)
+Sensors: Advanced Broad-Spectrum Sensor Suite (tier 3)
+Armor: 70, Standard 0.256 metric tons (tier 3)
+Defenses: 
+  Grenade Launcher: Smoke, Dazzlers
+  ECM: Broad Spectrum ECM Suite (tier 3)(TL 15)
+Armament: Forearms x1 Light Portable Pulse Laser (tier 3)(TL 15)
+                   x1 LMG (tier 3)(TL 15)
+          Carried  x1 Light Portable Gauss Cannon (tier 3)(TL 15) (tier 3)(TL 15) (Back Storage)
+                   x2 Light Mech Vibroblades (thigh storage)
+
+
+Vehicle Name: Triton
+Vehicle Class: Abyssal-Class Aquatic Mech
+Speed: Land 25 km/h running
+       Water 12 knots (approx. 22 km/h) via MHD thrusters
+Depth: 2.5m
+Width: 2.8m
+Height: 3.8m 
+Depth Rating: 6,000m
+Mass: 12 metric tons, 18 metric tons fully loaded
+Internal Volume: 5 m3
+Crew Capacity: 1
+Passenger Capacity: None
+Power Plant: High-Density Fusion Battery (tier 3)(TL 15)
+Drivetrain: 
+   Walking: Quad-Actuator Myomer System (Sealed in hydro-static gel)
+   Jump-Jets: 150m Power Leap via high-pressure MHD thrusters
+Onboard AI: Tier 3 (TL 15)
+Sensors: Advanced Broad-Spectrum Aquatic Sensor Suite (tier 3)
+Armor: 200, 2.3 metric tons effective, Very Heavy (halved again explosive)(tier 3)(TL 15)
+Armament: Forearms x1 Very Light Portable Multi-Phased Laser (tier 3)(TL 15)
+                   x1 50m Grapple Line (tier 3)(TL 15)
+          Shoulder x1 Retractable Turret-mounted Very Light Portable Gauss Cannon (tier 3)(TL 15)
+          Carried  x2 Light Mech Thermal Blades (thigh storage)
