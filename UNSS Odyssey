@@ -1,0 +1,257 @@
+Ship Name: UNSS Odyssey (USJS-1701)
+Ship Class: Odyssey Class Exploration & Colonization Ship
+Mass: 2,850,000 metric tons
+Length: 950m
+Volume: 4,700,000 m3
+Sail Diameter: 3,250m (50 GW)
+Grav Decks: x4 10m x 438m (total of 17,520 m2, or 188,583 sq ft) 400 max capacity
+Top Thrust: 0.1g
+Jump Rating: Prototype Jump-5
+Stutterwarp Rating: 4
+Power: 3x Tier 5 Fusion Reactors (~3 Gigawatts each)
+       1x Tier 5 Nuclear Reactor (1 Gigawatt)
+Onboard AI: Tier 4 (TL 15) with interactive mobile holographic matrix
+Sensors: Advanced Full-Spectrum Sensor Suite (tier 5)(TL 15)
+DropShip Capacity: 24
+Small Craft Capacity: 4
+Drone Capacity: 100
+Crew: 11 (400 max)
+Passengers: 389 Max
+Defenses:
+  Armor Rating: 45, Light tier 5 (58,425 tons)
+  Shields: Advanced Multi-Phased Magnetic Shields (tier 5)(TL 15)
+  ECM: Advanced Broad Spectrum ECM Suite (tier 4)(TL 15)
+  Decoys: 10 Advanced Broad Spectrum Navel Drones (tier 4)(TL 15)
+  Point Defense: 16 Multi-Phased Pulse Laser APD (tier 4)(TL 15)
+                 16 Electrochemical APD (tier 4)(TL 15)
+Armament: x1 Torpedo Launcher (Tier 4)(TL 15)
+          x1 Navel LRM-10 (Tier 4)(TL 15)
+          x4 Naval PPC (Tier 4)(TL 15)
+          x8 Large Multi-Phased ER Heavy Dual-Mode Laser (tier 4)(TL 15)
+          x11 Medium Multi-Phased ER Variable Speed Heavy Dual-Mode Laser (tier 4)(TL 15)
+          x22 Small Multi-Phased ER Dual-Mode Laser (tier 4)(TL 15)
+Drones: 20 Defensive Drones (Armed with Energy Weapons)
+        30 Manufacturing Drones
+        30 Mining Drones
+        15 Transport Drones
+        5 Recovery & Repair Drones       
+          
+
+Ship Name: Alvitr
+Ship Class: Valkyrie Class Emergency Tactical Response Dropship
+Mass: 20,000 tons (25,000 tons fully loaded)
+Length: 69m
+Volume: 21,000 m3
+Top Thrust: 5g
+Stutterwarp Rating: 4
+Power: 1x Tier 4 Micro-Fusion Reactor (~0.8 Gigawatt)
+Onboard AI: Tier 4 (TL 15) with interactive holographic matrix
+Sensors: Advanced Broad-Spectrum Sensor Suite (tier 5)(TL 15)
+Vehicle Capacity: 1x Armored & Heavy Multi-Role All-Terrain Sealed Tactical Vehicle
+                  3x Fast & Light Multi-Role All-Terrain Tactical Vehicle
+                  1x Aerial Multi-Role Vehicle
+                  1x Light Multi-Role Sealed Support Vehicle
+                  1x Heavy Mech
+Drone Capacity: x10 Humanoid Combat Drones
+                x4 small "Spider-Monkey" Drones
+                x6 small "Tendril" Drones
+                x6 small "Spherical Free-Flyer"
+Crew: 10
+Passengers: 34 Marines
+Defenses:
+  Armor Rating: 120, Heavy (Tier 4 )(TL 15)
+  Shields: Advanced Multi-Phased Magnetic Shields (tier 4)(TL 15)
+  ECM: Advanced Broad Spectrum ECM Suite (tier 4)(TL 15)
+  Decoys: 2 Advanced Broad Spectrum Drones (tier 4)(TL 15)
+  Point Defense: 4 Multi-Phased Pulse Laser APD (tier 4)(TL 15)
+Armament: x2 Fore PPC (Tier 4)(TL 15)
+          x2 Fore Large Multi-Phased Dual-Mode Laser (tier 4)(TL 15)
+          x4 Turret Medium Multi-Phased ER Dual-Mode Laser (tier 4)(TL 15)
+          x6 Turret Small Multi-Phased ER Dual-Mode Laser (tier 4)(TL 15)
+          x6 Pulse Laser Autocannons (tier 4)(TL 15)
+
+
+Ship Name: Hahalua
+Ship Class: Exploration & Science ship (Capable of 5,000m ocean depth @1g)
+Mass: 19,500 metric tons (22,000 Metric Tons Loaded)
+Length: 69m
+Volume: 26,000 m3
+Top Thrust: 3g. Dual-Mode Fusion-Plasma (Air/Space) & MHD (Underwater)
+Stutterwarp Rating: 4
+Power: 1x Tier 4 Micro-Fusion Reactor (~0.8 Gigawatt)
+Onboard AI: Tier 4 (TL 15) with interactive holographic matrix
+Sensors: Advanced Multi-Spectrum Sensor Suite (tier 5)(TL 15)
+Vehicle Capacity: The ship has two modular bays that may be switched depending on mission parameters, plus an additional bay that can take different types of vehicles
+Bay 1: Bottom Fore Bay (Modular): Land Vehicle Bay. Module may hold 1x Large land vehicle + 2 small land vehicles
+                                  Submerged Vehicle Bay: Module may be flooded, may hold 1 medium submersible + 2 small submersibles
+                                  Laboratory: An additional large laboratory module.
+       Bottom Aft Bay (Modular):  Land Vehicle Bay. Module may hold 1x Large land vehicle + 2 small land vehicles + 1 light mech
+                                  Submerged Vehicle Bay: Module may be flooded, may hold 1 large submersible + 1 small submersible + 1 aquatic mech
+       Top Bay (Non-Modular):     Aircraft Hanger: While submerged this hanger must remain closed, but may hold either a normal medium VTOL aircraft or one with sea-plane capability.
+Drone Capacity: x2 small modified "Spider-Monkey" Drones
+                x4 small "Tendril" Drones
+                x4 small modified "Spherical Free-Flyer" drones
+                x4 modified humanoid drones
+                x4 UAV drones
+Crew: 10
+Passengers: 0
+Defenses:
+  Armor Rating: 180, 2,396 metric tons effective, Very Heavy (halved against explosive)(tier 5)(TL 15)
+  Shields: Advanced Multi-Phased Magnetic Shields (tier 4)(TL 15)
+  ECM: Broad Spectrum ECM Suite (tier 3)(TL 15)
+  Probes: 4 Advanced Multi-Spectrum Spectrum Probes (tier 4)(TL 15)
+  Point Defense: 2 Multi-Phased Pulse Laser APD (tier 3)(TL 15)
+Armament: x2 Retractable Turret Small Gauss Cannons (tier 3)(TL 15)
+          x2 Retractable Turret Medium Multi-Phased Dual-Mode Laser (tier 3)(TL 15)
+          x4 Retractable Turret Small Multi-Phased Dual-Mode Laser (tier 3)(TL 15)
+          x2 Retractable Turret Pulse Laser Autocannons (tier 3)(TL 15)
+
+
+Ship Name: Titan’s Harvest
+Ship Name: Mining Class Dropship
+Mass: 22,000 Metric Tons / Up to 45,000+ Tons (Full Load)
+Length: 69m
+Volume: 40,000 m3
+Top Thrust: 3g, 4x Heavy-Duty Fusion-Plasma VTOL Engines
+Stutterwarp Rating: 3
+Power: 1x Tier 3 Micro-Fusion Reactor (~0.6 Gigawatt)
+Onboard AI: Tier 4 (TL 15) with interactive holographic matrix
+Sensors: Advanced Broad-Spectrum Sensor Suite (tier 3)(TL 15)
+Vehicle Capacity: 1x Aft Bay (Tailored for the "Scarab" Insectoid Walker)
+Cargo Capacity:	8x Face-In Modular Ports (2x2 Grid per side)
+Drone Capacity: x8 medium mining drones
+                x4 small "Spider-Monkey" Drones
+                x6 small "Tendril" Drones
+                x6 small "Spherical Free-Flyer"
+Crew: 5
+Passengers: None 
+Defenses:
+  Armor Rating: 160, Very Heavy, 3,379 metric tons (tier 4)(TL 15)
+  Shields: Multi-Phased Magnetic Shields (tier 3)(TL 15)
+  ECM: Broad Spectrum ECM Suite (tier 3)(TL 15)
+  Point Defense: 6 Multi-Phased Pulse Laser APD (tier 3)(TL 15)
+Armament: x2 Medium Multi-Phased Dual-Mode Laser (tier 3)(TL 15)
+          x4 Small Multi-Phased Dual-Mode Laser (tier 3)(TL 15)
+  Mining: x1 Heavy Underslung Mining Turret 
+          x2 Outrigger Mining Turrets
+
+
+Ship Name: Thumper
+Ship Class: Anvil Class Heavy Cargo Transport Dropship
+Mass: 22,000 tons metric tons / 55,000 metric tons (Fully Loaded)
+Length: 69m
+Volume: 18,000 m3
+Top Thrust: 3g 
+Stutterwarp Rating: 3
+Power: 1x Tier 3 Micro-Fusion Reactor (~0.6 Gigawatt)
+Onboard AI: Tier 4 (TL 15) with interactive holographic matrix
+Sensors: Advanced Broad-Spectrum Sensor Suite (tier 3)(TL 15)
+Vehicle Capacity: None, Cargo Bay
+Cargo Capacity: 182 SCU (4,914 m3)
+   Internal: (150 SCU) 45m x 15m x 6m pass-through deck
+   External: (32 SCU) x8 Large Pods (Flush-mount under engine outriggers)
+Drone Capacity: x6 humanoid drones
+                x6 heavy duty cargo drones
+                x4 small "Spider-Monkey" Drones
+                x6 small "Tendril" Drones
+                x6 small "Spherical Free-Flyer"
+Crew: 4
+Passengers: 400 (transport configuration)
+Defenses:
+  Armor Rating: 70, Standard, 1,408 metric tons (tier 3)(TL 15)
+  Shields: Multi-Phased Magnetic Shields (tier 3)(TL 15)
+  ECM: Broad Spectrum ECM Suite (tier 3)(TL 15)
+  Decoys: 2 Advanced Broad Spectrum Drones (tier 3)(TL 15)
+  Point Defense: x4 Multi-Phased Pulse Laser APD (tier 3)(TL 15)
+Armament: x1 Turret Heavy Pulse Laser Autocannons (tier 3)(TL 15), underslung, nose
+          x1 Multi-Phased Dual-Mode Medium Double Turret (tier 3)(TL 15), fore-top mounted
+          x1 Multi-Phased Dual-Mode Medium Double Turret(tier 3)(TL 15), fore-belly mounted
+          x2 Multi-Phased Dual-Mode Small turrets(tier 3)(TL 15), fore-top mounted
+          x2 Multi-Phased Dual-Mode Small Turrets (tier 3)(TL 15), aft-top mounted
+          x2 Retractable Multi-Phased Dual-Mode Small Laser turrets (tier 3)(TL 15), fore-bottom mounted
+          x2 Retractable Multi-Phased Dual-Mode Small Laser turrets (tier 3)(TL 15), aft-bottom mounted
+
+
+Ship Name: Antares
+Ship Class: Sleipnir Class Multi-Role Courier
+Mass: 1,200 metric tons, 1,500 fully loaded
+Length: 12m
+Volume: 65 m3
+Top Thrust: 5g
+Stutterwarp Rating: 1
+Power: Tier 3 Micro-Fusion Reactor (0.6gw)
+Onboard AI: Tier 3 (TL 15) with holographic matrix
+Sensors: Advanced Broad-Spectrum Sensor Suite (tier 3)(TL 15)
+Drone Capacity: None
+Crew: 2
+Passengers: 8
+Defenses:
+  Armor Rating: Light
+  Shields: Multi-Phased Magnetic Shields (tier 3)
+  ECM: Broad Spectrum ECM Suite (tier 3)(TL 15)
+  Point Defense: x1  Multi-Phased Pulse Laser APD (tier 3)(TL 15)
+Armament: x1 Twin-Linked Multi-Phased Dual-Mode Small Laser (tier 3)(TL 15), fore
+
+
+Ship Name: Covington
+Ship Class: Darwin Class Science Boat
+Mass: 2,200 metric tons, 2,500 fully loaded
+Length: 15m
+Volume: 120 m3
+Top Thrust: 3g
+Stutterwarp Rating: 1
+Power: Tier 3 Micro-Fusion Reactor (0.6gw)
+Onboard AI: Tier 3 (TL 15) with holographic matrix
+Sensors: Advanced Multi-Spectrum Sensor Suite (tier 4)(TL 15)
+Drone Capacity: None
+Crew: 2
+Passengers: 3
+Defenses:
+  Armor Rating: Light
+  Shields: Multi-Phased Magnetic Shields (tier 3)
+  ECM: Broad Spectrum ECM Suite (tier 3)(TL 15)
+  Point Defense: x1  Multi-Phased Pulse Laser APD (tier 3)(TL 15)
+Armament: x1 Multi-Phased Dual-Mode Small Laser (tier 3)(TL 15), fore
+
+
+Ship Name: Nugget
+Ship Class: Aegis Class Lifeboat
+Mass: 4,000 metric tons
+Length: 20m
+Volume: 400 m3
+Top Thrust: 3g
+Stutterwarp Rating: 1
+Power: Tier 3 Micro-Fusion Reactor (0.6gw)
+Onboard AI: 1x Tier 3 (TL 15) with holographic matrix
+Sensors: Broad-Spectrum Sensor Suite (tier 3)(TL 15)
+Drone Capacity: None
+Crew: 4
+Passengers: 8
+Defenses:
+  Armor Rating: Light
+  Shields: Multi-Phased Magnetic Shields (tier 3)
+  ECM: Advanced Broad Spectrum ECM Suite (tier 4)(TL 15)
+  Point Defense: x1 Multi-Phased Pulse Laser APD (tier 3)(TL 15)
+Armament: None
+
+
+Ship Name: In-Spectre
+Ship Class: Wraith Class Recon Scout
+Mass: 1,800 metric tons, 2,100 metric tons fully loaded
+Length: 16m
+Volume: 90 m3
+Top Thrust: 6g
+Stutterwarp Rating: 2
+Power: 1x Tier 4 Micro-Fusion Reactor (~0.8 Gigawatt)
+Onboard AI: Tier 3 (TL 15) with holographic matrix
+Sensors: Advanced Multi-Spectrum Sensor Suite (tier 5)(TL 15)
+Drone Capacity: None
+Crew: 2
+Passengers: 4
+Defenses:
+  Armor Rating: Light
+  Shields: Multi-Phased Magnetic Shields (tier 3)(TL 15)
+  ECM: Advanced Broad Spectrum ECM Suite (tier 5)(TL 15)
+  Point Defense: x1 Multi-Phased Pulse Laser APD (tier 3)(TL 15)
+Armament: x1 Twin-Linked Retractable Multi-Phased Dual-Mode Small Lasers (tier 3)(TL 15), fore
+          x1 Multi-Phased Small Heavy Pulse Laser Turret (tier 3)(TL 15)
