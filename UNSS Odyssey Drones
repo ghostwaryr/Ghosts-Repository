@@ -1,0 +1,97 @@
+DRONES
+
+Ship Class: Fighter Drone (Black Colored)
+Mass: 18 Metric Tons
+Length: 5m
+Volume: 14 m3
+Top Thrust: 50g
+Stutterwarp Rating: 4
+Power: 1x Tier 4 Micro-Fusion Reactor (~0.8 Gigawatt)
+       Compact High-Density Tier 4 Fusion Battery Bank (1.2 Gigawatts)
+Onboard AI: Tier 4 (TL 15)
+Sensors: Advanced Multi-Spectrum Sensor Suite (tier 5)(TL 15)
+Drone Capacity: None
+Crew: none
+Passengers: none
+Defenses:
+  Armor Rating: Light
+  Shields: Multi-Phased Magnetic Shields (tier 3)(TL 15)
+  ECM: Advanced Broad Spectrum ECM Suite (tier 5)(TL 15)
+  Point Defense: Integrated with weapons system (tier 4)
+Armament: x4 Twin-Linked Ball-Turret Compact High-Intensity ER-PPC (tier 4)(TL 15)
+          x8 Twin-Linked Ball-Turret Compact Multi-Phased Dual-Mode Small Lasers (tier 4)(TL 15)
+
+   The Fighter Drone is a high-performance autonomous defense platform defined by its advanced monocoque construction. Its hull is a single, seamless unit printed at the molecular level, featuring a dense, oblong central core that transitions into four elegant, organically curved spars. These supports branch outward to house "sounded" engine pods, creating a high-torque "X" configuration that allows for near-instantaneous Newtonian maneuvers. Because the frame is 3D-fabricated with precision-engineered voids, all critical "guts"—including the AI core, reactor, and weapon systems—are slotted into the chassis as modular inserts, allowing for rapid field repairs or total hull recycling.
+   The craft’s lethality stems from a mathematically perfect 12-point turret grid that ensures true omnidirectional fire. Four 0.75m ball-turret Projected Particle Cannons (PPCs) are recessed into the interstitial gaps between the engine spars, providing heavy-impact "shield breaking" capabilities against larger targets. This primary array is supplemented by eight 0.5m ball-turret high-frequency lasers staggered at 45-degree offsets toward the front and rear faces of the hull. This dense interlocking field of fire, managed by a decentralized AI, allows the drone to act as a mobile spherical fortress, simultaneously neutralizing swarms of incoming missiles while systematically dismantling the subsystems of larger enemy warships.
+
+
+Ship Class: Industrial Mining Drone (Red Colored)
+Mass: 45 Metric Tons
+Height: 5m (normal), 6m (deployed), 9m (with 1 SCU Ore Hopper)
+Length: 5m (normal), 13m (deployed)
+Width: 5m (normal), 13m (Deployed)
+Volume: 45 m3 (normal), 65 m3 (deployed)
+Top Thrust: 1.5g
+Stutterwarp Rating: 1
+Power: 1x Tier 3 Micro-Fusion Reactor (~0.6 Gigawatt)
+Onboard AI: Tier 3 (TL 15)
+Sensors: Multi-Spectrum Sensor Suite (tier 3)(TL 15)
+Drone Capacity: None
+Crew: none
+Passengers: none
+Defenses:
+  Armor Rating: Light
+  Shields: Multi-Phased Magnetic Shields (tier 2)(TL 15)
+  ECM: None
+  Point Defense: None
+Armament: x1 Heavy Industrial Mining Laser (Tier 4)(TL 15)
+
+   The Industrial Mining Drone is a rugged, vacuum-optimized "bead" chassis designed for the high-intensity extraction of ore from asteroids and planetary debris fields. Built into a permanent 5m x 5m x 5m industrial frame, the drone is centered on a dense 3m wide windowless core that houses a Tier 3 Micro-Fusion Reactor and advanced electronics. To manage the massive torque of mineral extraction in zero-G, the Mole features fixed 1-meter thruster blocks on multiple sides of the chassis, providing a wide, stable base for Newtonian vectoring without the structural weakness of retractable arms. Its primary functional tool is a powerful mining laser or drill assembly, supported by a specialized array of sensors tuned for deep-crust mineralogy. Operating as a pure industrial machine with no cockpit or aerodynamic considerations, the drone is designed to "fuse" its flight calculations with the asteroid surface it is working, utilizing its high-precision engine matrix to maintain a perfect drill-lock even in complex orbital environments.
+
+
+Ship Class: Logistics & Cargo Tug Drone (Yellow Colored)
+Mass: 25 Metric Tons, Up to 325 Metric Tons (Towing Capacity)
+Height: 5m, 9m (deployed) 
+Length: 5m
+Width: 5m
+Volume: 35 m3
+Top Thrust: 4g, 0.5g at max towing capacity
+Stutterwarp Rating: 1
+Power: 1x Tier 3 Micro-Fusion Reactor (~0.6 Gigawatt)
+Onboard AI: Tier 2 (TL 15)
+Sensors: Broad-Spectrum Sensor Suite (tier 2)(TL 15)
+Drone Capacity: None
+Crew: none
+Passengers: none
+Defenses:
+  Armor Rating: Light
+  Shields: Multi-Phased Magnetic Shields (tier 2)(TL 15)
+  ECM: None
+  Point Defense: None
+Armament: None
+
+   Operating as the workhorse of UNSS Odyssey logistics, the Logistics Drone is a specialized "flying frame" designed strictly for vacuum operations and high-torque anchoring. It functions on a "bead" configuration, centered on a dense 3m wide by 5m tall core that contains reactor & electronics. To maximize its ability to wrestle 325-ton cargo pods in zero-G, the drone has powerful 1-meter engines that extend out from the drone on multiple sides, increasing its stabilizing footprint to a full 5m x 5m to handle the intense Newtonian force of rotational mass management. For cargo acquisition, four massive, dedicated 4m long grapple arms extend downward and outward from the core to grapple whatever cargo it is hauling, using mechanical claws and magnetic-lock pads to fuse drone to its load. Once anchored, the drone leverages its high-precision engine matrix to operate as an external thruster, allowing a single drone to safely move much larger objects. 
+
+
+Ship Class: Industrial Construction & Manufacturing Drone (Orange Colored)
+Mass: 18 Metric Tons
+Footprint: 5m x 5m x 5m (stowed), Up to 12m reach
+Volume: 45 m3
+Top Thrust: 2g
+Stutterwarp Rating: 1
+Power: 1x Tier 3 Micro-Fusion Reactor (~0.6 Gigawatt)
+Onboard AI: Tier 3 (TL 15)
+Sensors: Broad-Spectrum Sensor Suite (tier 2)(TL 15)
+Drone Capacity: None
+Crew: none
+Passengers: none
+Defenses:
+  Armor Rating: Light
+  Shields: Multi-Phased Magnetic Shields (tier 2)(TL 15)
+  ECM: None
+  Point Defense: None
+Armament: None
+
+   The Industrial Construction & Manufacturing Drone is a highly versatile, multi-limbed industrial unit designed for complex structural assembly and emergency repairs in micro-gravity. Built into a standardized 5m x 5m x 5m "bead" chassis with a volume of approximately 45 m³, the drne prioritizes mechanical flexibility over raw thrust, utilizing cold-gas RCS and micro-ion thrusters for precision positioning near delicate hulls. Its distinctive "machine-octopus" architecture features four high-tensile anchor tentacles for securing itself to work surfaces, alongside an array of multi-jointed task limbs equipped for welding, drilling, and parts manipulation. Distinguishing it from other utility drones is an integrated TL 15 Micro-Fabricator and feedstock reservoir, allowing the Tier 3 AI to autonomously manufacture specialized fasteners or small structural components on-site. This makes the drone a self-contained mobile workstation, capable of "printing" the very parts it needs to finish a repair without ever leaving the construction site.
+
+
