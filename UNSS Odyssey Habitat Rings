@@ -1,0 +1,89 @@
+Habitat Ring
+   The two Habitat Rings are each approximately 10m wide, with an outer diameter of 140m, and comprised of three decks. Each of these decks have simulated gravity from centrifugal force, and are connected to the main hull of the Odyssey through four turbo-lifts. The three decks are designated Decks 1-3 with the outermost deck being Deck 1 and the innermost deck being Deck 3. The ring rotates at a constant speed of 3.3 rpm's which offer around 80% of earths gravity without any negative effects to most humans.
+   Deck 1 is designated as 'The Promenade', and is composed of four Cafe Courtyards centered on the four turbo-lifts with 94m long hallways linking the courtyards full of rooms dedicated to dining, recreation, fitness, and medical services.
+   Deck 2 is home to Officers Quarters, VIP passengers, and rooms for synthetic companions. It has four Cafe Courtyards centered on the four turbo-lifts with 36m long hallways that open into lounges before continuing down another 36m hallway to link to the next Cafe Courtyard. Within each 36m section of hallway are the personal rooms of varying sizes and communal public bathrooms. When at full capacity this ring can comfortably house 70 crew & passengers.
+   Deck 3 is home to regular crew and passengers. It has four Cafe Courtyards centered on the four turbo-lifts with 33m long hallways that open into lounges before continuing down another 33m hallway to link to the next Cafe Courtyard. Within each 33m section of hallway are many rooms of varying sizes, plus multiple communal public bathrooms. When at full capacity this ring can comfortably house 130 crew & passengers.
+
+Deck		Radius		Length		Gravity
+Deck 1		70m		439.82m		0.85g
+Deck 2		66m		414.69m		0.8g
+Deck 3		62m		389.56m		0.75g
+
+Turbo-lifts
+   Four massive spokes connect the habitat rings to the main body of the UNSS Odyssey, through which a single turbo-lift shaft passes in each. Due to the spokes constantly rotating around a central core the four turbo-lifts stop within the zero-g section of the inner hull and then moves within a lateral tunnel to match speeds with the rotating spokes and then moves vertically to get up to the habitat rings. With am interior size of 2.5m x 2.5m, each turbo-lift has a total area of 6.25 sq meters, which can comfortably fit around 20 but has a maximum occupancy of 35. Each turbo-lift can go to each individual deck and each individual Cafe Courtyard within each deck.
+
+Deck 1, Promenade
+   The Promenade is split into four quarters, each of which is centered on one of the four Cafe Courtyards. A 2.5m wide hallway travels along the outer wall of the deck with the side of the hallway alternating between cafe courtyards. The entire deck has been designed in such a way as to give the illusion of moving through an open air pedestrian oriented commercial area with individual rooms designed to look like separate buildings.
+   The Social Quarter is centered on a Mediterranean themed cafe courtyard, with a small Mexican restaurant named Salsa Inferno on the spin-ward side of the courtyard, and an Italian restaurant named La Dolce Vita on the other. Moving away from the courtyard spin-ward is the Amber Lounge, Pulse, and Quarks before moving into Wellness Quarter. Moving the other direction is Lumina, the Holly Theatre, and the Vortex Music Room before moving into the Americana Quarter.
+   The Wellness Quarter is centered on tropical garden themed cafe courtyard, with a Juice Bar caked Nature’s Nectar spin-ward, followed by ZenFlex Fitness, and then Dwayne's Gymnasium before moving into the Social Quarter. Moving the other direction is a restaurant named The Mindful Meal, followed by the Odyssey Medical Center, Modern Warfare, and a number of small micro-climate rooms before moving into the Civic Quarter.
+   The Civic Quarter centered on a ultra-modern urban themed cafe courtyard with The Pancake House on the spin-ward side, and Big Al's on the other side. Moving down the hall from The Pancake House is Kaylin's Laundry Services, Mai's Vietnamese Barbershop, and The Zen Den before moving into the Wellness Quarter. Moving the other direction behind Big Al's is The Maker’s Node, Petopia, Deana's Interior Designs, and The Fun Room before moving into the Americana Quarter.
+   The Americana Quarter is centered on a small town USA themed Cafe Courtyard with an Asian Fusion Restaurant named Jade & Bamboo on the spin-ward side, and Pit Boss BBQ on the other. In the hallway leading past Jade & Bamboo is Nina's Art Studio, the Odyssey Library & Museum, Artistic Designs, Timberlake's Game Room, and Kinky Needs before moving into the Civic Quarter. On the other side past Pit Boss BBQ is Backblast Arms & Armor, KZ Clothiers, Expeditions Unlimited, and the Odyssey Religious Center before moving into the Social Quarter.
+
+1st Quarter: Social Quarter, Entertainment Focused
+	Salsa Inferno - Mexican Restaurant (Synthetic Server)
+	The Amber Lounge - Lounge/Bar/Casino (Synthetic Bartender, Synthetic Dealers)
+	Pulse - Dance Club  (Synthetic Bartender, Synthetic Server)
+	Quarks Holo-Chambers
+	La Dolce Vita - Italian Restaurant (Synthetic Server)
+	Lumina Holo-Theatre (Movies)
+	The Holly Theater (Performance)
+	The Vortex Music Room (Practice)
+
+2nd Quarter: Wellness Quarter, Health & Fitness Focused
+	Nature’s Nectar - Juice and Smoothie Bar (Synthetic Server)
+	ZenFlex Fitness - Weight Room & Fitness Center (Synthetic Personal Trainer)
+	Dwayne's Gymnasium
+	The Mindful Meal - Fast-Casual Healthy Cafe (Synthetic Server)
+	Odyssey Medical Center (Synthetic Nurse)
+	Modern Warfare - Sim Center
+	"Micro-Climate" Solarium
+
+3rd Quarter: Civic Quarter, Services Focused
+	The Pancake House - Breakfast Restaurant (Synthetic Server)
+	Kaylin's Laundry Services (Synthetic Launderer)
+	Mai's Vietnamese Barbershop (Synthetic Barber)
+	The Zen Den - Spa & Massage (Synthetic Attendant)
+	Big Al's - Steak & Seafood Restaurant (Synthetic Server)
+	The Maker’s Node - Fabrication Lab
+	Petopia (Synthetic Pets)
+	Deana's Interior Designs (Synthetic Interior Designer)
+	The Fun Room - BDSM Club
+
+4th Quarter: Americana Quarter, Mixed Focus
+	Jade & Bamboo - Chinese/Japanese Asian Fusion Restaurant (Synthetic Server)
+	Nina's Art Studio
+	Odyssey	Library & Museum
+	Artistic Designs (Synthetic Clerk)
+	Timberlake's Game Room
+	Kinky Needs Adult Shop (Synthetic Clerk)
+	Pit Boss BBQ - Burgers & BBQ Restaurant (Synthetic Server)
+	Backblast Arms & Armor (Synthetic Clerk)
+	KZ Clothiers (Synthetic Clerk)
+	Expeditions Unlimited (Synthetic Clerk)
+	Odyssey Religious Center
+
+Deck 2, Officers Quarters
+   Deck 2 of the habitat ring features the same cafe courtyard with turbo-lift access as Deck 1, but instead of creating the illusion of an outdoor setting, these small courtyards look more like the lobby of a high-end hotel. While each of the four areas is styled differently, they share certain design elements such as a food fabrication station, comfortable seating, artwork on the walls, and rich colors. Between each of these courtyards is a long 2m wide hallway with doors to the rooms of the individual rooms & public bathrooms until reaching an open lounge style sitting area midway between courtyards. These open lounge style areas are communal spaces where people can socialize, play games, or even relax a bit like a large public living room. All of the individual rooms on this deck have a single bed and are designed for either an individual or a couple, and can be compared to a 3-4 star hotel in style and amenities. Deck 2 is where the entire normal operations crew of the UNSS Odyssey lives, as do the Synthetic Humanoid Companions. Up to 70 people plus 30 synthetics can live comfortably on this deck.
+
+Deck 3, Crew Quarters
+   Deck 3 of the habitat ring features the same indoor courtyard with turbo-lift access as Deck 2, but instead of looking like the lobby of a high-end hotel, these courtyards look more like those of an office building or mall. While these courtyards are almost identical in overall layout to those on Deck 2, the overall quality of furnishings & artwork are lower, being designed for much more durability than those on deck 2. In between sections of 2m wide hallway, deck 3 also features open style lounge areas, but with simpler & more durable design than those of deck 2. Most of the rooms on this deck have either 2 individual beds or a pair of bunk beds, and can be compared to a 2-3 star hotel in style and amenities. Up to 180 people can live comfortably on this deck.
+
+Cafe Courtyards
+   Each Cafe Courtyard measures approximately 10m x 15m with a large central turbo-lift enclosure in the center. On levels 2 & 3 the turbo-lift enclosure has food fabricator stations built into the left & right flanks. Filling a large portion of the room, with the exception of walking paths and the turbo-lift enclosure, are a large number of comfortable 2 person tables, with total seating for around 30-40 people at a single time. On deck 1 the Cafe Courtyard is flanked on either side with small restaurants with additional seating for multiple people, but on decks 2 & 3 the courtyard is flanked by interior walls that divide the courtyard interior from the hallway leading to individual rooms. Within each cafe courtyard on decks 2 & 3 these interior walls are what really help define that courtyard, with one courtyard having an indoor wall fountain and another a wall of ivy.
+
+Lounge Sitting Areas
+   Each Lounge Sitting Area measures approximately 10m x 15m and features a large number of comfortable sitting areas, a game table, a large screen Trid TV, and a centrally located holo-table with a game station for playing multi-player competitive holo-games like 'Mech Battle 4' or 'Deadly Arena 6'. There is enough seating for up to around 80 people to sit casually or around 110 people sitting close together.
+
+Rooms
+   On Deck 2 all rooms have individual bathrooms and available space for personalization. These rooms are also coated with smart materials which allow the texture and color of almost everything within the room to be customized by the occupant. This can be done via computer terminal, AR glasses, or cybernetic implants and allows the occupant to choose from among many overall aesthetic styles or on a piece-by-piece basis.
+   On Deck 3 the rooms are also coated with smart materials which allow the texture and color of almost everything within the room to be customized, but the customization can only be done by an authorized interior designer with the express permission of all occupants, and only from among pre-programmed aesthetic styles.
+
+Room Type	Size		Beds					Amenities
+4-Person Room	3.25m x 6.25m	x4 Bunk-bed Cubicles (1.4m x 2.75m)	x4 closets, x1 four-person table & chairs
+2-Person Room	3.25m x 4.75m	x2 Bed Cubicles (1.4m x 2.75m)		x2 closets, bed cubicles can convert to seating
+1-Person Room	3.25x x 3.75m	x1 Bed Cubicle (1.4m x 2.75m)		x1 closet, x1 Desk with chair, x1 sofa, 1m x 1.4m personalization space
+Officers Room	3.25m x 8m	x1 Large Bed (2m x 2.3m)		x1 closet, x2 bedside tables, x1 large desk with chair, x1 sofa, small bathroom, 0.6m x 4.6m personalization space
+Command Room	3.25m x 9m	x1 Large Bed (2.8m x 2.8m)		Suite with separate Bedroom, Sitting Room, and Bathroom
+Public Bath	3.25m x ?	None, exact room dimensions vary	multiple sinks with mirrors, multiple toilet stalls, multiple water showers, tile floors
+
+
