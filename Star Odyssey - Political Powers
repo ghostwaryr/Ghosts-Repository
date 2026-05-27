@@ -1,0 +1,41 @@
+POLITICAL BLOCKS
+
+Block					Dominant Megacorp
+North American Block (USA)		OmniCorp (Omni Consumer Products)
+European Block (Germany)		Eurocorp Corporation		
+South Asian Block (India)		VayuCorp Corporation
+East Asian Block (China)		Stellaris Corporation
+Central Asian Block (Russia)		Novatek Corporation
+African Block (South Africa, Gabon)	AMAC Corporation
+
+
+MEGA-CORPORATIONS
+
+Short Name	Abbreviation		Full Name				Specialty
+OmniCorp	OCP 			Omni Consumer Products			Military (Weapons & Armor)
+StellarCorp	S-M 			Stellaris Manufacturing			Robotics
+VayuCorp	VSTAR 			Vayu Interstellar			Computers
+Eurocorp	EUTC			European Trading Corp			Cybertechnology
+Novatek		NVT  			Nova Technologies			Heavy Industry
+AfraCorp	AMAC 			Africa Mega Agri Corp			BioTech
+ZurBank		ZGB 			Zurich Gemeinschaftsbank Finance-10
+
+MEAGACORP RATINGS
+
+Corporate Assets	OmniCorp	Eurocorp	VayuCorp	Stellaris	Novatek		AMAC	
+Aerospace		10		8		6		7		6		5
+Agriculture		6		4		4		6		6		9
+Biotech			4		6		5		6		8		10
+Chemicals		6		5		8		7		9		5
+Computer Engineering	5		6		9		8		7		5
+Computer Science	7		7		10		9		6		6
+Consumer Goods		8		7		8		8		5		6
+Cybernetics		7		10		7		8		6		5
+Energy			9		6		5		7		10		8							
+Entertainment		8		6		7		5		4		5
+Finance			8		9		6		7		5		6
+Heavy Industry		7		8		7		9		10		6
+Military Technology	10		8		5		6		6		4
+Robotics		7		9		8		10		5		6
+Services		8		9		7		6		4		9
+			110		106		102		109		97		95
